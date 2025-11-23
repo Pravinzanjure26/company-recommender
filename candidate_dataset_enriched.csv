@@ -1,0 +1,1001 @@
+Candidate ID,Candidate Name,Gender,Age,Location,Email,name,domain,skills,experience,education,projects
+CAND2025001,Prisha Sharma,Female,30,Hyderabad,prishasharma@gmail.com,Candidate 1,Blockchain Developer,"Express, Power BI, HTML, Selenium, Node.js, Python",3.9 years,M.Tech AI,"Resume Analyzer, Blockchain Wallet"
+CAND2025002,Aditya Khan,Male,34,Delhi,adityakhan@gmail.com,Candidate 2,Data Analyst,"Spring Boot, Docker, Android Studio, Kubernetes",3.7 years,B.Sc IT,"Blockchain Wallet, Ecommerce API"
+CAND2025003,Rohan Patel,Male,43,Pune,rohanpatel@gmail.com,Candidate 3,Cloud Engineer,"TensorFlow, C++, MongoDB, Power BI, CSS, Android Studio, AWS",2.7 years,B.Tech CSE,Fake News Detection
+CAND2025004,Diya Pawar,Male,40,Pune,diyapawar@gmail.com,Candidate 4,Full Stack Developer,"API Development, Jira, Docker, C#",4.7 years,B.Sc IT,"ERP System, Fake News Detection"
+CAND2025005,Vihaan Mehta,Male,21,Delhi,vihaanmehta@gmail.com,Candidate 5,Full Stack Developer,"Selenium, Hibernate, TypeScript, MongoDB, React, AWS",4.9 years,BCA,"IoT Smart Home, ERP System"
+CAND2025006,Meera Pawar,Male,26,Bengaluru,meerapawar@gmail.com,Candidate 6,Software Tester,"Selenium, Python, SQL, MongoDB, C++",1.1 years,B.Sc CS,"Job Portal, Mobile Banking UI"
+CAND2025007,Navya Shetty,Female,33,Kolkata,navyashetty@gmail.com,Candidate 7,AI Engineer,"Express, Spring Boot, C#, MongoDB, SQL, NumPy, Android Studio",4.4 years,B.Sc CS,IoT Smart Home
+CAND2025008,Vivaan Patel,Female,23,Delhi,vivaanpatel@gmail.com,Candidate 8,Database Engineer,"Docker, SQL, TensorFlow, C#, Java",0.7 years,BCA,Fake News Detection
+CAND2025009,Ananya Sharma,Female,37,Mumbai,ananyasharma@gmail.com,Candidate 9,Java Developer,"NumPy, Express, Selenium, HTML, Spring Boot, Docker",4.2 years,M.Tech AI,Blockchain Wallet
+CAND2025010,Reyansh Shaikh,Female,28,Delhi,reyanshshaikh@gmail.com,Candidate 10,Web Developer,"CSS, Node.js, AWS, Jira, React",1.3 years,B.Tech CS,Ecommerce API
+CAND2025011,Prisha Yadav,Male,30,Mumbai,prishayadav@gmail.com,Candidate 11,Cloud Engineer,"Jira, AWS, React, Java",3.2 years,B.Tech IT,Job Portal
+CAND2025012,Diya Shaikh,Male,32,Chennai,diyashaikh@gmail.com,Candidate 12,Blockchain Developer,"SQL, Git, TypeScript, Hibernate, Python",2.8 years,B.Sc IT,"Ecommerce API, Weather App"
+CAND2025013,Ananya Joshi,Female,35,Chennai,ananyajoshi@gmail.com,Candidate 13,Backend Developer,"HTML, Firebase, Selenium, Docker, C++",2.4 years,B.Sc IT,Weather App
+CAND2025014,Reyansh Chatterjee,Female,25,Bengaluru,reyanshchatterjee@gmail.com,Candidate 14,Full Stack Developer,"Express, Java, React, TensorFlow",1.9 years,MCA,"ChatGPT Clone, Blockchain Wallet"
+CAND2025015,Myra Khan,Male,31,Pune,myrakhan@gmail.com,Candidate 15,Web Developer,"Git, Node.js, Hibernate, Jira, NumPy",3.4 years,BCA,"Mobile Banking UI, IoT Smart Home"
+CAND2025016,Meera Sharma,Male,33,Delhi,meerasharma@gmail.com,Candidate 16,DevOps Engineer,"Express, React, Docker, Power BI, AWS, Kotlin, Java",3.3 years,B.Tech CS,Portfolio Website
+CAND2025017,Saanvi Khan,Male,45,Delhi,saanvikhan@gmail.com,Candidate 17,Cloud Engineer,"Android Studio, Spring Boot, AWS, TypeScript, Jira, C++, Git",0.5 years,B.Sc IT,Ecommerce API
+CAND2025018,Sai Kulkarni,Female,21,Kolkata,saikulkarni@gmail.com,Candidate 18,Mobile App Developer,"Python, AWS, Pandas, SQL, CSS",2.8 years,M.Tech AI,Fake News Detection
+CAND2025019,Reyansh Joshi,Male,35,Kolkata,reyanshjoshi@gmail.com,Candidate 19,Frontend Developer,"Kotlin, React, TensorFlow, API Development, Selenium, Jira",4.0 years,B.Sc IT,"ERP System, Weather App"
+CAND2025020,Ishaan Chatterjee,Female,31,Bengaluru,ishaanchatterjee@gmail.com,Candidate 20,Cloud Engineer,"Power BI, Git, TypeScript, CSS, Android Studio, C#",4.9 years,B.Sc CS,"ChatGPT Clone, Blockchain Wallet"
+CAND2025021,Myra Desai,Female,39,Pune,myradesai@gmail.com,Candidate 21,Java Developer,"C#, C++, CSS, Python, Selenium",3.0 years,B.Tech CE,Job Portal
+CAND2025022,Ira Chatterjee,Male,34,Hyderabad,irachatterjee@gmail.com,Candidate 22,Software Tester,"SQL, API Development, Jira, CSS, TypeScript",1.9 years,B.Tech IT,IoT Smart Home
+CAND2025023,Diya Khan,Female,24,Bengaluru,diyakhan@gmail.com,Candidate 23,DevOps Engineer,"Python, MongoDB, Kotlin, React, C#",1.3 years,B.Tech CSE,Portfolio Website
+CAND2025024,Aditya Chatterjee,Female,22,Hyderabad,adityachatterjee@gmail.com,Candidate 24,Full Stack Developer,"Power BI, API Development, C#, Node.js, Selenium",1.1 years,B.Tech CSE,"Fake News Detection, ERP System"
+CAND2025025,Vivaan Shetty,Female,44,Bengaluru,vivaanshetty@gmail.com,Candidate 25,Full Stack Developer,"Hibernate, SQL, NumPy, Pandas, React, Kubernetes",4.1 years,B.Tech IT,"Weather App, ChatGPT Clone"
+CAND2025026,Navya Nair,Male,45,Hyderabad,navyanair@gmail.com,Candidate 26,Frontend Developer,"CSS, Android Studio, AWS, MongoDB, Kubernetes",4.0 years,B.Tech CE,Portfolio Website
+CAND2025027,Reyansh Patel,Female,23,Delhi,reyanshpatel@gmail.com,Candidate 27,AI Engineer,"Express, React, AWS, Kubernetes, Python",0.9 years,B.Sc IT,ERP System
+CAND2025028,Krishna Shetty,Male,42,Delhi,krishnashetty@gmail.com,Candidate 28,DevOps Engineer,"NumPy, Pandas, API Development, C#, Firebase",1.2 years,B.Tech CS,"Ecommerce API, Resume Analyzer"
+CAND2025029,Saanvi Joshi,Female,37,Mumbai,saanvijoshi@gmail.com,Candidate 29,Database Engineer,"TypeScript, Android Studio, Spring Boot, Power BI, Python",3.2 years,MCA,HR Dashboard
+CAND2025030,Diya Joshi,Female,23,Pune,diyajoshi@gmail.com,Candidate 30,Android Developer,"Express, Kubernetes, API Development, TensorFlow, React, Node.js",3.9 years,B.Tech CE,"Mobile Banking UI, Portfolio Website"
+CAND2025031,Aadhya Singh,Female,37,Chennai,aadhyasingh@gmail.com,Candidate 31,Cloud Engineer,"React, Python, Express, Firebase, Selenium, Docker",1.4 years,BCA,"Stock Predictor, Ecommerce API"
+CAND2025032,Aarav Pawar,Male,40,Mumbai,aaravpawar@gmail.com,Candidate 32,Mobile App Developer,"Spring Boot, SQL, Hibernate, TensorFlow, CSS, Kubernetes",2.9 years,B.Sc CS,Fake News Detection
+CAND2025033,Rohan Patel,Male,45,Mumbai,rohanpatel@gmail.com,Candidate 33,Database Engineer,"Pandas, HTML, Java, Jira",4.7 years,BCA,Resume Analyzer
+CAND2025034,Aadhya Pandey,Male,31,Hyderabad,aadhyapandey@gmail.com,Candidate 34,Android Developer,"Firebase, API Development, Kubernetes, Python, Docker",2.2 years,B.Sc CS,Ecommerce API
+CAND2025035,Meera Sharma,Male,42,Pune,meerasharma@gmail.com,Candidate 35,Java Developer,"Android Studio, Selenium, Java, TypeScript, React",2.7 years,MCA,Weather App
+CAND2025036,Ira Patel,Male,36,Delhi,irapatel@gmail.com,Candidate 36,Backend Developer,"CSS, Docker, SQL, TensorFlow, C++, API Development, NumPy",3.0 years,B.Tech CSE,"IoT Smart Home, Fake News Detection"
+CAND2025037,Prisha Chatterjee,Male,24,Mumbai,prishachatterjee@gmail.com,Candidate 37,DevOps Engineer,"C++, Pandas, Jira, API Development, CSS, Java",3.0 years,B.Tech IT,Weather App
+CAND2025038,Diya Sharma,Female,20,Chennai,diyasharma@gmail.com,Candidate 38,Database Engineer,"Node.js, Firebase, AWS, Pandas, TypeScript",2.6 years,B.Sc IT,Job Portal
+CAND2025039,Myra Reddy,Male,37,Chennai,myrareddy@gmail.com,Candidate 39,AI Engineer,"Firebase, CSS, NumPy, Node.js, Kubernetes, Hibernate, HTML",4.6 years,B.Tech CS,ChatGPT Clone
+CAND2025040,Aarav Kulkarni,Male,22,Bengaluru,aaravkulkarni@gmail.com,Candidate 40,Cloud Engineer,"Power BI, C++, Git, C#, Selenium, Pandas",1.4 years,BCA,"ChatGPT Clone, ERP System"
+CAND2025041,Myra Shetty,Female,21,Delhi,myrashetty@gmail.com,Candidate 41,Cloud Engineer,"Java, React, HTML, Spring Boot, API Development",2.0 years,B.Tech CE,ChatGPT Clone
+CAND2025042,Krishna Pawar,Male,26,Bengaluru,krishnapawar@gmail.com,Candidate 42,Web Developer,"TypeScript, Kotlin, Java, Git, Selenium, Android Studio, Pandas",1.2 years,B.Tech CS,IoT Smart Home
+CAND2025043,Krishna Singh,Male,20,Mumbai,krishnasingh@gmail.com,Candidate 43,Full Stack Developer,"Android Studio, Spring Boot, Docker, AWS",2.7 years,B.Tech CSE,ChatGPT Clone
+CAND2025044,Saanvi Pawar,Male,45,Hyderabad,saanvipawar@gmail.com,Candidate 44,Android Developer,"Git, TensorFlow, Hibernate, Express",3.1 years,B.Tech CE,Ecommerce API
+CAND2025045,Navya Reddy,Male,33,Chennai,navyareddy@gmail.com,Candidate 45,Full Stack Developer,"Power BI, TensorFlow, Firebase, AWS, C++",0.7 years,B.Sc CS,"ERP System, IoT Smart Home"
+CAND2025046,Saanvi Desai,Male,21,Mumbai,saanvidesai@gmail.com,Candidate 46,Android Developer,"TensorFlow, Kotlin, Docker, Java, MongoDB, Node.js, Pandas",2.2 years,B.Tech IT,"IoT Smart Home, Stock Predictor"
+CAND2025047,Meera Khan,Male,31,Bengaluru,meerakhan@gmail.com,Candidate 47,Software Tester,"MongoDB, Git, HTML, AWS, Selenium, CSS, Firebase",2.1 years,B.Tech CSE,HR Dashboard
+CAND2025048,Sara Yadav,Female,43,Delhi,sarayadav@gmail.com,Candidate 48,AI Engineer,"Jira, Selenium, TypeScript, Android Studio, C++, SQL",1.1 years,B.Sc IT,ChatGPT Clone
+CAND2025049,Reyansh Pawar,Male,43,Bengaluru,reyanshpawar@gmail.com,Candidate 49,Cloud Engineer,"Spring Boot, Express, Node.js, Hibernate, SQL, Python, MongoDB",2.1 years,B.Tech CSE,Mobile Banking UI
+CAND2025050,Ira Verma,Male,35,Bengaluru,iraverma@gmail.com,Candidate 50,Full Stack Developer,"Git, SQL, MongoDB, Power BI, React, API Development, Kubernetes",1.7 years,B.Tech IT,Portfolio Website
+CAND2025051,Sara Pawar,Male,24,Delhi,sarapawar@gmail.com,Candidate 51,Java Developer,"Kotlin, React, Firebase, Java",3.7 years,B.Tech IT,"Job Portal, HR Dashboard"
+CAND2025052,Arjun Patel,Male,28,Mumbai,arjunpatel@gmail.com,Candidate 52,Software Tester,"Spring Boot, Java, React, Power BI, TensorFlow",0.7 years,B.Tech CE,"ChatGPT Clone, Weather App"
+CAND2025053,Aditya Joshi,Female,37,Hyderabad,adityajoshi@gmail.com,Candidate 53,Cloud Engineer,"C#, Hibernate, Express, C++, MongoDB, SQL",1.0 years,BCA,"ERP System, Weather App"
+CAND2025054,Arjun Joshi,Female,23,Pune,arjunjoshi@gmail.com,Candidate 54,Java Developer,"NumPy, API Development, C++, Firebase, Docker, Python, Selenium",2.2 years,MCA,Blockchain Wallet
+CAND2025055,Vivaan Sharma,Male,28,Kolkata,vivaansharma@gmail.com,Candidate 55,Machine Learning Engineer,"Node.js, Hibernate, C++, Selenium, C#, Java",1.2 years,B.Sc CS,"Mobile Banking UI, Ecommerce API"
+CAND2025056,Sara Shaikh,Female,29,Bengaluru,sarashaikh@gmail.com,Candidate 56,AI Engineer,"Kotlin, Node.js, MongoDB, Power BI",2.2 years,MCA,IoT Smart Home
+CAND2025057,Saanvi Reddy,Female,26,Chennai,saanvireddy@gmail.com,Candidate 57,Software Tester,"Jira, Selenium, C#, MongoDB, Android Studio",5.0 years,B.Tech CE,"HR Dashboard, Weather App"
+CAND2025058,Krishna Sharma,Male,45,Bengaluru,krishnasharma@gmail.com,Candidate 58,Machine Learning Engineer,"Spring Boot, API Development, SQL, AWS, Power BI, NumPy",0.7 years,B.Sc IT,Fake News Detection
+CAND2025059,Ishaan Iyer,Female,21,Bengaluru,ishaaniyer@gmail.com,Candidate 59,AI Engineer,"API Development, Firebase, NumPy, Pandas, Git",1.0 years,B.Sc IT,Fake News Detection
+CAND2025060,Prisha Singh,Male,32,Pune,prishasingh@gmail.com,Candidate 60,Backend Developer,"Docker, Java, C#, TensorFlow, Selenium, HTML, API Development",2.7 years,BCA,Resume Analyzer
+CAND2025061,Aditya Iyer,Female,28,Delhi,adityaiyer@gmail.com,Candidate 61,Full Stack Developer,"Docker, Hibernate, MongoDB, TensorFlow, CSS",2.7 years,B.Tech CE,Portfolio Website
+CAND2025062,Reyansh Pandey,Female,35,Mumbai,reyanshpandey@gmail.com,Candidate 62,Software Tester,"C#, MongoDB, Pandas, Node.js, Kubernetes",1.7 years,B.Tech CSE,"HR Dashboard, IoT Smart Home"
+CAND2025063,Krishna Nair,Female,44,Chennai,krishnanair@gmail.com,Candidate 63,Full Stack Developer,"AWS, Kotlin, Power BI, Spring Boot, SQL, Kubernetes",3.0 years,M.Tech AI,Mobile Banking UI
+CAND2025064,Prisha Gowda,Male,20,Chennai,prishagowda@gmail.com,Candidate 64,Cloud Engineer,"C++, Docker, Kotlin, Pandas, Jira",3.1 years,B.Tech CE,"Ecommerce API, Portfolio Website"
+CAND2025065,Saanvi Joshi,Male,39,Pune,saanvijoshi@gmail.com,Candidate 65,Full Stack Developer,"Spring Boot, C#, Pandas, Node.js, Hibernate, Kotlin",1.7 years,B.Tech IT,HR Dashboard
+CAND2025066,Vihaan Shaikh,Male,38,Pune,vihaanshaikh@gmail.com,Candidate 66,Mobile App Developer,"Hibernate, API Development, Spring Boot, CSS, React, Kubernetes",3.3 years,B.Tech CS,"Blockchain Wallet, Weather App"
+CAND2025067,Meera Chatterjee,Male,20,Chennai,meerachatterjee@gmail.com,Candidate 67,Machine Learning Engineer,"Selenium, React, Jira, TypeScript, Docker, Power BI",1.1 years,M.Tech AI,ChatGPT Clone
+CAND2025068,Prisha Sharma,Female,29,Mumbai,prishasharma@gmail.com,Candidate 68,DevOps Engineer,"API Development, Jira, Power BI, Docker, TypeScript, Android Studio",2.3 years,MCA,"ERP System, ChatGPT Clone"
+CAND2025069,Saanvi Reddy,Female,35,Mumbai,saanvireddy@gmail.com,Candidate 69,Database Engineer,"AWS, Pandas, Kotlin, Hibernate",2.3 years,B.Tech IT,"Blockchain Wallet, Ecommerce API"
+CAND2025070,Ira Pandey,Female,34,Pune,irapandey@gmail.com,Candidate 70,Web Developer,"Power BI, Pandas, AWS, Express",4.5 years,B.Sc IT,"Stock Predictor, ChatGPT Clone"
+CAND2025071,Prisha Shaikh,Male,36,Hyderabad,prishashaikh@gmail.com,Candidate 71,Software Tester,"Node.js, TensorFlow, React, Android Studio, Kotlin",3.6 years,BCA,"Job Portal, Resume Analyzer"
+CAND2025072,Diya Joshi,Male,34,Chennai,diyajoshi@gmail.com,Candidate 72,Data Analyst,"Hibernate, Jira, SQL, AWS, Android Studio, HTML",2.2 years,B.Sc IT,Job Portal
+CAND2025073,Aadhya Mehta,Female,35,Chennai,aadhyamehta@gmail.com,Candidate 73,Backend Developer,"C++, API Development, React, Power BI, Jira",3.5 years,M.Tech AI,"Mobile Banking UI, Ecommerce API"
+CAND2025074,Ishaan Singh,Female,32,Chennai,ishaansingh@gmail.com,Candidate 74,Web Developer,"Firebase, API Development, Python, Docker, Spring Boot, HTML, Android Studio",4.2 years,B.Sc CS,"Stock Predictor, ChatGPT Clone"
+CAND2025075,Ishaan Jadhav,Male,24,Mumbai,ishaanjadhav@gmail.com,Candidate 75,Data Analyst,"MongoDB, HTML, Git, SQL, Docker, Firebase",1.5 years,B.Tech CSE,Weather App
+CAND2025076,Saanvi Khan,Female,34,Mumbai,saanvikhan@gmail.com,Candidate 76,Software Tester,"MongoDB, Power BI, Python, Java, C++",2.2 years,B.Tech CSE,Blockchain Wallet
+CAND2025077,Vivaan Kulkarni,Female,27,Hyderabad,vivaankulkarni@gmail.com,Candidate 77,Software Tester,"Kotlin, TypeScript, Selenium, Express, Node.js, C++",2.7 years,B.Tech IT,"Ecommerce API, ERP System"
+CAND2025078,Ishaan Pawar,Male,32,Kolkata,ishaanpawar@gmail.com,Candidate 78,DevOps Engineer,"AWS, Git, Docker, CSS, Selenium, Firebase, Jira",4.9 years,B.Tech CE,"Job Portal, Ecommerce API"
+CAND2025079,Ira Joshi,Female,44,Bengaluru,irajoshi@gmail.com,Candidate 79,Java Developer,"Node.js, TensorFlow, Jira, TypeScript, CSS, Kotlin",0.8 years,B.Tech IT,"Ecommerce API, HR Dashboard"
+CAND2025080,Saanvi Yadav,Female,37,Delhi,saanviyadav@gmail.com,Candidate 80,AI Engineer,"Selenium, Express, Pandas, Spring Boot, SQL, Android Studio",3.1 years,B.Sc CS,IoT Smart Home
+CAND2025081,Prisha Chatterjee,Female,45,Kolkata,prishachatterjee@gmail.com,Candidate 81,Full Stack Developer,"React, Jira, Kubernetes, Node.js",3.2 years,B.Tech CSE,Job Portal
+CAND2025082,Ira Patel,Female,25,Delhi,irapatel@gmail.com,Candidate 82,Frontend Developer,"Android Studio, Kubernetes, Python, Hibernate, TypeScript",3.7 years,B.Tech CS,Resume Analyzer
+CAND2025083,Vihaan Jadhav,Female,27,Delhi,vihaanjadhav@gmail.com,Candidate 83,Backend Developer,"Firebase, Node.js, Android Studio, HTML, C#",2.3 years,M.Tech AI,"Resume Analyzer, Mobile Banking UI"
+CAND2025084,Ishaan Pawar,Male,36,Chennai,ishaanpawar@gmail.com,Candidate 84,Full Stack Developer,"Selenium, Firebase, Pandas, Android Studio",1.6 years,B.Tech CSE,Mobile Banking UI
+CAND2025085,Sara Jadhav,Female,20,Hyderabad,sarajadhav@gmail.com,Candidate 85,Software Tester,"Git, NumPy, Kubernetes, Jira, Node.js, CSS",5.0 years,B.Tech CSE,"ChatGPT Clone, IoT Smart Home"
+CAND2025086,Prisha Patel,Female,34,Bengaluru,prishapatel@gmail.com,Candidate 86,Machine Learning Engineer,"Pandas, Kotlin, Node.js, MongoDB, Android Studio",0.9 years,BCA,"ChatGPT Clone, ERP System"
+CAND2025087,Saanvi Khan,Female,30,Mumbai,saanvikhan@gmail.com,Candidate 87,Cloud Engineer,"AWS, Pandas, Node.js, Selenium, Jira",4.6 years,B.Sc CS,"Portfolio Website, IoT Smart Home"
+CAND2025088,Aditya Verma,Male,21,Chennai,adityaverma@gmail.com,Candidate 88,Java Developer,"CSS, Kotlin, Hibernate, HTML, TypeScript",2.3 years,B.Tech CSE,Ecommerce API
+CAND2025089,Arjun Gowda,Female,24,Chennai,arjungowda@gmail.com,Candidate 89,Data Analyst,"Python, Java, Android Studio, React, Jira",1.5 years,M.Tech AI,Mobile Banking UI
+CAND2025090,Ira Khan,Female,25,Bengaluru,irakhan@gmail.com,Candidate 90,Software Tester,"HTML, SQL, Firebase, Hibernate, C++, Python",4.7 years,B.Tech IT,"Blockchain Wallet, HR Dashboard"
+CAND2025091,Arjun Khan,Male,25,Kolkata,arjunkhan@gmail.com,Candidate 91,Machine Learning Engineer,"Android Studio, HTML, C++, Kubernetes, C#, Kotlin",3.8 years,B.Tech CS,HR Dashboard
+CAND2025092,Prisha Pawar,Female,25,Pune,prishapawar@gmail.com,Candidate 92,Machine Learning Engineer,"C#, Kotlin, Android Studio, API Development, CSS, SQL",1.7 years,B.Tech IT,Ecommerce API
+CAND2025093,Ira Nair,Female,22,Mumbai,iranair@gmail.com,Candidate 93,Software Tester,"API Development, Kotlin, MongoDB, Git, HTML",3.3 years,MCA,"HR Dashboard, Fake News Detection"
+CAND2025094,Myra Gowda,Female,36,Hyderabad,myragowda@gmail.com,Candidate 94,Data Analyst,"React, Spring Boot, Power BI, Jira, Kotlin",3.9 years,B.Sc CS,"HR Dashboard, Ecommerce API"
+CAND2025095,Myra Shetty,Male,24,Kolkata,myrashetty@gmail.com,Candidate 95,Machine Learning Engineer,"Power BI, Hibernate, TypeScript, SQL, React, Selenium",4.8 years,MCA,Fake News Detection
+CAND2025096,Saanvi Khan,Female,41,Mumbai,saanvikhan@gmail.com,Candidate 96,Cloud Engineer,"CSS, TensorFlow, C++, API Development",1.3 years,M.Tech AI,Portfolio Website
+CAND2025097,Myra Mehta,Female,33,Bengaluru,myramehta@gmail.com,Candidate 97,Web Developer,"Node.js, NumPy, Kubernetes, Java, SQL",1.1 years,B.Tech CS,HR Dashboard
+CAND2025098,Ishaan Singh,Female,45,Hyderabad,ishaansingh@gmail.com,Candidate 98,Java Developer,"MongoDB, NumPy, C++, Power BI",3.6 years,B.Tech CSE,Portfolio Website
+CAND2025099,Ira Verma,Male,23,Kolkata,iraverma@gmail.com,Candidate 99,Database Engineer,"Docker, Selenium, Firebase, Power BI, Hibernate, SQL, NumPy",3.5 years,B.Tech CE,"Blockchain Wallet, IoT Smart Home"
+CAND2025100,Prisha Pawar,Female,33,Pune,prishapawar@gmail.com,Candidate 100,Frontend Developer,"Firebase, Jira, React, Node.js",3.2 years,B.Sc IT,Mobile Banking UI
+CAND2025101,Aarav Gowda,Female,31,Delhi,aaravgowda@gmail.com,Candidate 101,Database Engineer,"Docker, CSS, Kotlin, NumPy, TypeScript, TensorFlow, Selenium",4.2 years,B.Tech CE,Mobile Banking UI
+CAND2025102,Krishna Jadhav,Male,30,Kolkata,krishnajadhav@gmail.com,Candidate 102,Web Developer,"Power BI, Firebase, React, Python",0.7 years,M.Tech AI,Resume Analyzer
+CAND2025103,Myra Khan,Female,23,Pune,myrakhan@gmail.com,Candidate 103,Java Developer,"Node.js, C++, Java, Firebase, AWS, Pandas",0.7 years,B.Sc IT,Fake News Detection
+CAND2025104,Saanvi Sharma,Male,44,Delhi,saanvisharma@gmail.com,Candidate 104,Database Engineer,"CSS, Spring Boot, Kubernetes, MongoDB, Selenium, Android Studio, TypeScript",2.2 years,B.Tech CS,"Mobile Banking UI, Portfolio Website"
+CAND2025105,Krishna Chatterjee,Male,40,Delhi,krishnachatterjee@gmail.com,Candidate 105,Android Developer,"Firebase, Kubernetes, Hibernate, Express, API Development, Docker, HTML",3.9 years,B.Tech CE,Stock Predictor
+CAND2025106,Sara Patel,Female,42,Mumbai,sarapatel@gmail.com,Candidate 106,Cloud Engineer,"Android Studio, C#, TypeScript, Pandas, HTML",4.4 years,M.Tech AI,"Blockchain Wallet, HR Dashboard"
+CAND2025107,Ishaan Jadhav,Male,39,Pune,ishaanjadhav@gmail.com,Candidate 107,Web Developer,"TensorFlow, Git, MongoDB, Docker, Express, Kubernetes, CSS",0.9 years,MCA,"Job Portal, Mobile Banking UI"
+CAND2025108,Aadhya Sharma,Male,34,Kolkata,aadhyasharma@gmail.com,Candidate 108,Mobile App Developer,"Jira, Power BI, Java, C#, HTML",4.9 years,B.Tech CSE,Mobile Banking UI
+CAND2025109,Saanvi Shaikh,Male,26,Chennai,saanvishaikh@gmail.com,Candidate 109,Android Developer,"C++, Jira, Power BI, Python",4.7 years,B.Tech CE,ERP System
+CAND2025110,Navya Joshi,Female,35,Delhi,navyajoshi@gmail.com,Candidate 110,Database Engineer,"CSS, Node.js, C#, Jira",1.1 years,B.Tech CSE,Blockchain Wallet
+CAND2025111,Aditya Desai,Male,29,Chennai,adityadesai@gmail.com,Candidate 111,Backend Developer,"CSS, Java, Power BI, React, TypeScript, Docker, HTML",0.9 years,B.Tech CS,Job Portal
+CAND2025112,Ananya Gowda,Female,22,Delhi,ananyagowda@gmail.com,Candidate 112,Java Developer,"Docker, Android Studio, SQL, Express, Power BI, Git",3.0 years,B.Tech IT,"Stock Predictor, Blockchain Wallet"
+CAND2025113,Ananya Shetty,Female,36,Pune,ananyashetty@gmail.com,Candidate 113,Full Stack Developer,"HTML, SQL, Git, Docker",0.8 years,B.Tech CE,"HR Dashboard, Weather App"
+CAND2025114,Aarav Patel,Female,34,Chennai,aaravpatel@gmail.com,Candidate 114,Software Tester,"Git, SQL, C#, Kubernetes, Firebase, TensorFlow",4.4 years,BCA,"Resume Analyzer, ChatGPT Clone"
+CAND2025115,Ira Kulkarni,Male,41,Mumbai,irakulkarni@gmail.com,Candidate 115,Full Stack Developer,"MongoDB, Kotlin, Kubernetes, Jira",1.9 years,B.Tech CE,"ChatGPT Clone, HR Dashboard"
+CAND2025116,Myra Chatterjee,Male,21,Bengaluru,myrachatterjee@gmail.com,Candidate 116,Java Developer,"HTML, TensorFlow, Spring Boot, Selenium, TypeScript",1.1 years,B.Sc CS,Stock Predictor
+CAND2025117,Prisha Nair,Female,36,Pune,prishanair@gmail.com,Candidate 117,Full Stack Developer,"C#, Java, Express, Android Studio",1.1 years,BCA,"Stock Predictor, ChatGPT Clone"
+CAND2025118,Krishna Patel,Female,28,Delhi,krishnapatel@gmail.com,Candidate 118,Backend Developer,"Node.js, TensorFlow, C++, Android Studio, CSS, Selenium, React",2.7 years,B.Sc CS,ERP System
+CAND2025119,Vihaan Joshi,Female,39,Kolkata,vihaanjoshi@gmail.com,Candidate 119,Machine Learning Engineer,"Git, Python, Java, HTML",3.0 years,B.Tech CE,Resume Analyzer
+CAND2025120,Myra Jadhav,Male,41,Kolkata,myrajadhav@gmail.com,Candidate 120,Mobile App Developer,"Git, TypeScript, Kotlin, TensorFlow, SQL",3.7 years,MCA,"Portfolio Website, Ecommerce API"
+CAND2025121,Vivaan Gowda,Male,31,Pune,vivaangowda@gmail.com,Candidate 121,AI Engineer,"C#, Node.js, API Development, TensorFlow, NumPy, HTML, CSS",3.4 years,B.Tech CE,"Blockchain Wallet, Ecommerce API"
+CAND2025122,Sara Shetty,Female,23,Mumbai,sarashetty@gmail.com,Candidate 122,Data Analyst,"Jira, Express, HTML, Spring Boot, Docker",4.9 years,B.Tech CS,Ecommerce API
+CAND2025123,Vihaan Singh,Male,32,Bengaluru,vihaansingh@gmail.com,Candidate 123,Cloud Engineer,"Android Studio, Python, TensorFlow, Jira, Express",4.1 years,B.Tech CS,"HR Dashboard, IoT Smart Home"
+CAND2025124,Vihaan Patel,Female,33,Bengaluru,vihaanpatel@gmail.com,Candidate 124,DevOps Engineer,"TypeScript, Docker, Kubernetes, Power BI, MongoDB, Jira",1.7 years,M.Tech AI,"Ecommerce API, IoT Smart Home"
+CAND2025125,Aarav Nair,Male,23,Delhi,aaravnair@gmail.com,Candidate 125,DevOps Engineer,"Kubernetes, TensorFlow, React, CSS",4.7 years,B.Sc CS,"Portfolio Website, Weather App"
+CAND2025126,Ishaan Gowda,Male,28,Mumbai,ishaangowda@gmail.com,Candidate 126,Java Developer,"Hibernate, Python, SQL, Firebase, HTML",4.7 years,B.Sc CS,"Mobile Banking UI, Resume Analyzer"
+CAND2025127,Navya Joshi,Female,42,Chennai,navyajoshi@gmail.com,Candidate 127,Data Analyst,"Kotlin, React, Power BI, Node.js",2.3 years,B.Tech IT,"HR Dashboard, Stock Predictor"
+CAND2025128,Reyansh Mehta,Male,32,Mumbai,reyanshmehta@gmail.com,Candidate 128,Web Developer,"API Development, Power BI, Android Studio, Git, Docker, Jira",1.1 years,B.Tech CE,Ecommerce API
+CAND2025129,Vihaan Mehta,Female,31,Bengaluru,vihaanmehta@gmail.com,Candidate 129,Frontend Developer,"Pandas, React, TensorFlow, API Development, Docker",4.1 years,BCA,"Job Portal, ERP System"
+CAND2025130,Meera Joshi,Female,25,Pune,meerajoshi@gmail.com,Candidate 130,DevOps Engineer,"MongoDB, TensorFlow, Git, HTML",1.5 years,B.Tech IT,"Resume Analyzer, Job Portal"
+CAND2025131,Aarav Desai,Male,31,Pune,aaravdesai@gmail.com,Candidate 131,DevOps Engineer,"CSS, Express, Android Studio, TensorFlow",2.0 years,B.Sc CS,Resume Analyzer
+CAND2025132,Ira Pawar,Male,37,Mumbai,irapawar@gmail.com,Candidate 132,Full Stack Developer,"API Development, React, Hibernate, Python, Docker, Firebase",4.1 years,B.Tech IT,"ChatGPT Clone, ERP System"
+CAND2025133,Diya Kulkarni,Female,44,Hyderabad,diyakulkarni@gmail.com,Candidate 133,Blockchain Developer,"Git, React, CSS, Android Studio, Power BI",4.9 years,B.Sc CS,ERP System
+CAND2025134,Arjun Pawar,Male,32,Pune,arjunpawar@gmail.com,Candidate 134,Frontend Developer,"API Development, TensorFlow, CSS, Java, Hibernate",5.0 years,B.Tech CSE,"Mobile Banking UI, Stock Predictor"
+CAND2025135,Aadhya Pawar,Female,44,Hyderabad,aadhyapawar@gmail.com,Candidate 135,Blockchain Developer,"Hibernate, NumPy, Git, Kubernetes, SQL, TensorFlow, Kotlin",2.5 years,B.Tech CS,Ecommerce API
+CAND2025136,Navya Khan,Male,43,Delhi,navyakhan@gmail.com,Candidate 136,AI Engineer,"Python, TypeScript, API Development, Android Studio, HTML, Pandas, C++",3.5 years,B.Sc IT,"ChatGPT Clone, Portfolio Website"
+CAND2025137,Sara Chatterjee,Female,25,Pune,sarachatterjee@gmail.com,Candidate 137,Machine Learning Engineer,"Express, MongoDB, Power BI, Docker",2.6 years,B.Tech CE,"Stock Predictor, Fake News Detection"
+CAND2025138,Aadhya Yadav,Male,29,Kolkata,aadhyayadav@gmail.com,Candidate 138,Data Analyst,"HTML, TypeScript, Firebase, Selenium",2.2 years,B.Tech IT,Fake News Detection
+CAND2025139,Vivaan Yadav,Male,38,Kolkata,vivaanyadav@gmail.com,Candidate 139,Database Engineer,"Node.js, NumPy, C++, Java, Kubernetes, AWS, Spring Boot",3.5 years,M.Tech AI,"Blockchain Wallet, Weather App"
+CAND2025140,Reyansh Desai,Female,40,Mumbai,reyanshdesai@gmail.com,Candidate 140,Cloud Engineer,"Kotlin, Pandas, Git, HTML, C#",4.8 years,BCA,"Mobile Banking UI, Portfolio Website"
+CAND2025141,Diya Sharma,Male,39,Kolkata,diyasharma@gmail.com,Candidate 141,Java Developer,"TypeScript, Express, Java, C#",4.2 years,B.Tech CS,"Stock Predictor, Ecommerce API"
+CAND2025142,Vihaan Patel,Female,32,Chennai,vihaanpatel@gmail.com,Candidate 142,Software Tester,"Python, NumPy, Kubernetes, Git",4.1 years,B.Tech CSE,ChatGPT Clone
+CAND2025143,Diya Singh,Male,41,Delhi,diyasingh@gmail.com,Candidate 143,Full Stack Developer,"Docker, Kotlin, Pandas, C#, API Development, C++",2.3 years,B.Sc IT,IoT Smart Home
+CAND2025144,Prisha Khan,Male,44,Hyderabad,prishakhan@gmail.com,Candidate 144,Database Engineer,"TypeScript, API Development, Kotlin, Spring Boot, CSS, Git, Node.js",1.2 years,B.Sc IT,Ecommerce API
+CAND2025145,Ira Jadhav,Female,24,Hyderabad,irajadhav@gmail.com,Candidate 145,Data Analyst,"HTML, NumPy, Kubernetes, Kotlin",3.4 years,B.Sc CS,"ERP System, Ecommerce API"
+CAND2025146,Rohan Nair,Male,29,Bengaluru,rohannair@gmail.com,Candidate 146,Software Tester,"TensorFlow, Spring Boot, Git, Python, HTML, MongoDB",1.6 years,B.Tech CS,"Job Portal, ERP System"
+CAND2025147,Aarav Shetty,Male,45,Pune,aaravshetty@gmail.com,Candidate 147,Frontend Developer,"CSS, AWS, Pandas, Spring Boot, Python, Android Studio, Selenium",1.6 years,MCA,"ChatGPT Clone, HR Dashboard"
+CAND2025148,Myra Pawar,Male,20,Mumbai,myrapawar@gmail.com,Candidate 148,Android Developer,"Docker, Firebase, HTML, React, MongoDB, Express",0.8 years,B.Tech CS,"Mobile Banking UI, Job Portal"
+CAND2025149,Sai Iyer,Female,39,Kolkata,saiiyer@gmail.com,Candidate 149,Data Analyst,"Android Studio, Firebase, API Development, Selenium, Kubernetes, Express",0.9 years,B.Tech CE,Weather App
+CAND2025150,Sara Khan,Female,36,Bengaluru,sarakhan@gmail.com,Candidate 150,Java Developer,"HTML, Power BI, React, Jira, Selenium, Docker, AWS",2.3 years,B.Sc CS,ERP System
+CAND2025151,Krishna Yadav,Female,33,Delhi,krishnayadav@gmail.com,Candidate 151,Java Developer,"C++, AWS, Spring Boot, React, NumPy, TypeScript",2.0 years,B.Tech CSE,"Mobile Banking UI, ERP System"
+CAND2025152,Meera Chatterjee,Male,45,Chennai,meerachatterjee@gmail.com,Candidate 152,Android Developer,"Kotlin, SQL, TensorFlow, C++, Python, Selenium, MongoDB",0.9 years,B.Tech IT,ChatGPT Clone
+CAND2025153,Arjun Pandey,Female,31,Chennai,arjunpandey@gmail.com,Candidate 153,Web Developer,"Node.js, Android Studio, Kubernetes, AWS, API Development",2.9 years,MCA,Blockchain Wallet
+CAND2025154,Navya Gowda,Male,33,Pune,navyagowda@gmail.com,Candidate 154,Android Developer,"Spring Boot, Kubernetes, Java, API Development, C++, CSS",1.2 years,B.Tech CS,Ecommerce API
+CAND2025155,Ira Khan,Male,27,Kolkata,irakhan@gmail.com,Candidate 155,Java Developer,"TensorFlow, Node.js, AWS, Power BI",0.7 years,MCA,"Job Portal, Resume Analyzer"
+CAND2025156,Ishaan Iyer,Male,35,Hyderabad,ishaaniyer@gmail.com,Candidate 156,Full Stack Developer,"TypeScript, Kubernetes, MongoDB, C++",1.9 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+CAND2025157,Ira Iyer,Female,41,Delhi,iraiyer@gmail.com,Candidate 157,Database Engineer,"Node.js, Git, TensorFlow, TypeScript",4.8 years,M.Tech AI,Blockchain Wallet
+CAND2025158,Reyansh Pandey,Male,34,Pune,reyanshpandey@gmail.com,Candidate 158,Backend Developer,"Kubernetes, C++, AWS, API Development, Python, C#",4.9 years,B.Sc CS,Stock Predictor
+CAND2025159,Vihaan Joshi,Female,36,Hyderabad,vihaanjoshi@gmail.com,Candidate 159,Cloud Engineer,"Kotlin, Android Studio, Express, TensorFlow, NumPy",0.5 years,B.Tech CS,Stock Predictor
+CAND2025160,Sara Khan,Female,28,Bengaluru,sarakhan@gmail.com,Candidate 160,Backend Developer,"TensorFlow, Firebase, Python, Hibernate, NumPy",3.7 years,BCA,"ERP System, Blockchain Wallet"
+CAND2025161,Aditya Gowda,Female,24,Kolkata,adityagowda@gmail.com,Candidate 161,Frontend Developer,"Python, Java, TypeScript, Hibernate, Express, Kubernetes",4.1 years,B.Tech CS,"Ecommerce API, Fake News Detection"
+CAND2025162,Arjun Sharma,Male,45,Pune,arjunsharma@gmail.com,Candidate 162,Blockchain Developer,"Kotlin, SQL, Pandas, Python, Docker, TypeScript, Jira",0.5 years,MCA,"HR Dashboard, Job Portal"
+CAND2025163,Rohan Patel,Female,24,Bengaluru,rohanpatel@gmail.com,Candidate 163,Database Engineer,"Pandas, Docker, HTML, Kubernetes, Jira, Power BI, Python",4.1 years,B.Tech IT,ChatGPT Clone
+CAND2025164,Sara Patel,Male,43,Bengaluru,sarapatel@gmail.com,Candidate 164,Full Stack Developer,"C++, Pandas, React, Java, AWS, Python",4.3 years,M.Tech AI,"Weather App, HR Dashboard"
+CAND2025165,Aditya Patel,Female,32,Bengaluru,adityapatel@gmail.com,Candidate 165,Software Tester,"React, Firebase, C#, Python, HTML, NumPy, Selenium",2.2 years,B.Tech IT,Weather App
+CAND2025166,Krishna Pawar,Male,26,Mumbai,krishnapawar@gmail.com,Candidate 166,Database Engineer,"API Development, Node.js, Jira, NumPy, Java",3.4 years,B.Tech CSE,"Blockchain Wallet, Weather App"
+CAND2025167,Vivaan Joshi,Female,29,Pune,vivaanjoshi@gmail.com,Candidate 167,Database Engineer,"Firebase, Kubernetes, Spring Boot, Docker, NumPy, Selenium",2.1 years,B.Tech CSE,"IoT Smart Home, HR Dashboard"
+CAND2025168,Krishna Joshi,Female,35,Kolkata,krishnajoshi@gmail.com,Candidate 168,Frontend Developer,"Selenium, Git, Power BI, SQL, Jira, CSS, Java",1.7 years,B.Tech CS,Stock Predictor
+CAND2025169,Krishna Gowda,Male,29,Hyderabad,krishnagowda@gmail.com,Candidate 169,Blockchain Developer,"NumPy, API Development, Android Studio, Git, Selenium",4.3 years,B.Sc IT,"ERP System, Ecommerce API"
+CAND2025170,Arjun Pawar,Female,40,Delhi,arjunpawar@gmail.com,Candidate 170,AI Engineer,"C#, Git, Node.js, Java, Python, Express, Docker",3.6 years,B.Tech CS,"Fake News Detection, Blockchain Wallet"
+CAND2025171,Meera Pawar,Male,45,Chennai,meerapawar@gmail.com,Candidate 171,Blockchain Developer,"API Development, SQL, Android Studio, Java, C++",3.4 years,B.Sc IT,"Stock Predictor, Ecommerce API"
+CAND2025172,Rohan Gowda,Male,40,Pune,rohangowda@gmail.com,Candidate 172,AI Engineer,"NumPy, Node.js, Express, Hibernate",4.9 years,MCA,"Weather App, Job Portal"
+CAND2025173,Myra Patel,Female,41,Mumbai,myrapatel@gmail.com,Candidate 173,AI Engineer,"API Development, Kubernetes, Selenium, Hibernate, SQL, C++",2.9 years,B.Tech CS,"Job Portal, Blockchain Wallet"
+CAND2025174,Reyansh Pandey,Male,26,Kolkata,reyanshpandey@gmail.com,Candidate 174,Software Tester,"Docker, React, Selenium, Pandas, Express",4.7 years,BCA,Fake News Detection
+CAND2025175,Vihaan Gowda,Female,24,Delhi,vihaangowda@gmail.com,Candidate 175,Frontend Developer,"Selenium, MongoDB, Java, Git, Hibernate, Android Studio, C++",2.6 years,M.Tech AI,"ChatGPT Clone, Fake News Detection"
+CAND2025176,Aditya Singh,Male,41,Chennai,adityasingh@gmail.com,Candidate 176,Blockchain Developer,"Java, TensorFlow, Selenium, Pandas, Express, AWS",0.8 years,B.Sc IT,"Portfolio Website, Ecommerce API"
+CAND2025177,Ananya Verma,Female,43,Bengaluru,ananyaverma@gmail.com,Candidate 177,Cloud Engineer,"Hibernate, Pandas, AWS, TypeScript, C#, Java, Power BI",2.8 years,B.Sc CS,"Job Portal, ChatGPT Clone"
+CAND2025178,Rohan Gowda,Female,35,Pune,rohangowda@gmail.com,Candidate 178,Backend Developer,"Spring Boot, CSS, Power BI, Hibernate",3.0 years,B.Sc IT,"Portfolio Website, Fake News Detection"
+CAND2025179,Krishna Mehta,Female,41,Kolkata,krishnamehta@gmail.com,Candidate 179,Android Developer,"Firebase, C++, Jira, Kubernetes, Python, Hibernate",3.1 years,B.Tech IT,"Portfolio Website, Ecommerce API"
+CAND2025180,Sai Shaikh,Female,41,Kolkata,saishaikh@gmail.com,Candidate 180,Blockchain Developer,"Express, API Development, Firebase, React, Hibernate",4.1 years,BCA,Resume Analyzer
+CAND2025181,Sai Yadav,Male,20,Mumbai,saiyadav@gmail.com,Candidate 181,Software Tester,"Docker, React, Android Studio, Git, AWS, Java, Kotlin",2.3 years,B.Tech CSE,Ecommerce API
+CAND2025182,Sai Pandey,Male,25,Delhi,saipandey@gmail.com,Candidate 182,Machine Learning Engineer,"Selenium, Pandas, NumPy, SQL, AWS",4.5 years,B.Tech CSE,HR Dashboard
+CAND2025183,Reyansh Khan,Male,22,Delhi,reyanshkhan@gmail.com,Candidate 183,Software Tester,"C#, Node.js, Pandas, Docker, AWS",4.1 years,B.Sc CS,"ERP System, Blockchain Wallet"
+CAND2025184,Ishaan Joshi,Male,24,Pune,ishaanjoshi@gmail.com,Candidate 184,Web Developer,"Express, Kotlin, NumPy, MongoDB, C++",4.9 years,B.Tech CS,"ChatGPT Clone, ERP System"
+CAND2025185,Ira Shaikh,Male,35,Pune,irashaikh@gmail.com,Candidate 185,Cloud Engineer,"Power BI, React, Jira, Kotlin",1.4 years,BCA,"Ecommerce API, Job Portal"
+CAND2025186,Ira Singh,Female,38,Hyderabad,irasingh@gmail.com,Candidate 186,Machine Learning Engineer,"Hibernate, React, Express, TensorFlow, Kubernetes",2.2 years,MCA,Portfolio Website
+CAND2025187,Aadhya Kulkarni,Male,33,Delhi,aadhyakulkarni@gmail.com,Candidate 187,Frontend Developer,"MongoDB, C++, Kotlin, Jira, Node.js, CSS",2.0 years,M.Tech AI,Stock Predictor
+CAND2025188,Ira Patel,Male,28,Hyderabad,irapatel@gmail.com,Candidate 188,Software Tester,"API Development, TensorFlow, C++, Node.js, React, Hibernate, C#",0.7 years,B.Sc CS,Resume Analyzer
+CAND2025189,Aditya Joshi,Female,28,Delhi,adityajoshi@gmail.com,Candidate 189,Backend Developer,"MongoDB, Android Studio, CSS, Spring Boot, Express, TypeScript, Node.js",0.7 years,BCA,"ERP System, Mobile Banking UI"
+CAND2025190,Meera Khan,Female,37,Hyderabad,meerakhan@gmail.com,Candidate 190,Mobile App Developer,"SQL, Node.js, Jira, Hibernate",4.5 years,MCA,Weather App
+CAND2025191,Aditya Khan,Male,30,Hyderabad,adityakhan@gmail.com,Candidate 191,Cloud Engineer,"TensorFlow, Jira, Git, Android Studio, Selenium, NumPy, HTML",3.7 years,B.Tech CE,Blockchain Wallet
+CAND2025192,Ishaan Sharma,Female,24,Kolkata,ishaansharma@gmail.com,Candidate 192,Cloud Engineer,"Selenium, Hibernate, Android Studio, SQL, Python, Firebase, NumPy",4.3 years,B.Tech IT,Ecommerce API
+CAND2025193,Meera Reddy,Male,22,Pune,meerareddy@gmail.com,Candidate 193,Backend Developer,"MongoDB, HTML, Kubernetes, C#, Spring Boot, TensorFlow, Firebase",2.1 years,B.Tech CE,"Ecommerce API, HR Dashboard"
+CAND2025194,Vihaan Pawar,Male,33,Bengaluru,vihaanpawar@gmail.com,Candidate 194,Web Developer,"AWS, API Development, HTML, Kubernetes, Express",4.1 years,B.Tech IT,Mobile Banking UI
+CAND2025195,Myra Pawar,Female,34,Delhi,myrapawar@gmail.com,Candidate 195,Database Engineer,"C#, Pandas, SQL, Docker",4.8 years,B.Tech CE,Fake News Detection
+CAND2025196,Arjun Khan,Female,45,Mumbai,arjunkhan@gmail.com,Candidate 196,Software Tester,"Git, MongoDB, TypeScript, Hibernate",3.2 years,B.Tech CS,"Resume Analyzer, Ecommerce API"
+CAND2025197,Reyansh Khan,Male,34,Pune,reyanshkhan@gmail.com,Candidate 197,Data Analyst,"NumPy, SQL, Node.js, Hibernate, Selenium",2.3 years,M.Tech AI,Portfolio Website
+CAND2025198,Aadhya Joshi,Male,39,Bengaluru,aadhyajoshi@gmail.com,Candidate 198,Machine Learning Engineer,"Python, Express, Power BI, Java, Kubernetes, Pandas",2.4 years,M.Tech AI,Blockchain Wallet
+CAND2025199,Vihaan Gowda,Male,44,Pune,vihaangowda@gmail.com,Candidate 199,Full Stack Developer,"Spring Boot, Express, SQL, NumPy, Android Studio",4.1 years,B.Tech CS,"Weather App, ERP System"
+CAND2025200,Krishna Desai,Female,31,Hyderabad,krishnadesai@gmail.com,Candidate 200,Android Developer,"SQL, Java, Pandas, AWS, Kotlin, Express",0.8 years,B.Sc IT,ChatGPT Clone
+CAND2025201,Ira Pandey,Female,40,Pune,irapandey@gmail.com,Candidate 201,Java Developer,"Selenium, Python, C#, Kotlin",0.8 years,M.Tech AI,Job Portal
+CAND2025202,Vihaan Pawar,Female,33,Pune,vihaanpawar@gmail.com,Candidate 202,Full Stack Developer,"Kotlin, TypeScript, Kubernetes, HTML, Firebase",4.8 years,MCA,HR Dashboard
+CAND2025203,Krishna Jadhav,Female,31,Pune,krishnajadhav@gmail.com,Candidate 203,DevOps Engineer,"Hibernate, API Development, Docker, Python, Kubernetes, Git",1.2 years,B.Tech IT,"Job Portal, ChatGPT Clone"
+CAND2025204,Navya Jadhav,Female,35,Hyderabad,navyajadhav@gmail.com,Candidate 204,Blockchain Developer,"Spring Boot, HTML, CSS, Android Studio",0.7 years,B.Tech CS,"Portfolio Website, HR Dashboard"
+CAND2025205,Aarav Chatterjee,Female,42,Kolkata,aaravchatterjee@gmail.com,Candidate 205,AI Engineer,"Docker, Power BI, Node.js, Pandas",1.4 years,B.Tech CSE,"Portfolio Website, Weather App"
+CAND2025206,Ira Desai,Female,20,Mumbai,iradesai@gmail.com,Candidate 206,Java Developer,"Pandas, Node.js, AWS, Python, Selenium, Java, React",1.2 years,B.Sc IT,"Stock Predictor, Weather App"
+CAND2025207,Rohan Pandey,Male,36,Chennai,rohanpandey@gmail.com,Candidate 207,Blockchain Developer,"Selenium, Git, React, Spring Boot",3.2 years,B.Tech IT,HR Dashboard
+CAND2025208,Reyansh Patel,Female,45,Kolkata,reyanshpatel@gmail.com,Candidate 208,DevOps Engineer,"Node.js, Kotlin, NumPy, TensorFlow, Selenium, CSS, Python",3.4 years,BCA,"Stock Predictor, Ecommerce API"
+CAND2025209,Ishaan Nair,Female,37,Mumbai,ishaannair@gmail.com,Candidate 209,Mobile App Developer,"CSS, TypeScript, Selenium, React, Power BI, Express, Java",3.9 years,B.Tech CSE,"Resume Analyzer, Job Portal"
+CAND2025210,Krishna Jadhav,Male,24,Bengaluru,krishnajadhav@gmail.com,Candidate 210,Full Stack Developer,"NumPy, Selenium, AWS, TypeScript, Power BI, Jira, TensorFlow",2.4 years,B.Tech CE,"Stock Predictor, Blockchain Wallet"
+CAND2025211,Aadhya Desai,Female,21,Pune,aadhyadesai@gmail.com,Candidate 211,Cloud Engineer,"AWS, Git, C++, React, Firebase",1.1 years,B.Tech CS,ERP System
+CAND2025212,Aadhya Jadhav,Male,22,Delhi,aadhyajadhav@gmail.com,Candidate 212,Database Engineer,"Power BI, Spring Boot, Docker, Java, Android Studio, API Development",2.0 years,B.Tech CE,Job Portal
+CAND2025213,Arjun Kulkarni,Female,37,Pune,arjunkulkarni@gmail.com,Candidate 213,Database Engineer,"HTML, Android Studio, Pandas, C#, C++, MongoDB",3.5 years,B.Sc IT,"Resume Analyzer, Weather App"
+CAND2025214,Reyansh Pawar,Male,27,Kolkata,reyanshpawar@gmail.com,Candidate 214,Blockchain Developer,"NumPy, Kotlin, TypeScript, Selenium",4.3 years,B.Sc IT,"Fake News Detection, Ecommerce API"
+CAND2025215,Rohan Pandey,Male,36,Hyderabad,rohanpandey@gmail.com,Candidate 215,Data Analyst,"Docker, Power BI, Kubernetes, Python",1.7 years,BCA,"Stock Predictor, Mobile Banking UI"
+CAND2025216,Aarav Joshi,Female,23,Chennai,aaravjoshi@gmail.com,Candidate 216,Frontend Developer,"Jira, Firebase, Hibernate, Java, AWS, Python",2.0 years,B.Tech CSE,"Job Portal, Mobile Banking UI"
+CAND2025217,Arjun Verma,Male,35,Pune,arjunverma@gmail.com,Candidate 217,Backend Developer,"Docker, Android Studio, Express, React, Pandas, Git",1.3 years,B.Tech CE,"Mobile Banking UI, ChatGPT Clone"
+CAND2025218,Prisha Mehta,Female,38,Bengaluru,prishamehta@gmail.com,Candidate 218,AI Engineer,"NumPy, API Development, Power BI, Spring Boot, SQL",3.6 years,B.Sc CS,"Ecommerce API, Portfolio Website"
+CAND2025219,Ira Reddy,Male,33,Delhi,irareddy@gmail.com,Candidate 219,Database Engineer,"Pandas, CSS, NumPy, Firebase, Node.js, AWS, Git",4.7 years,B.Tech CSE,"Mobile Banking UI, Weather App"
+CAND2025220,Aadhya Kulkarni,Female,45,Mumbai,aadhyakulkarni@gmail.com,Candidate 220,Machine Learning Engineer,"Android Studio, MongoDB, Python, TypeScript",1.2 years,B.Tech CSE,"Fake News Detection, ERP System"
+CAND2025221,Arjun Chatterjee,Female,30,Mumbai,arjunchatterjee@gmail.com,Candidate 221,Full Stack Developer,"Kubernetes, Pandas, C#, React, C++, Firebase, TypeScript",1.6 years,B.Sc CS,Stock Predictor
+CAND2025222,Ishaan Joshi,Female,22,Pune,ishaanjoshi@gmail.com,Candidate 222,Mobile App Developer,"Java, Android Studio, SQL, Kubernetes",1.5 years,B.Tech CS,"Weather App, ChatGPT Clone"
+CAND2025223,Reyansh Sharma,Male,23,Bengaluru,reyanshsharma@gmail.com,Candidate 223,Machine Learning Engineer,"React, HTML, C#, Python, Kubernetes",4.0 years,B.Sc IT,"ChatGPT Clone, Resume Analyzer"
+CAND2025224,Aditya Shetty,Female,34,Chennai,adityashetty@gmail.com,Candidate 224,Blockchain Developer,"Express, HTML, Kotlin, React",4.1 years,M.Tech AI,Fake News Detection
+CAND2025225,Vihaan Reddy,Female,39,Mumbai,vihaanreddy@gmail.com,Candidate 225,Cloud Engineer,"Selenium, API Development, Python, Hibernate, HTML, Express, Kubernetes",3.7 years,B.Sc IT,"IoT Smart Home, Portfolio Website"
+CAND2025226,Ishaan Kulkarni,Male,35,Bengaluru,ishaankulkarni@gmail.com,Candidate 226,Full Stack Developer,"Power BI, Node.js, Android Studio, Hibernate, SQL",0.8 years,B.Sc CS,ChatGPT Clone
+CAND2025227,Ira Pandey,Female,41,Mumbai,irapandey@gmail.com,Candidate 227,AI Engineer,"Git, React, NumPy, Android Studio, API Development, Pandas",2.2 years,B.Tech CE,Mobile Banking UI
+CAND2025228,Aarav Pawar,Female,44,Chennai,aaravpawar@gmail.com,Candidate 228,Mobile App Developer,"TensorFlow, NumPy, Jira, Spring Boot, C++, Kotlin",4.0 years,B.Sc CS,"Mobile Banking UI, Portfolio Website"
+CAND2025229,Vihaan Pawar,Male,29,Delhi,vihaanpawar@gmail.com,Candidate 229,Backend Developer,"AWS, TensorFlow, React, Kubernetes, Spring Boot, MongoDB",3.9 years,B.Tech CE,ERP System
+CAND2025230,Prisha Patel,Male,40,Hyderabad,prishapatel@gmail.com,Candidate 230,Blockchain Developer,"Power BI, Jira, Python, NumPy, Kubernetes, Git, Hibernate",1.9 years,B.Sc IT,"Fake News Detection, Mobile Banking UI"
+CAND2025231,Sara Gowda,Male,26,Bengaluru,saragowda@gmail.com,Candidate 231,Machine Learning Engineer,"AWS, Pandas, TensorFlow, Kubernetes, Express",1.1 years,M.Tech AI,ERP System
+CAND2025232,Sara Iyer,Female,38,Hyderabad,saraiyer@gmail.com,Candidate 232,Software Tester,"CSS, NumPy, TypeScript, C#, React, Hibernate",4.3 years,MCA,HR Dashboard
+CAND2025233,Navya Yadav,Male,37,Bengaluru,navyayadav@gmail.com,Candidate 233,Java Developer,"Spring Boot, Docker, Kubernetes, Pandas",4.6 years,M.Tech AI,ERP System
+CAND2025234,Rohan Yadav,Male,21,Kolkata,rohanyadav@gmail.com,Candidate 234,Android Developer,"HTML, Kubernetes, AWS, CSS",5.0 years,B.Sc CS,"Blockchain Wallet, Portfolio Website"
+CAND2025235,Sai Shetty,Male,36,Delhi,saishetty@gmail.com,Candidate 235,Software Tester,"Selenium, TypeScript, AWS, Firebase, C#, Android Studio",2.4 years,BCA,Portfolio Website
+CAND2025236,Ananya Pandey,Female,39,Chennai,ananyapandey@gmail.com,Candidate 236,Mobile App Developer,"Pandas, Spring Boot, NumPy, C++, Jira, HTML, MongoDB",3.4 years,B.Tech IT,"Stock Predictor, ChatGPT Clone"
+CAND2025237,Reyansh Sharma,Female,28,Pune,reyanshsharma@gmail.com,Candidate 237,Machine Learning Engineer,"Pandas, TensorFlow, Git, Express",2.1 years,B.Tech CSE,"ChatGPT Clone, Resume Analyzer"
+CAND2025238,Aditya Verma,Male,33,Mumbai,adityaverma@gmail.com,Candidate 238,Android Developer,"API Development, React, Java, HTML",1.7 years,B.Sc IT,IoT Smart Home
+CAND2025239,Sai Sharma,Female,33,Bengaluru,saisharma@gmail.com,Candidate 239,Full Stack Developer,"Firebase, C#, Git, Power BI, TypeScript, API Development, Hibernate",3.7 years,B.Tech CS,Ecommerce API
+CAND2025240,Sara Chatterjee,Female,20,Mumbai,sarachatterjee@gmail.com,Candidate 240,Java Developer,"NumPy, Android Studio, API Development, AWS, Python, Node.js, TypeScript",4.9 years,B.Tech CS,"Fake News Detection, Mobile Banking UI"
+CAND2025241,Aadhya Singh,Male,32,Chennai,aadhyasingh@gmail.com,Candidate 241,Frontend Developer,"API Development, Express, Spring Boot, Android Studio, Python, TensorFlow, AWS",2.8 years,M.Tech AI,"Weather App, Fake News Detection"
+CAND2025242,Vivaan Patel,Male,24,Chennai,vivaanpatel@gmail.com,Candidate 242,Data Analyst,"TensorFlow, Docker, React, Spring Boot",2.1 years,B.Sc IT,ChatGPT Clone
+CAND2025243,Meera Kulkarni,Female,39,Bengaluru,meerakulkarni@gmail.com,Candidate 243,AI Engineer,"Spring Boot, C#, Python, TensorFlow, Node.js, AWS",1.2 years,M.Tech AI,"HR Dashboard, Blockchain Wallet"
+CAND2025244,Aarav Khan,Male,34,Kolkata,aaravkhan@gmail.com,Candidate 244,Data Analyst,"CSS, C++, MongoDB, HTML, Python",4.9 years,B.Tech CS,"Portfolio Website, IoT Smart Home"
+CAND2025245,Ira Jadhav,Male,22,Chennai,irajadhav@gmail.com,Candidate 245,Java Developer,"Selenium, React, Hibernate, AWS, Java",2.8 years,B.Tech CSE,"Job Portal, Mobile Banking UI"
+CAND2025246,Aarav Desai,Female,35,Kolkata,aaravdesai@gmail.com,Candidate 246,Data Analyst,"CSS, Node.js, MongoDB, C#, TypeScript, Docker",4.5 years,B.Sc IT,"ChatGPT Clone, Mobile Banking UI"
+CAND2025247,Ananya Sharma,Male,26,Chennai,ananyasharma@gmail.com,Candidate 247,DevOps Engineer,"Express, Firebase, HTML, Jira, C++",1.9 years,B.Tech CE,ERP System
+CAND2025248,Vihaan Chatterjee,Female,30,Hyderabad,vihaanchatterjee@gmail.com,Candidate 248,AI Engineer,"Firebase, Java, NumPy, Spring Boot",4.3 years,B.Tech IT,Portfolio Website
+CAND2025249,Saanvi Gowda,Female,36,Bengaluru,saanvigowda@gmail.com,Candidate 249,Machine Learning Engineer,"Pandas, NumPy, React, Python",4.7 years,B.Tech CS,"IoT Smart Home, ERP System"
+CAND2025250,Arjun Chatterjee,Female,41,Delhi,arjunchatterjee@gmail.com,Candidate 250,AI Engineer,"Android Studio, Kotlin, Git, Hibernate, React, Spring Boot, TypeScript",1.4 years,B.Tech CSE,"ChatGPT Clone, Fake News Detection"
+CAND2025251,Vihaan Verma,Female,43,Kolkata,vihaanverma@gmail.com,Candidate 251,DevOps Engineer,"Java, API Development, React, AWS",4.8 years,MCA,Weather App
+CAND2025252,Navya Iyer,Male,31,Hyderabad,navyaiyer@gmail.com,Candidate 252,Blockchain Developer,"HTML, API Development, Jira, Kotlin",3.7 years,MCA,"Weather App, Ecommerce API"
+CAND2025253,Reyansh Joshi,Female,28,Pune,reyanshjoshi@gmail.com,Candidate 253,Web Developer,"HTML, React, Node.js, TensorFlow",4.9 years,BCA,"HR Dashboard, ERP System"
+CAND2025254,Ananya Reddy,Female,36,Mumbai,ananyareddy@gmail.com,Candidate 254,Software Tester,"Firebase, Git, Jira, TensorFlow, Power BI, MongoDB",2.5 years,B.Tech IT,"HR Dashboard, Blockchain Wallet"
+CAND2025255,Prisha Yadav,Female,36,Kolkata,prishayadav@gmail.com,Candidate 255,Android Developer,"Kotlin, SQL, Pandas, Firebase, C#",1.2 years,B.Sc IT,Portfolio Website
+CAND2025256,Ira Nair,Male,45,Hyderabad,iranair@gmail.com,Candidate 256,Full Stack Developer,"NumPy, C#, MongoDB, React, Docker, HTML, TensorFlow",2.0 years,M.Tech AI,Fake News Detection
+CAND2025257,Aarav Desai,Female,34,Pune,aaravdesai@gmail.com,Candidate 257,Backend Developer,"Spring Boot, NumPy, CSS, Power BI, C#",2.5 years,B.Tech CS,Resume Analyzer
+CAND2025258,Aditya Gowda,Male,43,Mumbai,adityagowda@gmail.com,Candidate 258,Software Tester,"Node.js, React, Python, Git, C++",2.6 years,M.Tech AI,"ChatGPT Clone, Blockchain Wallet"
+CAND2025259,Reyansh Reddy,Female,39,Kolkata,reyanshreddy@gmail.com,Candidate 259,Cloud Engineer,"Jira, CSS, Kubernetes, Python",1.5 years,B.Tech CE,"Stock Predictor, Blockchain Wallet"
+CAND2025260,Arjun Patel,Male,36,Bengaluru,arjunpatel@gmail.com,Candidate 260,Cloud Engineer,"TensorFlow, TypeScript, CSS, C++, MongoDB, Selenium, C#",2.8 years,MCA,"Ecommerce API, Portfolio Website"
+CAND2025261,Saanvi Desai,Female,39,Kolkata,saanvidesai@gmail.com,Candidate 261,DevOps Engineer,"Selenium, C++, Pandas, Git, C#, Kotlin",2.2 years,MCA,"Ecommerce API, Stock Predictor"
+CAND2025262,Sara Shetty,Male,33,Hyderabad,sarashetty@gmail.com,Candidate 262,Mobile App Developer,"C++, API Development, React, SQL, CSS, Hibernate, Kubernetes",2.6 years,MCA,"ChatGPT Clone, ERP System"
+CAND2025263,Vihaan Mehta,Female,25,Delhi,vihaanmehta@gmail.com,Candidate 263,Full Stack Developer,"Pandas, Power BI, AWS, Docker, Android Studio, TypeScript, C++",0.8 years,M.Tech AI,"ERP System, Mobile Banking UI"
+CAND2025264,Ananya Yadav,Male,21,Bengaluru,ananyayadav@gmail.com,Candidate 264,Mobile App Developer,"C#, AWS, Firebase, NumPy",1.5 years,B.Tech CS,ERP System
+CAND2025265,Diya Desai,Male,20,Kolkata,diyadesai@gmail.com,Candidate 265,Machine Learning Engineer,"Power BI, Kubernetes, HTML, Node.js, TypeScript, API Development, CSS",0.8 years,B.Sc CS,"HR Dashboard, Resume Analyzer"
+CAND2025266,Vihaan Khan,Male,40,Mumbai,vihaankhan@gmail.com,Candidate 266,Cloud Engineer,"API Development, Spring Boot, Java, Android Studio, Git",2.6 years,MCA,"Resume Analyzer, ChatGPT Clone"
+CAND2025267,Sai Pawar,Female,40,Chennai,saipawar@gmail.com,Candidate 267,Blockchain Developer,"Power BI, Kubernetes, Kotlin, C#, Spring Boot, MongoDB",3.5 years,B.Tech IT,Stock Predictor
+CAND2025268,Prisha Gowda,Male,35,Pune,prishagowda@gmail.com,Candidate 268,DevOps Engineer,"Kubernetes, Hibernate, Spring Boot, NumPy, SQL, Python, MongoDB",1.9 years,B.Sc IT,HR Dashboard
+CAND2025269,Arjun Mehta,Male,42,Bengaluru,arjunmehta@gmail.com,Candidate 269,Android Developer,"Express, Docker, Java, Power BI",1.3 years,B.Sc CS,Job Portal
+CAND2025270,Rohan Nair,Male,43,Kolkata,rohannair@gmail.com,Candidate 270,Cloud Engineer,"Android Studio, SQL, Selenium, MongoDB",1.8 years,B.Tech IT,"Blockchain Wallet, Stock Predictor"
+CAND2025271,Navya Pandey,Female,34,Mumbai,navyapandey@gmail.com,Candidate 271,Mobile App Developer,"TypeScript, CSS, Pandas, Express, C#, NumPy, C++",1.3 years,B.Tech CSE,"Weather App, IoT Smart Home"
+CAND2025272,Ishaan Joshi,Male,26,Hyderabad,ishaanjoshi@gmail.com,Candidate 272,Android Developer,"SQL, Spring Boot, CSS, Python, React",2.7 years,B.Tech IT,ERP System
+CAND2025273,Rohan Chatterjee,Male,23,Chennai,rohanchatterjee@gmail.com,Candidate 273,Blockchain Developer,"HTML, C++, Express, Python, Power BI, Git, Hibernate",2.8 years,MCA,"Mobile Banking UI, ChatGPT Clone"
+CAND2025274,Meera Gowda,Female,38,Kolkata,meeragowda@gmail.com,Candidate 274,Cloud Engineer,"Spring Boot, Express, CSS, HTML, Python, AWS, TypeScript",3.9 years,BCA,Job Portal
+CAND2025275,Saanvi Gowda,Female,34,Kolkata,saanvigowda@gmail.com,Candidate 275,Java Developer,"NumPy, MongoDB, React, Git, Spring Boot",1.3 years,BCA,"IoT Smart Home, Stock Predictor"
+CAND2025276,Aarav Chatterjee,Male,40,Bengaluru,aaravchatterjee@gmail.com,Candidate 276,Frontend Developer,"Java, Hibernate, Spring Boot, TensorFlow, Power BI",2.2 years,B.Tech CSE,Fake News Detection
+CAND2025277,Vivaan Pawar,Female,41,Pune,vivaanpawar@gmail.com,Candidate 277,Database Engineer,"Kubernetes, Selenium, C++, API Development, Java, HTML",3.3 years,MCA,"Blockchain Wallet, ERP System"
+CAND2025278,Navya Khan,Female,37,Delhi,navyakhan@gmail.com,Candidate 278,DevOps Engineer,"Selenium, MongoDB, Python, TensorFlow, C#",3.8 years,B.Tech CS,Weather App
+CAND2025279,Sai Iyer,Female,24,Kolkata,saiiyer@gmail.com,Candidate 279,Blockchain Developer,"SQL, Kubernetes, Docker, CSS",3.1 years,B.Tech CSE,"ERP System, Stock Predictor"
+CAND2025280,Meera Joshi,Female,35,Mumbai,meerajoshi@gmail.com,Candidate 280,Database Engineer,"Kotlin, NumPy, Android Studio, CSS, Power BI",2.7 years,MCA,Portfolio Website
+CAND2025281,Aditya Singh,Male,25,Hyderabad,adityasingh@gmail.com,Candidate 281,Backend Developer,"Docker, Python, TypeScript, Spring Boot",1.9 years,MCA,"Stock Predictor, Job Portal"
+CAND2025282,Aarav Shaikh,Male,29,Bengaluru,aaravshaikh@gmail.com,Candidate 282,AI Engineer,"C++, Selenium, CSS, Pandas, Node.js",2.6 years,B.Tech CSE,"HR Dashboard, Mobile Banking UI"
+CAND2025283,Ananya Pandey,Male,34,Pune,ananyapandey@gmail.com,Candidate 283,Mobile App Developer,"TypeScript, API Development, TensorFlow, Hibernate, SQL, Selenium, Spring Boot",3.4 years,B.Tech IT,"IoT Smart Home, ChatGPT Clone"
+CAND2025284,Sara Desai,Female,39,Hyderabad,saradesai@gmail.com,Candidate 284,Machine Learning Engineer,"TypeScript, Docker, HTML, MongoDB, Kotlin, Git",2.8 years,MCA,"Mobile Banking UI, Blockchain Wallet"
+CAND2025285,Prisha Pandey,Male,36,Pune,prishapandey@gmail.com,Candidate 285,Database Engineer,"TensorFlow, Hibernate, CSS, Kotlin, Selenium, Power BI, Kubernetes",3.2 years,MCA,"Resume Analyzer, Stock Predictor"
+CAND2025286,Sara Shetty,Male,45,Delhi,sarashetty@gmail.com,Candidate 286,Machine Learning Engineer,"Firebase, Jira, Power BI, Kubernetes",3.4 years,B.Sc IT,Ecommerce API
+CAND2025287,Meera Sharma,Male,24,Chennai,meerasharma@gmail.com,Candidate 287,Database Engineer,"Git, C++, C#, TensorFlow, MongoDB, HTML",4.5 years,B.Sc CS,ERP System
+CAND2025288,Aditya Nair,Female,26,Pune,adityanair@gmail.com,Candidate 288,Data Analyst,"Firebase, Git, HTML, Java, Selenium",3.5 years,MCA,"IoT Smart Home, ERP System"
+CAND2025289,Sara Nair,Male,28,Chennai,saranair@gmail.com,Candidate 289,AI Engineer,"C++, Node.js, Python, Power BI",3.0 years,MCA,"ERP System, Job Portal"
+CAND2025290,Reyansh Yadav,Male,29,Kolkata,reyanshyadav@gmail.com,Candidate 290,Android Developer,"Kotlin, Docker, C#, CSS, TensorFlow, Spring Boot, API Development",0.7 years,M.Tech AI,"Stock Predictor, Fake News Detection"
+CAND2025291,Navya Gowda,Female,22,Kolkata,navyagowda@gmail.com,Candidate 291,Backend Developer,"Git, TypeScript, Android Studio, C#",1.3 years,B.Sc CS,"Job Portal, IoT Smart Home"
+CAND2025292,Reyansh Pawar,Male,43,Hyderabad,reyanshpawar@gmail.com,Candidate 292,Cloud Engineer,"Android Studio, C++, Selenium, Express, NumPy, Git",4.2 years,B.Tech CE,Ecommerce API
+CAND2025293,Vivaan Mehta,Male,27,Pune,vivaanmehta@gmail.com,Candidate 293,Mobile App Developer,"TensorFlow, CSS, Git, Pandas, SQL, Kubernetes, Express",3.7 years,MCA,"ERP System, Mobile Banking UI"
+CAND2025294,Vivaan Sharma,Male,27,Hyderabad,vivaansharma@gmail.com,Candidate 294,Web Developer,"SQL, Jira, Kubernetes, TypeScript, Hibernate, NumPy",3.5 years,B.Sc CS,"Stock Predictor, Weather App"
+CAND2025295,Ananya Nair,Male,43,Bengaluru,ananyanair@gmail.com,Candidate 295,Web Developer,"Java, TensorFlow, Pandas, Selenium, NumPy, Kubernetes, Node.js",1.0 years,B.Tech IT,ERP System
+CAND2025296,Saanvi Mehta,Male,24,Delhi,saanvimehta@gmail.com,Candidate 296,Backend Developer,"Android Studio, TensorFlow, Node.js, Java, C++, Jira",1.8 years,M.Tech AI,"Fake News Detection, HR Dashboard"
+CAND2025297,Sara Kulkarni,Male,31,Bengaluru,sarakulkarni@gmail.com,Candidate 297,Java Developer,"TensorFlow, Java, Hibernate, Git, Power BI, React, Spring Boot",1.1 years,B.Tech CSE,"Weather App, Ecommerce API"
+CAND2025298,Navya Pawar,Male,44,Kolkata,navyapawar@gmail.com,Candidate 298,Data Analyst,"TypeScript, Selenium, Docker, Firebase, Power BI",2.2 years,M.Tech AI,Fake News Detection
+CAND2025299,Krishna Shaikh,Female,25,Delhi,krishnashaikh@gmail.com,Candidate 299,Software Tester,"Power BI, Git, C++, Express, Docker, TypeScript, Kubernetes",4.2 years,B.Tech CSE,"Blockchain Wallet, ERP System"
+CAND2025300,Reyansh Verma,Female,37,Pune,reyanshverma@gmail.com,Candidate 300,Database Engineer,"Spring Boot, Git, C++, SQL, Kubernetes, C#",4.8 years,B.Tech IT,"Blockchain Wallet, Weather App"
+CAND2025301,Ananya Chatterjee,Male,32,Chennai,ananyachatterjee@gmail.com,Candidate 301,Web Developer,"NumPy, Kubernetes, Spring Boot, MongoDB, Firebase, Java, C#",3.6 years,B.Tech CSE,Ecommerce API
+CAND2025302,Prisha Pawar,Female,36,Hyderabad,prishapawar@gmail.com,Candidate 302,Java Developer,"Java, TypeScript, Spring Boot, Pandas, Express, HTML",3.8 years,BCA,Blockchain Wallet
+CAND2025303,Ishaan Nair,Male,42,Kolkata,ishaannair@gmail.com,Candidate 303,Mobile App Developer,"React, Node.js, CSS, Kubernetes, Spring Boot",3.5 years,B.Tech CSE,"IoT Smart Home, Ecommerce API"
+CAND2025304,Vihaan Iyer,Female,38,Mumbai,vihaaniyer@gmail.com,Candidate 304,Web Developer,"API Development, Android Studio, Java, HTML, Git, SQL, Pandas",3.0 years,B.Sc IT,"Blockchain Wallet, HR Dashboard"
+CAND2025305,Navya Nair,Female,20,Mumbai,navyanair@gmail.com,Candidate 305,Web Developer,"Kotlin, TypeScript, C++, Jira, Pandas",1.5 years,B.Sc CS,"Fake News Detection, ChatGPT Clone"
+CAND2025306,Ananya Patel,Male,38,Chennai,ananyapatel@gmail.com,Candidate 306,Frontend Developer,"Pandas, Hibernate, Jira, MongoDB, AWS",1.1 years,M.Tech AI,"Portfolio Website, Blockchain Wallet"
+CAND2025307,Ira Joshi,Female,28,Mumbai,irajoshi@gmail.com,Candidate 307,Data Analyst,"NumPy, Pandas, C#, Firebase, HTML, SQL, Git",3.7 years,B.Sc CS,IoT Smart Home
+CAND2025308,Meera Pandey,Male,30,Mumbai,meerapandey@gmail.com,Candidate 308,Frontend Developer,"Node.js, Firebase, Jira, TypeScript, C++, Git",3.1 years,B.Tech CS,Weather App
+CAND2025309,Reyansh Yadav,Male,31,Bengaluru,reyanshyadav@gmail.com,Candidate 309,Data Analyst,"Java, C++, Jira, Selenium, Android Studio, CSS, Express",1.6 years,B.Tech CSE,Fake News Detection
+CAND2025310,Prisha Sharma,Male,25,Bengaluru,prishasharma@gmail.com,Candidate 310,Web Developer,"CSS, Git, API Development, HTML, Power BI, Docker",1.2 years,M.Tech AI,Stock Predictor
+CAND2025311,Meera Reddy,Female,36,Kolkata,meerareddy@gmail.com,Candidate 311,Backend Developer,"Firebase, Hibernate, Pandas, MongoDB",2.8 years,B.Sc IT,"Ecommerce API, Mobile Banking UI"
+CAND2025312,Meera Joshi,Male,20,Delhi,meerajoshi@gmail.com,Candidate 312,Web Developer,"Kotlin, Docker, Python, SQL, TensorFlow, Firebase, HTML",3.0 years,B.Sc IT,Job Portal
+CAND2025313,Aditya Reddy,Male,44,Pune,adityareddy@gmail.com,Candidate 313,Cloud Engineer,"API Development, Android Studio, AWS, Express, React, Pandas, Selenium",2.7 years,B.Sc IT,Job Portal
+CAND2025314,Vihaan Verma,Female,25,Hyderabad,vihaanverma@gmail.com,Candidate 314,Data Analyst,"Power BI, AWS, Express, Node.js",3.6 years,B.Tech CS,ERP System
+CAND2025315,Diya Nair,Male,37,Bengaluru,diyanair@gmail.com,Candidate 315,Android Developer,"Jira, Node.js, API Development, Hibernate",4.8 years,B.Tech IT,"Job Portal, Blockchain Wallet"
+CAND2025316,Diya Pandey,Female,45,Pune,diyapandey@gmail.com,Candidate 316,Backend Developer,"Python, SQL, Git, React, TypeScript",1.4 years,B.Tech CSE,Stock Predictor
+CAND2025317,Krishna Iyer,Male,25,Kolkata,krishnaiyer@gmail.com,Candidate 317,Data Analyst,"MongoDB, HTML, Express, TensorFlow, Docker, SQL, Node.js",1.9 years,B.Sc IT,Ecommerce API
+CAND2025318,Sara Yadav,Male,30,Kolkata,sarayadav@gmail.com,Candidate 318,Data Analyst,"Kotlin, Node.js, C++, SQL, Selenium, Hibernate",1.2 years,B.Tech CSE,"Ecommerce API, Resume Analyzer"
+CAND2025319,Myra Singh,Male,44,Bengaluru,myrasingh@gmail.com,Candidate 319,Cloud Engineer,"Jira, AWS, Pandas, Firebase, Express, Java",2.8 years,M.Tech AI,"Job Portal, Portfolio Website"
+CAND2025320,Reyansh Desai,Male,37,Hyderabad,reyanshdesai@gmail.com,Candidate 320,AI Engineer,"React, CSS, Pandas, TypeScript",3.6 years,B.Tech IT,HR Dashboard
+CAND2025321,Vivaan Verma,Female,40,Bengaluru,vivaanverma@gmail.com,Candidate 321,DevOps Engineer,"AWS, Hibernate, React, Spring Boot, NumPy, Kubernetes",1.8 years,M.Tech AI,IoT Smart Home
+CAND2025322,Krishna Kulkarni,Female,30,Chennai,krishnakulkarni@gmail.com,Candidate 322,Mobile App Developer,"Express, Java, HTML, Power BI, Pandas, TypeScript, AWS",3.9 years,B.Sc IT,Ecommerce API
+CAND2025323,Vihaan Iyer,Male,21,Kolkata,vihaaniyer@gmail.com,Candidate 323,Blockchain Developer,"Android Studio, API Development, Hibernate, CSS, Express, MongoDB",4.1 years,B.Tech IT,"HR Dashboard, Weather App"
+CAND2025324,Ananya Yadav,Male,28,Delhi,ananyayadav@gmail.com,Candidate 324,Android Developer,"Hibernate, Power BI, Android Studio, HTML",2.6 years,B.Tech CS,"Job Portal, Mobile Banking UI"
+CAND2025325,Sara Jadhav,Male,22,Bengaluru,sarajadhav@gmail.com,Candidate 325,Mobile App Developer,"Hibernate, Android Studio, Jira, Firebase, Kotlin",2.9 years,M.Tech AI,Portfolio Website
+CAND2025326,Rohan Shetty,Female,36,Bengaluru,rohanshetty@gmail.com,Candidate 326,Machine Learning Engineer,"Pandas, AWS, SQL, React, HTML, Java",1.1 years,B.Tech IT,"HR Dashboard, Blockchain Wallet"
+CAND2025327,Aadhya Pawar,Female,23,Kolkata,aadhyapawar@gmail.com,Candidate 327,Java Developer,"Jira, Node.js, Pandas, Java, Firebase, HTML, TensorFlow",3.9 years,MCA,"Weather App, IoT Smart Home"
+CAND2025328,Sai Joshi,Male,33,Chennai,saijoshi@gmail.com,Candidate 328,Full Stack Developer,"Power BI, AWS, Git, Hibernate",2.8 years,B.Sc CS,Ecommerce API
+CAND2025329,Aadhya Verma,Female,23,Mumbai,aadhyaverma@gmail.com,Candidate 329,Software Tester,"Power BI, Hibernate, Pandas, TypeScript, Express, C#, AWS",3.5 years,B.Sc IT,Fake News Detection
+CAND2025330,Vivaan Reddy,Female,22,Kolkata,vivaanreddy@gmail.com,Candidate 330,Machine Learning Engineer,"Jira, Hibernate, NumPy, Express",4.9 years,B.Tech CE,IoT Smart Home
+CAND2025331,Ishaan Reddy,Male,33,Bengaluru,ishaanreddy@gmail.com,Candidate 331,Frontend Developer,"Jira, TypeScript, Java, Selenium, HTML, Spring Boot, Android Studio",1.5 years,M.Tech AI,"ChatGPT Clone, Job Portal"
+CAND2025332,Reyansh Iyer,Male,39,Mumbai,reyanshiyer@gmail.com,Candidate 332,Software Tester,"TypeScript, AWS, API Development, Selenium, React, Firebase",1.4 years,B.Tech CSE,"Blockchain Wallet, Job Portal"
+CAND2025333,Arjun Reddy,Male,26,Hyderabad,arjunreddy@gmail.com,Candidate 333,Blockchain Developer,"HTML, API Development, SQL, TensorFlow",4.5 years,MCA,"Stock Predictor, ERP System"
+CAND2025334,Diya Desai,Female,26,Hyderabad,diyadesai@gmail.com,Candidate 334,Android Developer,"TypeScript, SQL, Docker, AWS, React, API Development, Android Studio",3.6 years,B.Tech CS,"Portfolio Website, HR Dashboard"
+CAND2025335,Navya Shetty,Female,43,Chennai,navyashetty@gmail.com,Candidate 335,Frontend Developer,"Selenium, React, Spring Boot, SQL, TypeScript, C#, Jira",0.6 years,B.Tech CE,"Job Portal, Blockchain Wallet"
+CAND2025336,Vihaan Iyer,Male,43,Bengaluru,vihaaniyer@gmail.com,Candidate 336,Cloud Engineer,"Docker, React, Selenium, Firebase, Pandas, Hibernate",0.6 years,B.Tech IT,Resume Analyzer
+CAND2025337,Aditya Pandey,Female,30,Hyderabad,adityapandey@gmail.com,Candidate 337,Machine Learning Engineer,"TensorFlow, MongoDB, Power BI, Python",3.2 years,B.Tech CSE,Stock Predictor
+CAND2025338,Diya Nair,Male,40,Pune,diyanair@gmail.com,Candidate 338,Frontend Developer,"AWS, MongoDB, Hibernate, C#, Spring Boot, Power BI",0.5 years,B.Tech CS,Ecommerce API
+CAND2025339,Aditya Singh,Male,45,Delhi,adityasingh@gmail.com,Candidate 339,Mobile App Developer,"CSS, Kotlin, Java, Jira, Selenium, C++",2.0 years,BCA,"Resume Analyzer, Ecommerce API"
+CAND2025340,Prisha Pawar,Male,44,Hyderabad,prishapawar@gmail.com,Candidate 340,Mobile App Developer,"Selenium, HTML, MongoDB, Python",1.0 years,MCA,Ecommerce API
+CAND2025341,Vivaan Singh,Male,39,Bengaluru,vivaansingh@gmail.com,Candidate 341,AI Engineer,"C++, Python, Hibernate, Spring Boot, Jira, Firebase",3.8 years,B.Sc IT,IoT Smart Home
+CAND2025342,Ira Singh,Male,33,Chennai,irasingh@gmail.com,Candidate 342,Database Engineer,"Git, NumPy, Spring Boot, Power BI, Kubernetes, Selenium, MongoDB",2.3 years,B.Tech IT,"Ecommerce API, HR Dashboard"
+CAND2025343,Reyansh Verma,Female,44,Pune,reyanshverma@gmail.com,Candidate 343,DevOps Engineer,"React, NumPy, C#, Firebase, AWS, Express, MongoDB",0.5 years,B.Sc IT,Stock Predictor
+CAND2025344,Ananya Verma,Male,25,Kolkata,ananyaverma@gmail.com,Candidate 344,Web Developer,"Express, Docker, Selenium, C#",4.3 years,M.Tech AI,Weather App
+CAND2025345,Saanvi Iyer,Male,36,Kolkata,saanviiyer@gmail.com,Candidate 345,Software Tester,"Express, AWS, Python, C++, Node.js",2.5 years,B.Sc IT,HR Dashboard
+CAND2025346,Ananya Reddy,Female,22,Chennai,ananyareddy@gmail.com,Candidate 346,Web Developer,"HTML, Kotlin, C++, Power BI, Android Studio, Java, Python",0.8 years,B.Sc IT,Fake News Detection
+CAND2025347,Sai Verma,Female,26,Kolkata,saiverma@gmail.com,Candidate 347,Cloud Engineer,"Node.js, Docker, Spring Boot, Kubernetes",2.5 years,M.Tech AI,"Stock Predictor, Portfolio Website"
+CAND2025348,Rohan Verma,Male,26,Delhi,rohanverma@gmail.com,Candidate 348,AI Engineer,"Jira, MongoDB, Hibernate, CSS",3.1 years,B.Sc IT,"Ecommerce API, ERP System"
+CAND2025349,Ira Gowda,Female,22,Bengaluru,iragowda@gmail.com,Candidate 349,AI Engineer,"AWS, Kubernetes, Git, Kotlin, TensorFlow, TypeScript, Docker",4.3 years,MCA,"HR Dashboard, Blockchain Wallet"
+CAND2025350,Sai Mehta,Female,30,Pune,saimehta@gmail.com,Candidate 350,Blockchain Developer,"TensorFlow, TypeScript, Hibernate, MongoDB, API Development, Git",1.9 years,M.Tech AI,"Job Portal, Blockchain Wallet"
+CAND2025351,Ishaan Gowda,Male,23,Delhi,ishaangowda@gmail.com,Candidate 351,Blockchain Developer,"Node.js, API Development, C#, TensorFlow, AWS",0.6 years,M.Tech AI,"Resume Analyzer, Stock Predictor"
+CAND2025352,Sai Shaikh,Male,25,Bengaluru,saishaikh@gmail.com,Candidate 352,AI Engineer,"Jira, Hibernate, Python, Express, NumPy, HTML",1.8 years,M.Tech AI,Mobile Banking UI
+CAND2025353,Reyansh Reddy,Female,36,Hyderabad,reyanshreddy@gmail.com,Candidate 353,Frontend Developer,"API Development, SQL, NumPy, Spring Boot",3.2 years,B.Sc IT,Fake News Detection
+CAND2025354,Ira Pawar,Female,38,Hyderabad,irapawar@gmail.com,Candidate 354,Web Developer,"Spring Boot, Pandas, HTML, Jira, C++, CSS, Hibernate",2.0 years,B.Tech CE,"Job Portal, Blockchain Wallet"
+CAND2025355,Ira Pawar,Male,22,Bengaluru,irapawar@gmail.com,Candidate 355,Backend Developer,"Hibernate, SQL, API Development, CSS, C#, TensorFlow, Express",3.3 years,B.Sc CS,"Weather App, Job Portal"
+CAND2025356,Diya Pawar,Male,27,Kolkata,diyapawar@gmail.com,Candidate 356,Mobile App Developer,"Jira, C++, Android Studio, Spring Boot, API Development, Docker",1.0 years,B.Tech IT,ChatGPT Clone
+CAND2025357,Sara Jadhav,Male,37,Kolkata,sarajadhav@gmail.com,Candidate 357,Backend Developer,"C++, CSS, HTML, Express, Node.js, TypeScript",3.2 years,B.Sc IT,"Mobile Banking UI, Portfolio Website"
+CAND2025358,Myra Yadav,Male,35,Delhi,myrayadav@gmail.com,Candidate 358,Data Analyst,"TypeScript, AWS, Express, MongoDB",3.8 years,MCA,"Stock Predictor, HR Dashboard"
+CAND2025359,Reyansh Mehta,Female,45,Bengaluru,reyanshmehta@gmail.com,Candidate 359,Backend Developer,"Firebase, Power BI, Java, Spring Boot, C++, TensorFlow",4.0 years,B.Tech IT,ERP System
+CAND2025360,Sai Kulkarni,Female,20,Chennai,saikulkarni@gmail.com,Candidate 360,Full Stack Developer,"HTML, React, TypeScript, API Development, Kotlin",1.6 years,B.Sc IT,"Portfolio Website, IoT Smart Home"
+CAND2025361,Navya Nair,Female,34,Mumbai,navyanair@gmail.com,Candidate 361,Software Tester,"Java, HTML, AWS, Kotlin, Express",1.2 years,MCA,HR Dashboard
+CAND2025362,Ira Desai,Male,33,Chennai,iradesai@gmail.com,Candidate 362,Cloud Engineer,"React, Kotlin, Python, Android Studio, CSS, Kubernetes, Git",4.9 years,MCA,"HR Dashboard, ChatGPT Clone"
+CAND2025363,Reyansh Mehta,Female,39,Mumbai,reyanshmehta@gmail.com,Candidate 363,Blockchain Developer,"SQL, Git, C++, AWS, Jira, Hibernate",4.3 years,B.Sc CS,"ChatGPT Clone, Mobile Banking UI"
+CAND2025364,Rohan Joshi,Female,44,Hyderabad,rohanjoshi@gmail.com,Candidate 364,Software Tester,"Express, React, Pandas, TensorFlow, TypeScript, API Development, Java",0.6 years,B.Tech IT,ERP System
+CAND2025365,Saanvi Verma,Female,34,Kolkata,saanviverma@gmail.com,Candidate 365,Java Developer,"Kubernetes, API Development, TypeScript, Firebase, Power BI",1.1 years,B.Tech CSE,"Weather App, Ecommerce API"
+CAND2025366,Navya Patel,Male,38,Chennai,navyapatel@gmail.com,Candidate 366,Backend Developer,"Java, Pandas, Node.js, Spring Boot, Kubernetes, Express, React",2.1 years,B.Sc CS,Mobile Banking UI
+CAND2025367,Saanvi Nair,Female,31,Chennai,saanvinair@gmail.com,Candidate 367,Database Engineer,"MongoDB, Git, TypeScript, Docker, SQL, Selenium, Java",4.0 years,M.Tech AI,Weather App
+CAND2025368,Arjun Kulkarni,Female,21,Mumbai,arjunkulkarni@gmail.com,Candidate 368,AI Engineer,"MongoDB, Pandas, Kubernetes, TypeScript, Android Studio",3.0 years,M.Tech AI,Job Portal
+CAND2025369,Aadhya Verma,Male,30,Pune,aadhyaverma@gmail.com,Candidate 369,Software Tester,"Spring Boot, Kubernetes, Jira, SQL",3.9 years,B.Sc IT,HR Dashboard
+CAND2025370,Saanvi Kulkarni,Male,39,Chennai,saanvikulkarni@gmail.com,Candidate 370,Software Tester,"HTML, Android Studio, Firebase, Power BI",4.5 years,B.Tech CE,Portfolio Website
+CAND2025371,Sai Shetty,Male,35,Delhi,saishetty@gmail.com,Candidate 371,AI Engineer,"MongoDB, Jira, API Development, NumPy, TypeScript, TensorFlow, Android Studio",1.0 years,B.Tech CSE,ERP System
+CAND2025372,Vivaan Pawar,Male,26,Pune,vivaanpawar@gmail.com,Candidate 372,Cloud Engineer,"Docker, HTML, CSS, MongoDB",4.3 years,MCA,Fake News Detection
+CAND2025373,Meera Verma,Female,44,Kolkata,meeraverma@gmail.com,Candidate 373,Software Tester,"MongoDB, API Development, TensorFlow, C#, Git, Express, C++",2.8 years,MCA,"HR Dashboard, Mobile Banking UI"
+CAND2025374,Vihaan Yadav,Female,31,Kolkata,vihaanyadav@gmail.com,Candidate 374,Database Engineer,"Kubernetes, Python, AWS, Pandas, TensorFlow",4.0 years,B.Tech CE,Resume Analyzer
+CAND2025375,Rohan Desai,Male,33,Chennai,rohandesai@gmail.com,Candidate 375,Backend Developer,"SQL, AWS, Firebase, Python, Git, Spring Boot",1.9 years,MCA,"Fake News Detection, Resume Analyzer"
+CAND2025376,Ira Khan,Female,27,Kolkata,irakhan@gmail.com,Candidate 376,Blockchain Developer,"API Development, AWS, Pandas, Hibernate, TypeScript, C#, Android Studio",1.5 years,B.Tech CS,"ChatGPT Clone, Weather App"
+CAND2025377,Ananya Pandey,Male,23,Delhi,ananyapandey@gmail.com,Candidate 377,Data Analyst,"NumPy, Spring Boot, Java, AWS, Jira",4.8 years,B.Tech CE,Job Portal
+CAND2025378,Ananya Iyer,Female,27,Chennai,ananyaiyer@gmail.com,Candidate 378,Mobile App Developer,"Firebase, Jira, Power BI, Git, Selenium, SQL",2.4 years,B.Tech CSE,Job Portal
+CAND2025379,Reyansh Kulkarni,Male,22,Delhi,reyanshkulkarni@gmail.com,Candidate 379,DevOps Engineer,"Jira, Firebase, CSS, Spring Boot, NumPy, C++",2.4 years,BCA,"HR Dashboard, Ecommerce API"
+CAND2025380,Diya Joshi,Male,23,Mumbai,diyajoshi@gmail.com,Candidate 380,Machine Learning Engineer,"CSS, Power BI, Kotlin, C++, Hibernate, Selenium, Spring Boot",0.6 years,M.Tech AI,"Job Portal, Mobile Banking UI"
+CAND2025381,Rohan Desai,Male,39,Pune,rohandesai@gmail.com,Candidate 381,Cloud Engineer,"C++, Firebase, React, CSS, AWS, SQL, MongoDB",0.9 years,B.Tech CE,Ecommerce API
+CAND2025382,Sai Kulkarni,Male,33,Bengaluru,saikulkarni@gmail.com,Candidate 382,DevOps Engineer,"Spring Boot, Jira, Git, Node.js, HTML, Pandas",3.9 years,B.Tech CSE,"Stock Predictor, HR Dashboard"
+CAND2025383,Diya Desai,Female,44,Bengaluru,diyadesai@gmail.com,Candidate 383,Data Analyst,"HTML, Spring Boot, Power BI, C++",2.7 years,B.Tech CS,IoT Smart Home
+CAND2025384,Ishaan Pandey,Male,28,Mumbai,ishaanpandey@gmail.com,Candidate 384,Android Developer,"Express, MongoDB, Kubernetes, HTML",1.8 years,BCA,"Portfolio Website, Stock Predictor"
+CAND2025385,Navya Iyer,Female,28,Mumbai,navyaiyer@gmail.com,Candidate 385,Java Developer,"Firebase, Hibernate, C++, Android Studio, Git",2.7 years,B.Tech CE,"Weather App, ChatGPT Clone"
+CAND2025386,Arjun Gowda,Male,21,Mumbai,arjungowda@gmail.com,Candidate 386,AI Engineer,"MongoDB, Jira, Node.js, Java, TensorFlow",0.7 years,B.Tech CSE,Stock Predictor
+CAND2025387,Navya Iyer,Male,29,Bengaluru,navyaiyer@gmail.com,Candidate 387,Machine Learning Engineer,"Node.js, Express, Git, NumPy, Python",5.0 years,MCA,ChatGPT Clone
+CAND2025388,Ananya Pandey,Male,26,Delhi,ananyapandey@gmail.com,Candidate 388,Full Stack Developer,"Spring Boot, Selenium, Jira, Node.js, Pandas, Git, TensorFlow",4.2 years,BCA,"Blockchain Wallet, HR Dashboard"
+CAND2025389,Ishaan Nair,Female,40,Kolkata,ishaannair@gmail.com,Candidate 389,Machine Learning Engineer,"NumPy, Python, TensorFlow, MongoDB, HTML, Selenium, Java",4.2 years,BCA,HR Dashboard
+CAND2025390,Sai Sharma,Female,38,Pune,saisharma@gmail.com,Candidate 390,Blockchain Developer,"Pandas, Express, Java, C#, Firebase, NumPy",2.3 years,M.Tech AI,ERP System
+CAND2025391,Krishna Kulkarni,Female,24,Bengaluru,krishnakulkarni@gmail.com,Candidate 391,DevOps Engineer,"Firebase, Spring Boot, Power BI, React, AWS, Docker",1.9 years,M.Tech AI,"IoT Smart Home, Blockchain Wallet"
+CAND2025392,Myra Jadhav,Male,38,Delhi,myrajadhav@gmail.com,Candidate 392,Cloud Engineer,"NumPy, Pandas, SQL, HTML, Java, Jira",1.4 years,B.Tech IT,Weather App
+CAND2025393,Prisha Gowda,Male,34,Kolkata,prishagowda@gmail.com,Candidate 393,Blockchain Developer,"Power BI, Node.js, Jira, C#",0.7 years,B.Tech CS,IoT Smart Home
+CAND2025394,Krishna Yadav,Male,32,Kolkata,krishnayadav@gmail.com,Candidate 394,Data Analyst,"Docker, Python, Kubernetes, React",0.6 years,B.Tech CE,Stock Predictor
+CAND2025395,Ananya Jadhav,Male,26,Chennai,ananyajadhav@gmail.com,Candidate 395,Software Tester,"Jira, CSS, NumPy, C++, Power BI, Node.js",0.5 years,BCA,"Blockchain Wallet, Weather App"
+CAND2025396,Diya Sharma,Male,23,Mumbai,diyasharma@gmail.com,Candidate 396,Database Engineer,"Node.js, Kotlin, TypeScript, Jira, C++, Spring Boot",1.6 years,B.Sc CS,"HR Dashboard, IoT Smart Home"
+CAND2025397,Myra Chatterjee,Female,43,Delhi,myrachatterjee@gmail.com,Candidate 397,Mobile App Developer,"TensorFlow, C#, MongoDB, Jira, Android Studio, Docker",4.9 years,BCA,"Portfolio Website, Ecommerce API"
+CAND2025398,Ira Nair,Male,21,Bengaluru,iranair@gmail.com,Candidate 398,Frontend Developer,"AWS, Git, Kotlin, API Development, Firebase",4.7 years,B.Tech CSE,Ecommerce API
+CAND2025399,Sai Yadav,Male,35,Mumbai,saiyadav@gmail.com,Candidate 399,DevOps Engineer,"Java, C#, HTML, AWS, Android Studio, CSS",1.3 years,B.Sc CS,"Ecommerce API, Blockchain Wallet"
+CAND2025400,Krishna Joshi,Female,26,Mumbai,krishnajoshi@gmail.com,Candidate 400,Java Developer,"Spring Boot, Power BI, Express, Jira, Python",2.3 years,B.Tech CS,Stock Predictor
+CAND2025401,Rohan Singh,Male,38,Bengaluru,rohansingh@gmail.com,Candidate 401,Software Tester,"Android Studio, Python, Jira, Firebase",0.9 years,M.Tech AI,Resume Analyzer
+CAND2025402,Aadhya Yadav,Female,35,Delhi,aadhyayadav@gmail.com,Candidate 402,Backend Developer,"AWS, Express, TypeScript, Power BI, Kotlin, Spring Boot",2.3 years,B.Tech IT,Weather App
+CAND2025403,Aarav Pandey,Male,42,Bengaluru,aaravpandey@gmail.com,Candidate 403,Cloud Engineer,"CSS, Java, Docker, Python, TypeScript, MongoDB",3.0 years,B.Tech IT,Weather App
+CAND2025404,Ananya Pawar,Male,42,Pune,ananyapawar@gmail.com,Candidate 404,Cloud Engineer,"API Development, CSS, HTML, TensorFlow, Kubernetes, Express",4.3 years,M.Tech AI,"Stock Predictor, IoT Smart Home"
+CAND2025405,Krishna Joshi,Male,45,Delhi,krishnajoshi@gmail.com,Candidate 405,Java Developer,"Node.js, Selenium, TensorFlow, AWS",1.1 years,M.Tech AI,"Job Portal, Stock Predictor"
+CAND2025406,Ira Jadhav,Female,20,Chennai,irajadhav@gmail.com,Candidate 406,Machine Learning Engineer,"React, Firebase, Kotlin, SQL, Jira, TypeScript",4.2 years,M.Tech AI,ChatGPT Clone
+CAND2025407,Vihaan Pandey,Female,44,Hyderabad,vihaanpandey@gmail.com,Candidate 407,Java Developer,"API Development, TensorFlow, AWS, CSS, MongoDB, Kubernetes",4.8 years,B.Tech IT,Weather App
+CAND2025408,Aditya Desai,Female,27,Mumbai,adityadesai@gmail.com,Candidate 408,Web Developer,"C#, Java, TensorFlow, Jira, Android Studio, Spring Boot",1.8 years,B.Sc CS,ERP System
+CAND2025409,Vihaan Desai,Male,37,Pune,vihaandesai@gmail.com,Candidate 409,Java Developer,"Kubernetes, CSS, Git, Kotlin",2.6 years,MCA,Job Portal
+CAND2025410,Meera Gowda,Female,43,Chennai,meeragowda@gmail.com,Candidate 410,Data Analyst,"Selenium, Android Studio, C#, Git, Firebase",0.9 years,M.Tech AI,"Portfolio Website, Resume Analyzer"
+CAND2025411,Prisha Khan,Female,21,Bengaluru,prishakhan@gmail.com,Candidate 411,Machine Learning Engineer,"Kotlin, TypeScript, API Development, TensorFlow, Pandas",1.5 years,M.Tech AI,Weather App
+CAND2025412,Myra Shaikh,Female,23,Hyderabad,myrashaikh@gmail.com,Candidate 412,Backend Developer,"Git, TypeScript, Kotlin, C#, API Development, Power BI",3.1 years,MCA,Weather App
+CAND2025413,Aditya Patel,Female,39,Mumbai,adityapatel@gmail.com,Candidate 413,Frontend Developer,"Kubernetes, NumPy, Git, Kotlin, TypeScript, C#, SQL",4.5 years,MCA,"Job Portal, Resume Analyzer"
+CAND2025414,Reyansh Reddy,Female,21,Pune,reyanshreddy@gmail.com,Candidate 414,Web Developer,"Java, Git, Python, Android Studio",2.8 years,B.Tech CS,Resume Analyzer
+CAND2025415,Aarav Sharma,Female,37,Kolkata,aaravsharma@gmail.com,Candidate 415,Frontend Developer,"React, Git, Docker, Android Studio, Express, Spring Boot, TensorFlow",2.7 years,M.Tech AI,"IoT Smart Home, HR Dashboard"
+CAND2025416,Prisha Joshi,Male,29,Pune,prishajoshi@gmail.com,Candidate 416,Full Stack Developer,"React, Express, TypeScript, Java",3.3 years,B.Tech IT,Stock Predictor
+CAND2025417,Aditya Chatterjee,Female,45,Bengaluru,adityachatterjee@gmail.com,Candidate 417,Java Developer,"HTML, Docker, Kubernetes, Git, Express",4.9 years,M.Tech AI,"Mobile Banking UI, Portfolio Website"
+CAND2025418,Ira Pandey,Female,34,Delhi,irapandey@gmail.com,Candidate 418,Backend Developer,"Selenium, C++, AWS, API Development, Express",2.7 years,B.Tech CS,Weather App
+CAND2025419,Diya Mehta,Male,41,Delhi,diyamehta@gmail.com,Candidate 419,Data Analyst,"Git, Docker, C++, React",4.3 years,M.Tech AI,Fake News Detection
+CAND2025420,Navya Pandey,Female,44,Pune,navyapandey@gmail.com,Candidate 420,Mobile App Developer,"Pandas, Python, Android Studio, Node.js",2.5 years,B.Sc CS,Ecommerce API
+CAND2025421,Diya Pawar,Female,32,Delhi,diyapawar@gmail.com,Candidate 421,Mobile App Developer,"Express, TypeScript, CSS, Spring Boot",3.1 years,B.Tech IT,"Blockchain Wallet, Fake News Detection"
+CAND2025422,Vihaan Kulkarni,Male,26,Kolkata,vihaankulkarni@gmail.com,Candidate 422,DevOps Engineer,"Git, CSS, Pandas, AWS, MongoDB",1.3 years,B.Sc IT,Portfolio Website
+CAND2025423,Vivaan Pawar,Male,30,Hyderabad,vivaanpawar@gmail.com,Candidate 423,Machine Learning Engineer,"Spring Boot, CSS, C++, AWS, TensorFlow, C#",3.2 years,MCA,"HR Dashboard, ChatGPT Clone"
+CAND2025424,Navya Khan,Female,40,Bengaluru,navyakhan@gmail.com,Candidate 424,Software Tester,"Firebase, Pandas, Kubernetes, Android Studio",3.2 years,M.Tech AI,"HR Dashboard, Job Portal"
+CAND2025425,Ananya Pandey,Female,38,Pune,ananyapandey@gmail.com,Candidate 425,Mobile App Developer,"MongoDB, Firebase, Express, Android Studio, SQL, Docker, Git",2.9 years,B.Tech CE,Fake News Detection
+CAND2025426,Ananya Patel,Female,32,Mumbai,ananyapatel@gmail.com,Candidate 426,AI Engineer,"TypeScript, Firebase, API Development, Selenium, Jira",1.4 years,M.Tech AI,Portfolio Website
+CAND2025427,Saanvi Pandey,Female,31,Chennai,saanvipandey@gmail.com,Candidate 427,Software Tester,"Kotlin, Power BI, C++, Selenium, Hibernate, NumPy",1.8 years,B.Sc IT,Weather App
+CAND2025428,Ananya Verma,Male,39,Kolkata,ananyaverma@gmail.com,Candidate 428,Software Tester,"Firebase, Spring Boot, MongoDB, Python",1.4 years,B.Tech IT,Portfolio Website
+CAND2025429,Sai Pandey,Female,31,Chennai,saipandey@gmail.com,Candidate 429,AI Engineer,"Kotlin, HTML, C#, Power BI",4.1 years,MCA,Resume Analyzer
+CAND2025430,Aditya Yadav,Male,34,Delhi,adityayadav@gmail.com,Candidate 430,Backend Developer,"MongoDB, C++, Pandas, Docker",2.9 years,B.Tech CSE,IoT Smart Home
+CAND2025431,Navya Khan,Male,43,Kolkata,navyakhan@gmail.com,Candidate 431,Frontend Developer,"CSS, C++, Git, C#",2.2 years,B.Sc IT,"Portfolio Website, HR Dashboard"
+CAND2025432,Sara Desai,Male,30,Hyderabad,saradesai@gmail.com,Candidate 432,Backend Developer,"Pandas, Power BI, Hibernate, NumPy, C++, Python",2.1 years,MCA,IoT Smart Home
+CAND2025433,Aarav Reddy,Male,27,Bengaluru,aaravreddy@gmail.com,Candidate 433,Web Developer,"Selenium, Android Studio, MongoDB, TypeScript, Docker, CSS",1.8 years,B.Tech CE,Portfolio Website
+CAND2025434,Navya Desai,Female,41,Pune,navyadesai@gmail.com,Candidate 434,Mobile App Developer,"Docker, Python, CSS, Firebase, Kotlin, Express, TypeScript",2.2 years,B.Sc CS,"Stock Predictor, Weather App"
+CAND2025435,Arjun Yadav,Male,38,Delhi,arjunyadav@gmail.com,Candidate 435,Database Engineer,"Python, Kotlin, Hibernate, AWS, Node.js, Android Studio",4.4 years,B.Tech CS,Blockchain Wallet
+CAND2025436,Saanvi Gowda,Male,41,Hyderabad,saanvigowda@gmail.com,Candidate 436,DevOps Engineer,"Git, HTML, Kotlin, Kubernetes, MongoDB",2.1 years,B.Tech CS,"Mobile Banking UI, IoT Smart Home"
+CAND2025437,Sara Jadhav,Male,42,Delhi,sarajadhav@gmail.com,Candidate 437,Backend Developer,"TensorFlow, Jira, Hibernate, Pandas, Kotlin, Python",3.5 years,BCA,"Ecommerce API, Stock Predictor"
+CAND2025438,Ira Kulkarni,Male,36,Mumbai,irakulkarni@gmail.com,Candidate 438,AI Engineer,"Express, Hibernate, CSS, C#, Java",1.6 years,MCA,Fake News Detection
+CAND2025439,Aarav Verma,Female,25,Delhi,aaravverma@gmail.com,Candidate 439,Database Engineer,"Power BI, TypeScript, CSS, Kubernetes",5.0 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+CAND2025440,Vivaan Pandey,Female,45,Kolkata,vivaanpandey@gmail.com,Candidate 440,Blockchain Developer,"C#, TensorFlow, Firebase, CSS, Pandas",4.5 years,MCA,"Ecommerce API, IoT Smart Home"
+CAND2025441,Ishaan Khan,Male,23,Mumbai,ishaankhan@gmail.com,Candidate 441,Machine Learning Engineer,"AWS, Docker, Python, Java, TypeScript, CSS",3.9 years,B.Tech CSE,"Resume Analyzer, IoT Smart Home"
+CAND2025442,Ira Jadhav,Female,36,Kolkata,irajadhav@gmail.com,Candidate 442,Frontend Developer,"React, Java, Jira, Express, Kubernetes, Docker",3.1 years,B.Tech IT,"Resume Analyzer, Portfolio Website"
+CAND2025443,Arjun Khan,Female,44,Hyderabad,arjunkhan@gmail.com,Candidate 443,Web Developer,"MongoDB, Jira, SQL, Spring Boot, TensorFlow, CSS, NumPy",4.7 years,B.Tech CS,"Ecommerce API, ERP System"
+CAND2025444,Ishaan Shaikh,Female,32,Kolkata,ishaanshaikh@gmail.com,Candidate 444,DevOps Engineer,"TensorFlow, Python, Java, Jira, Firebase, HTML",4.1 years,B.Tech CS,"Stock Predictor, ChatGPT Clone"
+CAND2025445,Vivaan Patel,Female,28,Mumbai,vivaanpatel@gmail.com,Candidate 445,Backend Developer,"Firebase, React, Node.js, C++",4.0 years,MCA,IoT Smart Home
+CAND2025446,Aarav Pawar,Male,25,Chennai,aaravpawar@gmail.com,Candidate 446,Frontend Developer,"AWS, Java, Kubernetes, HTML",1.1 years,B.Tech CSE,Blockchain Wallet
+CAND2025447,Aadhya Verma,Male,31,Bengaluru,aadhyaverma@gmail.com,Candidate 447,Data Analyst,"Hibernate, C#, Spring Boot, MongoDB",0.8 years,B.Tech CE,Job Portal
+CAND2025448,Arjun Desai,Female,20,Bengaluru,arjundesai@gmail.com,Candidate 448,Mobile App Developer,"Pandas, Android Studio, Git, C#",3.3 years,B.Tech IT,Ecommerce API
+CAND2025449,Prisha Iyer,Male,31,Pune,prishaiyer@gmail.com,Candidate 449,Machine Learning Engineer,"API Development, HTML, MongoDB, Docker, Hibernate, Power BI",3.1 years,B.Sc IT,Mobile Banking UI
+CAND2025450,Saanvi Reddy,Male,28,Mumbai,saanvireddy@gmail.com,Candidate 450,Android Developer,"Git, React, Power BI, Firebase, TypeScript, Selenium",2.5 years,B.Sc CS,Portfolio Website
+CAND2025451,Prisha Singh,Female,22,Bengaluru,prishasingh@gmail.com,Candidate 451,Machine Learning Engineer,"Java, C#, CSS, Selenium, Node.js, TensorFlow",2.4 years,B.Sc CS,Weather App
+CAND2025452,Ananya Sharma,Female,22,Delhi,ananyasharma@gmail.com,Candidate 452,Machine Learning Engineer,"Android Studio, Docker, Jira, MongoDB, Power BI",0.9 years,B.Tech IT,"Ecommerce API, Mobile Banking UI"
+CAND2025453,Ananya Jadhav,Male,23,Kolkata,ananyajadhav@gmail.com,Candidate 453,Android Developer,"TypeScript, Power BI, Java, CSS, HTML, Firebase",5.0 years,M.Tech AI,Weather App
+CAND2025454,Navya Jadhav,Male,39,Chennai,navyajadhav@gmail.com,Candidate 454,Cloud Engineer,"Hibernate, React, Java, Express, HTML, MongoDB",4.0 years,B.Tech CSE,"ERP System, HR Dashboard"
+CAND2025455,Saanvi Patel,Female,45,Pune,saanvipatel@gmail.com,Candidate 455,Cloud Engineer,"NumPy, Express, Power BI, Spring Boot",2.9 years,M.Tech AI,"Blockchain Wallet, Resume Analyzer"
+CAND2025456,Aadhya Desai,Female,39,Kolkata,aadhyadesai@gmail.com,Candidate 456,Data Analyst,"Firebase, Selenium, TensorFlow, CSS",5.0 years,B.Tech CE,Ecommerce API
+CAND2025457,Reyansh Singh,Male,22,Bengaluru,reyanshsingh@gmail.com,Candidate 457,Android Developer,"Git, Python, Firebase, Android Studio, Pandas, Hibernate",3.0 years,MCA,"Mobile Banking UI, Job Portal"
+CAND2025458,Vihaan Kulkarni,Female,27,Bengaluru,vihaankulkarni@gmail.com,Candidate 458,DevOps Engineer,"Docker, Pandas, SQL, React",0.9 years,M.Tech AI,"Portfolio Website, Resume Analyzer"
+CAND2025459,Aadhya Joshi,Male,45,Pune,aadhyajoshi@gmail.com,Candidate 459,Data Analyst,"Node.js, CSS, TensorFlow, AWS, C++, Python, API Development",4.1 years,B.Sc IT,"Mobile Banking UI, ERP System"
+CAND2025460,Diya Nair,Male,30,Bengaluru,diyanair@gmail.com,Candidate 460,Backend Developer,"TensorFlow, TypeScript, Android Studio, Kotlin, NumPy, Express",4.6 years,B.Tech CSE,IoT Smart Home
+CAND2025461,Meera Singh,Male,37,Mumbai,meerasingh@gmail.com,Candidate 461,Full Stack Developer,"C++, Java, TensorFlow, Pandas",1.0 years,MCA,"Ecommerce API, Weather App"
+CAND2025462,Ira Joshi,Male,44,Pune,irajoshi@gmail.com,Candidate 462,Machine Learning Engineer,"TypeScript, Hibernate, NumPy, Firebase, AWS",4.1 years,B.Tech IT,ChatGPT Clone
+CAND2025463,Aadhya Iyer,Male,32,Mumbai,aadhyaiyer@gmail.com,Candidate 463,Cloud Engineer,"AWS, Git, Kubernetes, NumPy, Python, API Development",2.8 years,B.Tech CS,IoT Smart Home
+CAND2025464,Aadhya Desai,Male,25,Hyderabad,aadhyadesai@gmail.com,Candidate 464,DevOps Engineer,"Pandas, Git, TensorFlow, Node.js, Firebase",3.6 years,BCA,"Blockchain Wallet, ERP System"
+CAND2025465,Prisha Khan,Male,42,Kolkata,prishakhan@gmail.com,Candidate 465,Backend Developer,"TensorFlow, Power BI, MongoDB, AWS, Hibernate, C#",2.6 years,B.Tech IT,"Job Portal, ChatGPT Clone"
+CAND2025466,Vivaan Chatterjee,Male,20,Bengaluru,vivaanchatterjee@gmail.com,Candidate 466,Java Developer,"Git, CSS, Firebase, NumPy, HTML",3.0 years,B.Sc IT,ERP System
+CAND2025467,Meera Yadav,Female,29,Delhi,meerayadav@gmail.com,Candidate 467,Cloud Engineer,"Express, AWS, NumPy, API Development",4.3 years,MCA,Resume Analyzer
+CAND2025468,Ishaan Desai,Male,22,Kolkata,ishaandesai@gmail.com,Candidate 468,Android Developer,"Kubernetes, TensorFlow, CSS, SQL, Python, Spring Boot, Selenium",3.8 years,B.Tech CSE,IoT Smart Home
+CAND2025469,Navya Khan,Female,22,Hyderabad,navyakhan@gmail.com,Candidate 469,Mobile App Developer,"Android Studio, Firebase, HTML, Power BI, TensorFlow, C#, Selenium",4.7 years,BCA,Weather App
+CAND2025470,Ishaan Sharma,Female,41,Bengaluru,ishaansharma@gmail.com,Candidate 470,Full Stack Developer,"Hibernate, SQL, Pandas, TypeScript, React",0.7 years,BCA,Job Portal
+CAND2025471,Vivaan Singh,Male,36,Chennai,vivaansingh@gmail.com,Candidate 471,Full Stack Developer,"Jira, Kubernetes, MongoDB, Selenium",3.9 years,B.Tech CE,"Mobile Banking UI, Weather App"
+CAND2025472,Navya Shetty,Female,45,Pune,navyashetty@gmail.com,Candidate 472,Mobile App Developer,"TypeScript, SQL, API Development, Kotlin, Docker, Pandas",4.8 years,B.Tech CE,Blockchain Wallet
+CAND2025473,Aarav Mehta,Female,45,Delhi,aaravmehta@gmail.com,Candidate 473,DevOps Engineer,"Spring Boot, HTML, NumPy, Express, AWS, Node.js",0.5 years,B.Tech IT,"Fake News Detection, Stock Predictor"
+CAND2025474,Vivaan Chatterjee,Male,29,Pune,vivaanchatterjee@gmail.com,Candidate 474,Java Developer,"Git, AWS, Express, TypeScript",0.5 years,B.Tech CE,IoT Smart Home
+CAND2025475,Vivaan Joshi,Male,45,Chennai,vivaanjoshi@gmail.com,Candidate 475,Machine Learning Engineer,"Android Studio, Spring Boot, Java, AWS",3.7 years,B.Tech IT,Portfolio Website
+CAND2025476,Aarav Chatterjee,Male,21,Pune,aaravchatterjee@gmail.com,Candidate 476,Database Engineer,"HTML, Java, Pandas, Selenium, TypeScript",1.7 years,B.Tech CS,"Weather App, ChatGPT Clone"
+CAND2025477,Ananya Jadhav,Female,28,Chennai,ananyajadhav@gmail.com,Candidate 477,Cloud Engineer,"Docker, Selenium, Android Studio, TypeScript",0.9 years,B.Tech CE,Weather App
+CAND2025478,Ishaan Shaikh,Male,22,Mumbai,ishaanshaikh@gmail.com,Candidate 478,Mobile App Developer,"Firebase, C++, C#, Spring Boot",1.2 years,MCA,"Blockchain Wallet, Job Portal"
+CAND2025479,Navya Kulkarni,Female,45,Pune,navyakulkarni@gmail.com,Candidate 479,Frontend Developer,"Jira, C++, API Development, Power BI",4.9 years,M.Tech AI,"Stock Predictor, Job Portal"
+CAND2025480,Meera Shaikh,Female,41,Mumbai,meerashaikh@gmail.com,Candidate 480,Full Stack Developer,"API Development, Jira, HTML, TypeScript, Pandas",3.8 years,B.Tech CS,"IoT Smart Home, Blockchain Wallet"
+CAND2025481,Prisha Joshi,Female,45,Delhi,prishajoshi@gmail.com,Candidate 481,Machine Learning Engineer,"Firebase, TypeScript, HTML, AWS, API Development, C++",4.9 years,MCA,Job Portal
+CAND2025482,Reyansh Reddy,Female,30,Kolkata,reyanshreddy@gmail.com,Candidate 482,Mobile App Developer,"Jira, React, Kotlin, C#, Hibernate, C++, Java",0.8 years,B.Tech IT,HR Dashboard
+CAND2025483,Rohan Verma,Female,38,Mumbai,rohanverma@gmail.com,Candidate 483,AI Engineer,"Power BI, TensorFlow, Spring Boot, Firebase, Pandas, NumPy",2.5 years,B.Sc CS,Job Portal
+CAND2025484,Aadhya Joshi,Female,34,Hyderabad,aadhyajoshi@gmail.com,Candidate 484,Full Stack Developer,"React, Firebase, HTML, Pandas, Docker, MongoDB, Hibernate",2.2 years,B.Sc CS,HR Dashboard
+CAND2025485,Meera Pandey,Female,28,Pune,meerapandey@gmail.com,Candidate 485,Frontend Developer,"AWS, Hibernate, Pandas, CSS",1.0 years,M.Tech AI,Portfolio Website
+CAND2025486,Aadhya Verma,Female,36,Kolkata,aadhyaverma@gmail.com,Candidate 486,Java Developer,"Docker, TypeScript, Kotlin, C++, SQL",4.5 years,MCA,"Resume Analyzer, IoT Smart Home"
+CAND2025487,Saanvi Pawar,Male,27,Chennai,saanvipawar@gmail.com,Candidate 487,Blockchain Developer,"API Development, Git, Node.js, Docker, Hibernate, AWS",4.6 years,B.Tech CSE,Resume Analyzer
+CAND2025488,Rohan Yadav,Female,41,Pune,rohanyadav@gmail.com,Candidate 488,Cloud Engineer,"NumPy, Hibernate, Docker, TypeScript, Power BI, Kotlin",4.2 years,B.Tech CSE,"Fake News Detection, ChatGPT Clone"
+CAND2025489,Ananya Iyer,Male,20,Pune,ananyaiyer@gmail.com,Candidate 489,Blockchain Developer,"Hibernate, Kubernetes, Python, Pandas, Power BI, Android Studio",3.5 years,B.Sc IT,"Weather App, Blockchain Wallet"
+CAND2025490,Diya Pandey,Male,26,Pune,diyapandey@gmail.com,Candidate 490,Mobile App Developer,"Jira, Python, CSS, Express, API Development",1.3 years,B.Sc CS,Ecommerce API
+CAND2025491,Rohan Mehta,Female,38,Chennai,rohanmehta@gmail.com,Candidate 491,Blockchain Developer,"Selenium, CSS, TensorFlow, Jira, Pandas, API Development, Spring Boot",3.5 years,B.Tech CE,"Portfolio Website, Stock Predictor"
+CAND2025492,Vihaan Iyer,Male,41,Pune,vihaaniyer@gmail.com,Candidate 492,Android Developer,"Pandas, Python, Express, Spring Boot, API Development, TensorFlow, TypeScript",1.8 years,B.Tech CS,"ERP System, Mobile Banking UI"
+CAND2025493,Sara Yadav,Female,35,Chennai,sarayadav@gmail.com,Candidate 493,Data Analyst,"Kotlin, React, Jira, SQL, Kubernetes",2.1 years,B.Sc CS,"IoT Smart Home, Ecommerce API"
+CAND2025494,Myra Yadav,Female,44,Mumbai,myrayadav@gmail.com,Candidate 494,Frontend Developer,"Selenium, TensorFlow, HTML, Kubernetes",3.1 years,B.Tech CSE,"Resume Analyzer, Portfolio Website"
+CAND2025495,Rohan Khan,Female,36,Hyderabad,rohankhan@gmail.com,Candidate 495,Full Stack Developer,"Pandas, Power BI, Kotlin, Node.js, MongoDB",3.9 years,B.Tech CE,"Weather App, Blockchain Wallet"
+CAND2025496,Sara Sharma,Male,37,Kolkata,sarasharma@gmail.com,Candidate 496,Full Stack Developer,"Express, Kotlin, TypeScript, Jira, C#, Docker",0.9 years,B.Tech CS,Weather App
+CAND2025497,Aarav Iyer,Female,31,Bengaluru,aaraviyer@gmail.com,Candidate 497,Mobile App Developer,"Hibernate, Selenium, Kotlin, NumPy, CSS, HTML, C++",3.9 years,M.Tech AI,"IoT Smart Home, Ecommerce API"
+CAND2025498,Reyansh Gowda,Female,28,Kolkata,reyanshgowda@gmail.com,Candidate 498,Java Developer,"TensorFlow, CSS, Git, Java",4.4 years,B.Tech CE,ERP System
+CAND2025499,Sai Singh,Male,27,Pune,saisingh@gmail.com,Candidate 499,Machine Learning Engineer,"React, API Development, Kotlin, HTML, Node.js, Express, TensorFlow",4.9 years,B.Tech IT,"Portfolio Website, Resume Analyzer"
+CAND2025500,Ira Nair,Female,32,Chennai,iranair@gmail.com,Candidate 500,Full Stack Developer,"Express, Kubernetes, Docker, Firebase, TypeScript, React, MongoDB",3.0 years,M.Tech AI,"Job Portal, IoT Smart Home"
+CAND2025501,Ira Singh,Female,28,Chennai,irasingh@gmail.com,Candidate 501,Cloud Engineer,"Java, Kubernetes, Spring Boot, Git, C#",2.3 years,B.Tech CSE,Mobile Banking UI
+CAND2025502,Meera Iyer,Male,40,Chennai,meeraiyer@gmail.com,Candidate 502,Web Developer,"AWS, HTML, Android Studio, Selenium, Express",2.0 years,B.Tech CE,Stock Predictor
+CAND2025503,Vivaan Joshi,Female,30,Mumbai,vivaanjoshi@gmail.com,Candidate 503,Backend Developer,"Hibernate, CSS, Node.js, AWS, Firebase, Jira",2.9 years,B.Tech CE,"Portfolio Website, HR Dashboard"
+CAND2025504,Vihaan Khan,Male,37,Bengaluru,vihaankhan@gmail.com,Candidate 504,Full Stack Developer,"HTML, C#, Android Studio, AWS, Express",2.1 years,B.Tech CSE,"ChatGPT Clone, IoT Smart Home"
+CAND2025505,Aadhya Yadav,Female,31,Bengaluru,aadhyayadav@gmail.com,Candidate 505,AI Engineer,"Git, C++, TypeScript, Android Studio",1.2 years,B.Tech CSE,HR Dashboard
+CAND2025506,Saanvi Chatterjee,Female,34,Delhi,saanvichatterjee@gmail.com,Candidate 506,Java Developer,"Python, Spring Boot, C++, Power BI",1.5 years,M.Tech AI,Stock Predictor
+CAND2025507,Diya Desai,Female,27,Pune,diyadesai@gmail.com,Candidate 507,Software Tester,"Pandas, Kubernetes, NumPy, Selenium, Hibernate, Express",4.1 years,BCA,"ERP System, HR Dashboard"
+CAND2025508,Sara Sharma,Male,28,Kolkata,sarasharma@gmail.com,Candidate 508,Full Stack Developer,"Kotlin, Node.js, TensorFlow, Power BI, Kubernetes, NumPy, C#",0.9 years,B.Sc IT,Fake News Detection
+CAND2025509,Vihaan Iyer,Male,45,Chennai,vihaaniyer@gmail.com,Candidate 509,Software Tester,"AWS, SQL, CSS, HTML, Hibernate, TensorFlow, Node.js",2.3 years,B.Sc CS,"HR Dashboard, Portfolio Website"
+CAND2025510,Aadhya Khan,Male,33,Bengaluru,aadhyakhan@gmail.com,Candidate 510,Android Developer,"NumPy, Kotlin, C#, TypeScript, MongoDB, SQL, Kubernetes",4.0 years,B.Sc CS,"ERP System, Ecommerce API"
+CAND2025511,Aadhya Iyer,Male,21,Pune,aadhyaiyer@gmail.com,Candidate 511,Machine Learning Engineer,"HTML, Python, Git, TypeScript, API Development, MongoDB, Pandas",0.5 years,BCA,Job Portal
+CAND2025512,Aditya Gowda,Female,38,Mumbai,adityagowda@gmail.com,Candidate 512,Mobile App Developer,"NumPy, Python, Spring Boot, TensorFlow, Express",0.6 years,B.Tech CS,"Blockchain Wallet, Fake News Detection"
+CAND2025513,Ishaan Yadav,Male,39,Hyderabad,ishaanyadav@gmail.com,Candidate 513,Database Engineer,"CSS, API Development, Java, TensorFlow, Power BI, Spring Boot, Pandas",3.3 years,B.Sc IT,"Blockchain Wallet, HR Dashboard"
+CAND2025514,Sara Mehta,Male,34,Kolkata,saramehta@gmail.com,Candidate 514,Web Developer,"NumPy, C#, Kubernetes, Firebase, Node.js, MongoDB, Power BI",4.5 years,B.Tech CS,"Portfolio Website, Blockchain Wallet"
+CAND2025515,Vihaan Pawar,Male,37,Bengaluru,vihaanpawar@gmail.com,Candidate 515,Web Developer,"C#, TensorFlow, Docker, Java, API Development, Git, NumPy",3.0 years,B.Tech CE,Job Portal
+CAND2025516,Krishna Yadav,Male,34,Pune,krishnayadav@gmail.com,Candidate 516,Java Developer,"Pandas, Power BI, TensorFlow, C++, HTML, TypeScript",4.0 years,B.Sc CS,Job Portal
+CAND2025517,Aadhya Joshi,Male,32,Bengaluru,aadhyajoshi@gmail.com,Candidate 517,Java Developer,"SQL, HTML, C#, Power BI",4.1 years,B.Sc IT,"IoT Smart Home, Portfolio Website"
+CAND2025518,Aarav Joshi,Male,33,Kolkata,aaravjoshi@gmail.com,Candidate 518,Full Stack Developer,"Selenium, SQL, Power BI, NumPy, TypeScript",3.5 years,MCA,ERP System
+CAND2025519,Krishna Chatterjee,Male,38,Pune,krishnachatterjee@gmail.com,Candidate 519,Blockchain Developer,"TypeScript, AWS, SQL, Pandas, Jira",2.7 years,B.Tech IT,Portfolio Website
+CAND2025520,Sai Mehta,Female,44,Pune,saimehta@gmail.com,Candidate 520,Android Developer,"NumPy, C#, Kubernetes, AWS, Spring Boot, Power BI",2.7 years,B.Tech CSE,Mobile Banking UI
+CAND2025521,Ira Shaikh,Female,43,Chennai,irashaikh@gmail.com,Candidate 521,Software Tester,"Docker, React, CSS, Node.js, TypeScript, Spring Boot",3.1 years,BCA,Job Portal
+CAND2025522,Meera Pawar,Male,20,Kolkata,meerapawar@gmail.com,Candidate 522,Android Developer,"MongoDB, Spring Boot, C#, Kubernetes, Firebase",3.0 years,BCA,"Job Portal, ERP System"
+CAND2025523,Arjun Nair,Male,41,Bengaluru,arjunnair@gmail.com,Candidate 523,Android Developer,"NumPy, API Development, CSS, HTML, Power BI, Android Studio",4.7 years,M.Tech AI,"Ecommerce API, Resume Analyzer"
+CAND2025524,Sara Iyer,Female,32,Bengaluru,saraiyer@gmail.com,Candidate 524,Software Tester,"Docker, C#, Selenium, Android Studio, Firebase",2.7 years,B.Tech CE,"Mobile Banking UI, Stock Predictor"
+CAND2025525,Vihaan Sharma,Male,43,Hyderabad,vihaansharma@gmail.com,Candidate 525,Blockchain Developer,"Python, Pandas, Spring Boot, MongoDB",4.7 years,B.Tech CE,"ERP System, Fake News Detection"
+CAND2025526,Reyansh Yadav,Male,40,Kolkata,reyanshyadav@gmail.com,Candidate 526,Blockchain Developer,"NumPy, Android Studio, Git, MongoDB, TensorFlow, Node.js",5.0 years,B.Tech CE,"Stock Predictor, Weather App"
+CAND2025527,Krishna Patel,Female,38,Kolkata,krishnapatel@gmail.com,Candidate 527,Web Developer,"Pandas, Kubernetes, Git, Python, HTML, React, TensorFlow",3.2 years,M.Tech AI,"Portfolio Website, Ecommerce API"
+CAND2025528,Aarav Pawar,Female,29,Chennai,aaravpawar@gmail.com,Candidate 528,Machine Learning Engineer,"Selenium, Kubernetes, TensorFlow, TypeScript, Android Studio",3.0 years,B.Tech CS,Job Portal
+CAND2025529,Myra Kulkarni,Male,27,Pune,myrakulkarni@gmail.com,Candidate 529,Java Developer,"C#, Docker, Node.js, API Development",1.5 years,B.Tech CE,Blockchain Wallet
+CAND2025530,Krishna Verma,Female,32,Kolkata,krishnaverma@gmail.com,Candidate 530,Data Analyst,"CSS, C#, HTML, NumPy, Kubernetes, TypeScript, Android Studio",3.6 years,M.Tech AI,IoT Smart Home
+CAND2025531,Ira Jadhav,Male,28,Hyderabad,irajadhav@gmail.com,Candidate 531,Full Stack Developer,"Express, NumPy, React, TypeScript, Hibernate",5.0 years,B.Sc IT,"Stock Predictor, ERP System"
+CAND2025532,Aditya Khan,Male,23,Delhi,adityakhan@gmail.com,Candidate 532,DevOps Engineer,"Git, C#, CSS, Docker",2.6 years,B.Sc CS,"Resume Analyzer, Mobile Banking UI"
+CAND2025533,Ananya Verma,Female,29,Hyderabad,ananyaverma@gmail.com,Candidate 533,Database Engineer,"MongoDB, Spring Boot, HTML, Python",3.1 years,BCA,"Job Portal, IoT Smart Home"
+CAND2025534,Saanvi Chatterjee,Male,41,Delhi,saanvichatterjee@gmail.com,Candidate 534,Android Developer,"Selenium, NumPy, C#, Firebase, MongoDB",3.4 years,MCA,"IoT Smart Home, Resume Analyzer"
+CAND2025535,Rohan Patel,Female,30,Pune,rohanpatel@gmail.com,Candidate 535,AI Engineer,"Docker, TypeScript, Git, Firebase, Kotlin, Android Studio",4.4 years,B.Sc IT,ERP System
+CAND2025536,Saanvi Patel,Female,37,Kolkata,saanvipatel@gmail.com,Candidate 536,Mobile App Developer,"TypeScript, Node.js, MongoDB, Jira, React, Kubernetes, Pandas",1.4 years,B.Sc CS,"Ecommerce API, HR Dashboard"
+CAND2025537,Reyansh Joshi,Female,43,Kolkata,reyanshjoshi@gmail.com,Candidate 537,AI Engineer,"MongoDB, NumPy, Git, Spring Boot",3.1 years,B.Sc CS,"Resume Analyzer, Mobile Banking UI"
+CAND2025538,Aditya Chatterjee,Female,27,Hyderabad,adityachatterjee@gmail.com,Candidate 538,Java Developer,"API Development, SQL, MongoDB, Pandas, React",0.7 years,B.Tech CE,ERP System
+CAND2025539,Aditya Chatterjee,Male,20,Pune,adityachatterjee@gmail.com,Candidate 539,Data Analyst,"Kubernetes, Android Studio, CSS, Python, Power BI",1.7 years,B.Sc CS,"Resume Analyzer, HR Dashboard"
+CAND2025540,Ananya Sharma,Male,23,Mumbai,ananyasharma@gmail.com,Candidate 540,Blockchain Developer,"Hibernate, Kubernetes, C++, NumPy",1.0 years,B.Tech IT,Ecommerce API
+CAND2025541,Aarav Shetty,Male,27,Kolkata,aaravshetty@gmail.com,Candidate 541,Cloud Engineer,"Selenium, AWS, Hibernate, MongoDB",0.8 years,M.Tech AI,"ChatGPT Clone, HR Dashboard"
+CAND2025542,Rohan Khan,Male,40,Bengaluru,rohankhan@gmail.com,Candidate 542,Blockchain Developer,"CSS, C#, C++, Hibernate",1.6 years,M.Tech AI,"IoT Smart Home, Resume Analyzer"
+CAND2025543,Aditya Verma,Male,32,Delhi,adityaverma@gmail.com,Candidate 543,Software Tester,"Node.js, Pandas, API Development, TensorFlow, Selenium, AWS",1.7 years,B.Tech IT,"Stock Predictor, Job Portal"
+CAND2025544,Sai Joshi,Male,36,Bengaluru,saijoshi@gmail.com,Candidate 544,Java Developer,"API Development, MongoDB, Spring Boot, Hibernate, Pandas, Jira, Power BI",0.6 years,B.Sc CS,"Fake News Detection, Resume Analyzer"
+CAND2025545,Arjun Mehta,Female,37,Bengaluru,arjunmehta@gmail.com,Candidate 545,Full Stack Developer,"Express, Git, Spring Boot, Kotlin, Hibernate, AWS, NumPy",1.8 years,B.Sc IT,HR Dashboard
+CAND2025546,Vihaan Mehta,Male,36,Delhi,vihaanmehta@gmail.com,Candidate 546,Web Developer,"API Development, Jira, Android Studio, Spring Boot, Kubernetes, Git",3.0 years,MCA,IoT Smart Home
+CAND2025547,Ishaan Sharma,Male,40,Kolkata,ishaansharma@gmail.com,Candidate 547,Mobile App Developer,"Pandas, Docker, Kubernetes, Node.js, Express, Hibernate",2.4 years,B.Tech CE,Blockchain Wallet
+CAND2025548,Ananya Singh,Female,32,Hyderabad,ananyasingh@gmail.com,Candidate 548,Full Stack Developer,"CSS, C#, Selenium, MongoDB, TensorFlow",2.9 years,B.Tech CE,Weather App
+CAND2025549,Reyansh Nair,Female,39,Mumbai,reyanshnair@gmail.com,Candidate 549,Database Engineer,"SQL, Kotlin, Python, Power BI, API Development",1.6 years,B.Sc IT,"IoT Smart Home, ChatGPT Clone"
+CAND2025550,Vivaan Khan,Male,22,Pune,vivaankhan@gmail.com,Candidate 550,Data Analyst,"Hibernate, Android Studio, SQL, Python, Express, Git, C#",0.9 years,B.Tech IT,"Blockchain Wallet, IoT Smart Home"
+CAND2025551,Saanvi Sharma,Female,33,Delhi,saanvisharma@gmail.com,Candidate 551,DevOps Engineer,"TypeScript, Node.js, Power BI, TensorFlow, C++",3.1 years,M.Tech AI,ChatGPT Clone
+CAND2025552,Ishaan Sharma,Male,33,Mumbai,ishaansharma@gmail.com,Candidate 552,Android Developer,"Kotlin, Python, MongoDB, API Development, React, Java",2.8 years,MCA,IoT Smart Home
+CAND2025553,Diya Desai,Female,30,Delhi,diyadesai@gmail.com,Candidate 553,Software Tester,"Android Studio, MongoDB, Kubernetes, Docker, CSS, Python",2.4 years,B.Sc CS,Resume Analyzer
+CAND2025554,Ira Mehta,Female,38,Pune,iramehta@gmail.com,Candidate 554,Backend Developer,"AWS, Kotlin, NumPy, Express",4.3 years,B.Tech CSE,"ERP System, Ecommerce API"
+CAND2025555,Reyansh Joshi,Male,29,Mumbai,reyanshjoshi@gmail.com,Candidate 555,Frontend Developer,"Power BI, TypeScript, Kotlin, Java, Spring Boot, React, Hibernate",4.5 years,B.Sc CS,"Stock Predictor, Portfolio Website"
+CAND2025556,Ira Desai,Male,31,Pune,iradesai@gmail.com,Candidate 556,Machine Learning Engineer,"CSS, SQL, NumPy, C#, API Development, Kubernetes",4.9 years,B.Sc IT,"Weather App, Blockchain Wallet"
+CAND2025557,Saanvi Jadhav,Female,31,Chennai,saanvijadhav@gmail.com,Candidate 557,Machine Learning Engineer,"Java, Jira, Kotlin, TypeScript, Hibernate, Python, React",3.5 years,B.Tech CSE,"Resume Analyzer, Ecommerce API"
+CAND2025558,Ananya Reddy,Male,33,Pune,ananyareddy@gmail.com,Candidate 558,Data Analyst,"TypeScript, API Development, C++, Selenium, TensorFlow, AWS",2.4 years,B.Tech CSE,"Job Portal, Portfolio Website"
+CAND2025559,Aadhya Mehta,Female,29,Chennai,aadhyamehta@gmail.com,Candidate 559,Backend Developer,"CSS, Git, Power BI, C++, Kubernetes, SQL",1.9 years,B.Sc CS,"ChatGPT Clone, Weather App"
+CAND2025560,Meera Pandey,Female,45,Bengaluru,meerapandey@gmail.com,Candidate 560,Machine Learning Engineer,"HTML, MongoDB, Spring Boot, Git, Java, Jira",4.7 years,B.Sc IT,HR Dashboard
+CAND2025561,Reyansh Mehta,Male,40,Mumbai,reyanshmehta@gmail.com,Candidate 561,Software Tester,"API Development, Kubernetes, Jira, Python, CSS",0.7 years,B.Tech CS,"Weather App, IoT Smart Home"
+CAND2025562,Arjun Sharma,Female,23,Kolkata,arjunsharma@gmail.com,Candidate 562,Data Analyst,"TensorFlow, AWS, React, Firebase",4.1 years,B.Sc IT,Blockchain Wallet
+CAND2025563,Aarav Sharma,Male,26,Kolkata,aaravsharma@gmail.com,Candidate 563,Full Stack Developer,"Firebase, Hibernate, Selenium, Git, Kotlin",4.5 years,M.Tech AI,Job Portal
+CAND2025564,Krishna Patel,Male,33,Chennai,krishnapatel@gmail.com,Candidate 564,Software Tester,"HTML, Kotlin, Java, NumPy, Android Studio, API Development, C#",1.4 years,B.Tech IT,"Blockchain Wallet, ChatGPT Clone"
+CAND2025565,Aditya Shetty,Female,37,Delhi,adityashetty@gmail.com,Candidate 565,Data Analyst,"React, C++, Power BI, C#, Android Studio, CSS",4.0 years,B.Tech IT,Resume Analyzer
+CAND2025566,Reyansh Pandey,Female,27,Delhi,reyanshpandey@gmail.com,Candidate 566,AI Engineer,"C#, Docker, TensorFlow, Python",3.7 years,B.Tech IT,Resume Analyzer
+CAND2025567,Arjun Kulkarni,Female,32,Delhi,arjunkulkarni@gmail.com,Candidate 567,Java Developer,"Python, Selenium, Express, Jira, TensorFlow, Node.js, NumPy",4.2 years,M.Tech AI,"IoT Smart Home, Mobile Banking UI"
+CAND2025568,Ishaan Singh,Male,35,Bengaluru,ishaansingh@gmail.com,Candidate 568,Cloud Engineer,"React, MongoDB, Node.js, Docker, API Development, Kubernetes, TensorFlow",4.8 years,B.Sc CS,Job Portal
+CAND2025569,Rohan Jadhav,Female,31,Chennai,rohanjadhav@gmail.com,Candidate 569,Frontend Developer,"CSS, Docker, NumPy, Jira, Hibernate, Power BI",2.2 years,B.Tech CSE,Mobile Banking UI
+CAND2025570,Aadhya Patel,Female,26,Delhi,aadhyapatel@gmail.com,Candidate 570,Backend Developer,"C#, Node.js, C++, CSS, AWS, HTML, Firebase",2.2 years,B.Tech IT,Ecommerce API
+CAND2025571,Rohan Pawar,Male,33,Mumbai,rohanpawar@gmail.com,Candidate 571,Machine Learning Engineer,"Pandas, TensorFlow, SQL, React",2.2 years,B.Sc CS,"ChatGPT Clone, HR Dashboard"
+CAND2025572,Arjun Jadhav,Female,32,Kolkata,arjunjadhav@gmail.com,Candidate 572,Frontend Developer,"Express, C#, Jira, API Development",2.9 years,M.Tech AI,Blockchain Wallet
+CAND2025573,Sai Yadav,Female,24,Delhi,saiyadav@gmail.com,Candidate 573,Cloud Engineer,"C++, Jira, Kotlin, Selenium",0.8 years,MCA,Stock Predictor
+CAND2025574,Prisha Chatterjee,Female,20,Mumbai,prishachatterjee@gmail.com,Candidate 574,Blockchain Developer,"NumPy, Express, Android Studio, CSS, AWS, API Development, Pandas",3.6 years,MCA,"Blockchain Wallet, Job Portal"
+CAND2025575,Navya Pandey,Male,20,Bengaluru,navyapandey@gmail.com,Candidate 575,AI Engineer,"Python, C#, Express, Git, Node.js, CSS, Android Studio",0.8 years,B.Sc CS,Mobile Banking UI
+CAND2025576,Ira Gowda,Male,42,Delhi,iragowda@gmail.com,Candidate 576,Data Analyst,"Pandas, SQL, Kubernetes, Python, Java",1.1 years,BCA,Portfolio Website
+CAND2025577,Vivaan Yadav,Male,22,Chennai,vivaanyadav@gmail.com,Candidate 577,DevOps Engineer,"Kubernetes, Express, Selenium, NumPy, Spring Boot, SQL, Jira",4.5 years,MCA,"Fake News Detection, Blockchain Wallet"
+CAND2025578,Vivaan Shetty,Male,41,Kolkata,vivaanshetty@gmail.com,Candidate 578,AI Engineer,"NumPy, Jira, API Development, SQL",4.3 years,MCA,Stock Predictor
+CAND2025579,Ira Sharma,Male,29,Bengaluru,irasharma@gmail.com,Candidate 579,Full Stack Developer,"Kubernetes, Selenium, MongoDB, AWS, C++, TensorFlow, Python",2.6 years,B.Sc IT,Stock Predictor
+CAND2025580,Navya Sharma,Female,34,Mumbai,navyasharma@gmail.com,Candidate 580,Backend Developer,"Firebase, Java, TypeScript, AWS",2.7 years,BCA,Blockchain Wallet
+CAND2025581,Saanvi Sharma,Female,27,Hyderabad,saanvisharma@gmail.com,Candidate 581,Data Analyst,"CSS, C++, Java, HTML",1.3 years,B.Tech CE,"Resume Analyzer, Portfolio Website"
+CAND2025582,Ishaan Verma,Male,25,Mumbai,ishaanverma@gmail.com,Candidate 582,Cloud Engineer,"Firebase, Express, C#, Pandas, Java, C++, Node.js",1.4 years,B.Tech CSE,IoT Smart Home
+CAND2025583,Diya Sharma,Female,21,Kolkata,diyasharma@gmail.com,Candidate 583,Blockchain Developer,"React, API Development, TypeScript, Selenium, Spring Boot, Power BI",2.7 years,B.Sc IT,Resume Analyzer
+CAND2025584,Ishaan Chatterjee,Male,37,Mumbai,ishaanchatterjee@gmail.com,Candidate 584,Mobile App Developer,"Pandas, Kubernetes, C++, Git, Docker, Hibernate",0.8 years,B.Tech CSE,"Fake News Detection, Blockchain Wallet"
+CAND2025585,Ira Shaikh,Female,41,Bengaluru,irashaikh@gmail.com,Candidate 585,Full Stack Developer,"CSS, TypeScript, HTML, AWS, Spring Boot, Java, Firebase",2.3 years,B.Tech CSE,Weather App
+CAND2025586,Reyansh Yadav,Female,35,Hyderabad,reyanshyadav@gmail.com,Candidate 586,Database Engineer,"Docker, AWS, Pandas, Git, Android Studio, Python",0.8 years,B.Tech CS,Fake News Detection
+CAND2025587,Diya Kulkarni,Male,37,Kolkata,diyakulkarni@gmail.com,Candidate 587,Java Developer,"NumPy, Selenium, Node.js, Firebase, TypeScript, C#, Python",3.8 years,B.Tech CS,"Mobile Banking UI, Fake News Detection"
+CAND2025588,Ananya Patel,Male,26,Pune,ananyapatel@gmail.com,Candidate 588,Full Stack Developer,"SQL, TypeScript, C#, CSS, Android Studio, Java, MongoDB",1.8 years,M.Tech AI,"Stock Predictor, Ecommerce API"
+CAND2025589,Meera Pandey,Male,32,Bengaluru,meerapandey@gmail.com,Candidate 589,Backend Developer,"Pandas, Kubernetes, Android Studio, Power BI, C#, Git",3.6 years,B.Sc IT,"Stock Predictor, Portfolio Website"
+CAND2025590,Meera Mehta,Female,26,Delhi,meeramehta@gmail.com,Candidate 590,Backend Developer,"HTML, MongoDB, AWS, C#, Pandas, API Development",3.3 years,MCA,Blockchain Wallet
+CAND2025591,Meera Pandey,Female,42,Hyderabad,meerapandey@gmail.com,Candidate 591,Mobile App Developer,"Kotlin, Docker, Node.js, Power BI",4.4 years,B.Tech CS,"Resume Analyzer, Blockchain Wallet"
+CAND2025592,Aarav Verma,Male,37,Kolkata,aaravverma@gmail.com,Candidate 592,Full Stack Developer,"CSS, Kotlin, API Development, SQL, TypeScript, Pandas, NumPy",3.3 years,B.Tech CE,Portfolio Website
+CAND2025593,Ira Jadhav,Male,45,Bengaluru,irajadhav@gmail.com,Candidate 593,Cloud Engineer,"Selenium, TypeScript, API Development, Android Studio",4.3 years,B.Sc IT,"Blockchain Wallet, ChatGPT Clone"
+CAND2025594,Ishaan Patel,Male,21,Pune,ishaanpatel@gmail.com,Candidate 594,Database Engineer,"C#, TensorFlow, Node.js, CSS",2.6 years,B.Tech CE,ChatGPT Clone
+CAND2025595,Aarav Desai,Female,31,Delhi,aaravdesai@gmail.com,Candidate 595,Machine Learning Engineer,"React, Git, Java, Selenium, AWS, C#",1.7 years,B.Tech IT,"Mobile Banking UI, Job Portal"
+CAND2025596,Navya Mehta,Male,44,Chennai,navyamehta@gmail.com,Candidate 596,Software Tester,"Kotlin, C++, API Development, Express, CSS, Power BI",4.1 years,B.Sc IT,"HR Dashboard, Portfolio Website"
+CAND2025597,Ananya Shetty,Female,22,Delhi,ananyashetty@gmail.com,Candidate 597,Data Analyst,"Kotlin, TypeScript, Selenium, Power BI",3.4 years,B.Sc IT,"Resume Analyzer, Fake News Detection"
+CAND2025598,Aadhya Mehta,Female,42,Delhi,aadhyamehta@gmail.com,Candidate 598,Android Developer,"Python, Git, TypeScript, Node.js, Selenium, C#, Docker",0.8 years,MCA,"Portfolio Website, Blockchain Wallet"
+CAND2025599,Rohan Chatterjee,Female,24,Delhi,rohanchatterjee@gmail.com,Candidate 599,Data Analyst,"C#, TensorFlow, API Development, Spring Boot, NumPy, Python, Jira",4.5 years,B.Tech IT,Resume Analyzer
+CAND2025600,Arjun Shetty,Male,36,Delhi,arjunshetty@gmail.com,Candidate 600,Software Tester,"Java, Pandas, Express, SQL, Jira, Kotlin",4.5 years,B.Tech CE,Weather App
+CAND2025601,Saanvi Jadhav,Female,20,Hyderabad,saanvijadhav@gmail.com,Candidate 601,DevOps Engineer,"C#, AWS, Hibernate, TypeScript, Kubernetes",3.3 years,B.Tech CS,Blockchain Wallet
+CAND2025602,Vihaan Shaikh,Female,36,Hyderabad,vihaanshaikh@gmail.com,Candidate 602,Backend Developer,"Jira, Hibernate, TypeScript, Git",2.6 years,BCA,"Blockchain Wallet, Mobile Banking UI"
+CAND2025603,Krishna Khan,Female,42,Kolkata,krishnakhan@gmail.com,Candidate 603,Blockchain Developer,"TypeScript, HTML, Spring Boot, Firebase",2.9 years,B.Sc CS,"ERP System, Fake News Detection"
+CAND2025604,Myra Jadhav,Female,39,Chennai,myrajadhav@gmail.com,Candidate 604,AI Engineer,"Kubernetes, AWS, Python, Docker",3.8 years,B.Tech CE,Mobile Banking UI
+CAND2025605,Ishaan Yadav,Male,35,Pune,ishaanyadav@gmail.com,Candidate 605,Data Analyst,"SQL, Express, TypeScript, Python, Git, Pandas",4.1 years,B.Tech CE,"Fake News Detection, IoT Smart Home"
+CAND2025606,Diya Pawar,Male,34,Chennai,diyapawar@gmail.com,Candidate 606,AI Engineer,"API Development, Kubernetes, Android Studio, MongoDB, C#, React, Spring Boot",2.0 years,B.Tech IT,"Weather App, Fake News Detection"
+CAND2025607,Vihaan Gowda,Male,36,Chennai,vihaangowda@gmail.com,Candidate 607,Android Developer,"C#, Hibernate, Jira, SQL, MongoDB",4.4 years,BCA,"IoT Smart Home, Job Portal"
+CAND2025608,Ananya Mehta,Female,38,Chennai,ananyamehta@gmail.com,Candidate 608,Database Engineer,"API Development, Power BI, Android Studio, Python, Kotlin, Java",1.5 years,B.Tech CS,"Stock Predictor, ChatGPT Clone"
+CAND2025609,Arjun Reddy,Female,23,Mumbai,arjunreddy@gmail.com,Candidate 609,Backend Developer,"TypeScript, Pandas, Spring Boot, CSS",2.4 years,B.Tech CS,Blockchain Wallet
+CAND2025610,Diya Shetty,Male,42,Delhi,diyashetty@gmail.com,Candidate 610,Android Developer,"Power BI, Node.js, C#, Git, C++, Kubernetes",4.3 years,B.Sc IT,HR Dashboard
+CAND2025611,Meera Chatterjee,Female,31,Chennai,meerachatterjee@gmail.com,Candidate 611,Backend Developer,"C++, API Development, AWS, React, HTML, Jira",3.6 years,B.Sc CS,"Portfolio Website, ERP System"
+CAND2025612,Ananya Joshi,Female,33,Mumbai,ananyajoshi@gmail.com,Candidate 612,Java Developer,"React, SQL, Docker, Pandas, Firebase, NumPy, Spring Boot",1.4 years,B.Sc IT,"Blockchain Wallet, Weather App"
+CAND2025613,Ishaan Yadav,Male,26,Kolkata,ishaanyadav@gmail.com,Candidate 613,Full Stack Developer,"Android Studio, HTML, TensorFlow, Git, SQL, C++, CSS",2.0 years,BCA,"HR Dashboard, Blockchain Wallet"
+CAND2025614,Ishaan Jadhav,Female,35,Delhi,ishaanjadhav@gmail.com,Candidate 614,Java Developer,"Express, Docker, Firebase, CSS, Git",1.3 years,BCA,ChatGPT Clone
+CAND2025615,Ananya Desai,Male,40,Bengaluru,ananyadesai@gmail.com,Candidate 615,Frontend Developer,"Firebase, AWS, Kubernetes, Java, MongoDB, API Development",1.7 years,B.Tech IT,"Weather App, Fake News Detection"
+CAND2025616,Sara Gowda,Male,22,Bengaluru,saragowda@gmail.com,Candidate 616,Frontend Developer,"Spring Boot, Docker, Jira, Node.js, Python, Firebase, TensorFlow",3.4 years,B.Tech CSE,Stock Predictor
+CAND2025617,Reyansh Iyer,Male,30,Bengaluru,reyanshiyer@gmail.com,Candidate 617,DevOps Engineer,"Pandas, Git, SQL, Kotlin, Power BI",0.8 years,B.Sc IT,"IoT Smart Home, Portfolio Website"
+CAND2025618,Reyansh Yadav,Female,32,Bengaluru,reyanshyadav@gmail.com,Candidate 618,Software Tester,"AWS, C#, Java, API Development, Node.js, CSS",4.4 years,M.Tech AI,Fake News Detection
+CAND2025619,Meera Mehta,Female,20,Mumbai,meeramehta@gmail.com,Candidate 619,Data Analyst,"NumPy, Git, C#, SQL, Pandas",2.0 years,BCA,"ERP System, ChatGPT Clone"
+CAND2025620,Prisha Pandey,Female,41,Mumbai,prishapandey@gmail.com,Candidate 620,Full Stack Developer,"Firebase, CSS, React, TypeScript, Power BI, Python, Pandas",1.0 years,B.Tech CSE,"ChatGPT Clone, Stock Predictor"
+CAND2025621,Reyansh Singh,Female,28,Delhi,reyanshsingh@gmail.com,Candidate 621,Frontend Developer,"HTML, Express, Selenium, Git, C#",1.0 years,B.Tech CS,IoT Smart Home
+CAND2025622,Sara Desai,Male,38,Hyderabad,saradesai@gmail.com,Candidate 622,Database Engineer,"Kubernetes, Node.js, Git, Selenium, TypeScript, C++",3.5 years,B.Sc CS,"Mobile Banking UI, ChatGPT Clone"
+CAND2025623,Reyansh Nair,Male,43,Kolkata,reyanshnair@gmail.com,Candidate 623,Database Engineer,"Android Studio, AWS, Kubernetes, HTML, MongoDB, Java",4.2 years,B.Sc CS,Resume Analyzer
+CAND2025624,Vivaan Nair,Male,22,Pune,vivaannair@gmail.com,Candidate 624,Frontend Developer,"API Development, Selenium, C#, Pandas, Jira, C++, Spring Boot",2.2 years,B.Sc IT,"Job Portal, ChatGPT Clone"
+CAND2025625,Diya Gowda,Female,43,Kolkata,diyagowda@gmail.com,Candidate 625,AI Engineer,"Kubernetes, Android Studio, CSS, TypeScript, SQL, Kotlin, TensorFlow",4.6 years,B.Tech IT,ChatGPT Clone
+CAND2025626,Arjun Chatterjee,Female,30,Delhi,arjunchatterjee@gmail.com,Candidate 626,Android Developer,"Express, Docker, NumPy, C#, Kubernetes, Pandas",1.5 years,B.Tech CSE,IoT Smart Home
+CAND2025627,Aadhya Sharma,Female,44,Chennai,aadhyasharma@gmail.com,Candidate 627,Machine Learning Engineer,"TypeScript, C#, MongoDB, Node.js, Express",3.1 years,B.Sc CS,Ecommerce API
+CAND2025628,Prisha Mehta,Female,34,Hyderabad,prishamehta@gmail.com,Candidate 628,Frontend Developer,"C#, AWS, Firebase, Spring Boot",1.6 years,B.Sc IT,"Mobile Banking UI, Resume Analyzer"
+CAND2025629,Sai Verma,Male,21,Mumbai,saiverma@gmail.com,Candidate 629,Mobile App Developer,"Kotlin, Spring Boot, HTML, React",4.6 years,B.Tech CSE,"Portfolio Website, Blockchain Wallet"
+CAND2025630,Reyansh Jadhav,Female,24,Mumbai,reyanshjadhav@gmail.com,Candidate 630,AI Engineer,"Java, Docker, HTML, Selenium, Firebase, TensorFlow",3.0 years,M.Tech AI,"Stock Predictor, HR Dashboard"
+CAND2025631,Rohan Patel,Male,30,Mumbai,rohanpatel@gmail.com,Candidate 631,Database Engineer,"Jira, Python, Power BI, CSS, Java, Hibernate, Kotlin",1.6 years,B.Sc CS,"Stock Predictor, Mobile Banking UI"
+CAND2025632,Reyansh Verma,Male,39,Chennai,reyanshverma@gmail.com,Candidate 632,Frontend Developer,"Python, Kotlin, Hibernate, HTML, Android Studio, Jira",2.3 years,BCA,HR Dashboard
+CAND2025633,Ishaan Jadhav,Male,25,Delhi,ishaanjadhav@gmail.com,Candidate 633,AI Engineer,"TypeScript, Docker, C#, Python",2.0 years,B.Sc CS,"Weather App, ERP System"
+CAND2025634,Saanvi Nair,Male,28,Hyderabad,saanvinair@gmail.com,Candidate 634,Backend Developer,"Docker, Selenium, Kubernetes, React, AWS",4.6 years,B.Sc IT,Ecommerce API
+CAND2025635,Vihaan Nair,Male,43,Chennai,vihaannair@gmail.com,Candidate 635,Android Developer,"Power BI, Node.js, MongoDB, Git, API Development, Pandas",3.6 years,MCA,"Mobile Banking UI, Weather App"
+CAND2025636,Saanvi Pawar,Female,41,Delhi,saanvipawar@gmail.com,Candidate 636,Cloud Engineer,"Kubernetes, Jira, React, Hibernate, Node.js",4.8 years,B.Tech CSE,"IoT Smart Home, Fake News Detection"
+CAND2025637,Sara Singh,Male,42,Hyderabad,sarasingh@gmail.com,Candidate 637,Java Developer,"TypeScript, Express, Power BI, SQL, AWS, Kubernetes",2.7 years,B.Sc IT,"ERP System, Blockchain Wallet"
+CAND2025638,Prisha Mehta,Male,27,Delhi,prishamehta@gmail.com,Candidate 638,DevOps Engineer,"Node.js, Kubernetes, HTML, Kotlin",4.5 years,B.Tech CSE,Ecommerce API
+CAND2025639,Navya Yadav,Female,24,Bengaluru,navyayadav@gmail.com,Candidate 639,Machine Learning Engineer,"Power BI, Node.js, TensorFlow, API Development",2.6 years,B.Tech CS,Stock Predictor
+CAND2025640,Krishna Gowda,Male,42,Mumbai,krishnagowda@gmail.com,Candidate 640,Android Developer,"Node.js, TensorFlow, CSS, Kotlin, Android Studio, Selenium",2.2 years,B.Tech CE,Job Portal
+CAND2025641,Sara Pandey,Female,44,Chennai,sarapandey@gmail.com,Candidate 641,Java Developer,"Spring Boot, TypeScript, Selenium, MongoDB, Power BI, AWS, Kubernetes",4.8 years,B.Tech IT,"Stock Predictor, HR Dashboard"
+CAND2025642,Reyansh Kulkarni,Male,29,Delhi,reyanshkulkarni@gmail.com,Candidate 642,Cloud Engineer,"C++, Kubernetes, TensorFlow, Express, MongoDB, C#",1.0 years,B.Tech CS,Resume Analyzer
+CAND2025643,Arjun Nair,Male,20,Bengaluru,arjunnair@gmail.com,Candidate 643,Frontend Developer,"SQL, React, Python, TensorFlow, AWS, HTML",2.7 years,MCA,"Portfolio Website, ChatGPT Clone"
+CAND2025644,Diya Iyer,Female,26,Kolkata,diyaiyer@gmail.com,Candidate 644,DevOps Engineer,"Docker, TypeScript, Selenium, Spring Boot, Express",2.4 years,BCA,Portfolio Website
+CAND2025645,Diya Gowda,Male,31,Chennai,diyagowda@gmail.com,Candidate 645,Java Developer,"NumPy, Git, MongoDB, Python, Kubernetes, Firebase",3.5 years,B.Sc IT,Weather App
+CAND2025646,Saanvi Reddy,Male,26,Kolkata,saanvireddy@gmail.com,Candidate 646,Web Developer,"Selenium, Python, Firebase, HTML",4.7 years,M.Tech AI,"Weather App, ChatGPT Clone"
+CAND2025647,Saanvi Kulkarni,Male,42,Chennai,saanvikulkarni@gmail.com,Candidate 647,Backend Developer,"Selenium, Hibernate, Firebase, Pandas",1.7 years,B.Tech CSE,Job Portal
+CAND2025648,Ira Chatterjee,Male,41,Hyderabad,irachatterjee@gmail.com,Candidate 648,Cloud Engineer,"TypeScript, Express, Spring Boot, AWS, CSS, C#",1.4 years,MCA,HR Dashboard
+CAND2025649,Aditya Pandey,Male,38,Kolkata,adityapandey@gmail.com,Candidate 649,Cloud Engineer,"Jira, Kotlin, Hibernate, C++, Express",3.2 years,B.Sc CS,"Ecommerce API, Fake News Detection"
+CAND2025650,Vihaan Khan,Female,31,Hyderabad,vihaankhan@gmail.com,Candidate 650,Java Developer,"Pandas, Power BI, Selenium, SQL",0.7 years,B.Tech CS,"Blockchain Wallet, Weather App"
+CAND2025651,Krishna Verma,Female,31,Kolkata,krishnaverma@gmail.com,Candidate 651,Software Tester,"Java, HTML, CSS, TensorFlow, AWS",3.4 years,B.Tech IT,"Weather App, Stock Predictor"
+CAND2025652,Arjun Pandey,Female,45,Hyderabad,arjunpandey@gmail.com,Candidate 652,Database Engineer,"C#, Spring Boot, Python, C++, Kotlin, Pandas",1.7 years,B.Tech CE,"Blockchain Wallet, Weather App"
+CAND2025653,Aadhya Yadav,Male,20,Mumbai,aadhyayadav@gmail.com,Candidate 653,Machine Learning Engineer,"C#, Firebase, TensorFlow, React, Jira, MongoDB",2.7 years,B.Sc CS,"HR Dashboard, Mobile Banking UI"
+CAND2025654,Arjun Verma,Female,40,Kolkata,arjunverma@gmail.com,Candidate 654,Web Developer,"Kotlin, React, Jira, MongoDB, Spring Boot",2.8 years,MCA,Fake News Detection
+CAND2025655,Arjun Shaikh,Female,40,Delhi,arjunshaikh@gmail.com,Candidate 655,Android Developer,"Kotlin, Pandas, TypeScript, Java, Jira",4.4 years,BCA,HR Dashboard
+CAND2025656,Arjun Joshi,Female,35,Mumbai,arjunjoshi@gmail.com,Candidate 656,Android Developer,"CSS, HTML, Java, Firebase, Node.js, Express",2.6 years,M.Tech AI,Mobile Banking UI
+CAND2025657,Prisha Pawar,Female,29,Pune,prishapawar@gmail.com,Candidate 657,Android Developer,"Docker, Firebase, NumPy, Express, Android Studio",1.2 years,M.Tech AI,"Mobile Banking UI, Portfolio Website"
+CAND2025658,Arjun Pandey,Male,41,Pune,arjunpandey@gmail.com,Candidate 658,Software Tester,"HTML, Java, SQL, Power BI, Express, Kubernetes, Jira",0.9 years,BCA,Job Portal
+CAND2025659,Reyansh Iyer,Female,24,Hyderabad,reyanshiyer@gmail.com,Candidate 659,AI Engineer,"NumPy, MongoDB, C#, Hibernate, API Development",2.9 years,B.Tech IT,"Portfolio Website, Weather App"
+CAND2025660,Myra Mehta,Female,28,Pune,myramehta@gmail.com,Candidate 660,Machine Learning Engineer,"C++, TensorFlow, C#, Python",3.9 years,BCA,Fake News Detection
+CAND2025661,Sai Jadhav,Female,35,Kolkata,saijadhav@gmail.com,Candidate 661,Java Developer,"Git, Java, CSS, API Development",4.0 years,B.Tech CSE,IoT Smart Home
+CAND2025662,Arjun Jadhav,Female,31,Hyderabad,arjunjadhav@gmail.com,Candidate 662,Machine Learning Engineer,"NumPy, Firebase, C++, Git",3.8 years,M.Tech AI,ChatGPT Clone
+CAND2025663,Navya Sharma,Male,31,Mumbai,navyasharma@gmail.com,Candidate 663,Machine Learning Engineer,"CSS, Firebase, Java, C++",1.4 years,B.Tech CE,"Ecommerce API, Weather App"
+CAND2025664,Ira Reddy,Female,29,Mumbai,irareddy@gmail.com,Candidate 664,AI Engineer,"HTML, C++, MongoDB, Pandas, NumPy, AWS",2.4 years,B.Tech CSE,"Mobile Banking UI, ERP System"
+CAND2025665,Navya Jadhav,Female,25,Pune,navyajadhav@gmail.com,Candidate 665,Full Stack Developer,"C#, Jira, NumPy, Pandas, TypeScript",4.1 years,M.Tech AI,Portfolio Website
+CAND2025666,Myra Patel,Male,22,Hyderabad,myrapatel@gmail.com,Candidate 666,Cloud Engineer,"Spring Boot, Pandas, Kotlin, Android Studio, Hibernate, MongoDB",1.7 years,B.Tech CE,ERP System
+CAND2025667,Prisha Pawar,Female,36,Kolkata,prishapawar@gmail.com,Candidate 667,Web Developer,"Express, TypeScript, NumPy, Hibernate",1.7 years,B.Tech CS,"HR Dashboard, IoT Smart Home"
+CAND2025668,Aarav Iyer,Male,26,Delhi,aaraviyer@gmail.com,Candidate 668,Data Analyst,"Python, Java, C++, AWS",4.8 years,B.Tech CSE,"Resume Analyzer, Stock Predictor"
+CAND2025669,Vivaan Khan,Male,27,Bengaluru,vivaankhan@gmail.com,Candidate 669,Database Engineer,"TensorFlow, Express, Firebase, AWS, Selenium, Kubernetes",3.9 years,MCA,"Ecommerce API, HR Dashboard"
+CAND2025670,Aarav Gowda,Male,30,Chennai,aaravgowda@gmail.com,Candidate 670,Data Analyst,"Docker, C#, SQL, Pandas, Selenium, CSS",3.0 years,BCA,Blockchain Wallet
+CAND2025671,Aarav Shaikh,Female,32,Delhi,aaravshaikh@gmail.com,Candidate 671,Database Engineer,"API Development, Spring Boot, Kubernetes, React, Power BI",3.2 years,B.Tech CS,IoT Smart Home
+CAND2025672,Navya Kulkarni,Female,43,Chennai,navyakulkarni@gmail.com,Candidate 672,Database Engineer,"Kubernetes, AWS, Firebase, Java, API Development, Express",2.6 years,B.Tech CE,Blockchain Wallet
+CAND2025673,Sara Nair,Male,38,Mumbai,saranair@gmail.com,Candidate 673,Mobile App Developer,"HTML, Node.js, Selenium, MongoDB, Docker",3.0 years,B.Tech CS,Portfolio Website
+CAND2025674,Navya Sharma,Male,37,Chennai,navyasharma@gmail.com,Candidate 674,Web Developer,"Firebase, Kotlin, TensorFlow, Android Studio, Jira, CSS",0.5 years,B.Tech CS,Portfolio Website
+CAND2025675,Aarav Nair,Female,31,Chennai,aaravnair@gmail.com,Candidate 675,Cloud Engineer,"NumPy, Kotlin, C++, AWS, Android Studio, TypeScript",2.3 years,B.Tech CS,Ecommerce API
+CAND2025676,Ira Nair,Male,27,Chennai,iranair@gmail.com,Candidate 676,Android Developer,"Java, CSS, C++, Spring Boot, Jira, SQL, AWS",3.4 years,M.Tech AI,Fake News Detection
+CAND2025677,Meera Nair,Male,29,Pune,meeranair@gmail.com,Candidate 677,Full Stack Developer,"AWS, CSS, NumPy, Spring Boot",1.7 years,MCA,"Mobile Banking UI, IoT Smart Home"
+CAND2025678,Ira Nair,Male,24,Kolkata,iranair@gmail.com,Candidate 678,Cloud Engineer,"Pandas, Docker, Spring Boot, C#, AWS, NumPy",2.5 years,BCA,"Blockchain Wallet, ERP System"
+CAND2025679,Reyansh Shetty,Male,35,Bengaluru,reyanshshetty@gmail.com,Candidate 679,Web Developer,"HTML, Firebase, Jira, CSS",4.2 years,B.Tech CS,ERP System
+CAND2025680,Navya Yadav,Female,31,Kolkata,navyayadav@gmail.com,Candidate 680,Cloud Engineer,"Pandas, Firebase, Kubernetes, Python, Node.js, C#",4.5 years,BCA,"Portfolio Website, Ecommerce API"
+CAND2025681,Arjun Mehta,Female,43,Kolkata,arjunmehta@gmail.com,Candidate 681,Web Developer,"Python, TensorFlow, C#, API Development, Git, Spring Boot, MongoDB",0.6 years,BCA,Mobile Banking UI
+CAND2025682,Ira Sharma,Male,27,Chennai,irasharma@gmail.com,Candidate 682,Database Engineer,"Express, Java, Kotlin, API Development, HTML, Python",3.8 years,MCA,"Job Portal, IoT Smart Home"
+CAND2025683,Arjun Shaikh,Female,28,Pune,arjunshaikh@gmail.com,Candidate 683,Blockchain Developer,"Git, Jira, Power BI, Docker, Selenium",1.0 years,B.Tech CS,HR Dashboard
+CAND2025684,Myra Patel,Male,29,Mumbai,myrapatel@gmail.com,Candidate 684,Frontend Developer,"Pandas, C++, Hibernate, AWS, Power BI, Node.js, React",3.5 years,M.Tech AI,"Weather App, IoT Smart Home"
+CAND2025685,Vivaan Yadav,Female,41,Hyderabad,vivaanyadav@gmail.com,Candidate 685,Android Developer,"React, Kotlin, HTML, Spring Boot, Jira, MongoDB, Selenium",0.6 years,B.Tech CS,"Weather App, IoT Smart Home"
+CAND2025686,Saanvi Mehta,Female,39,Bengaluru,saanvimehta@gmail.com,Candidate 686,Web Developer,"Docker, Firebase, Pandas, Kubernetes, SQL, C++, API Development",3.8 years,BCA,Portfolio Website
+CAND2025687,Vivaan Jadhav,Female,45,Pune,vivaanjadhav@gmail.com,Candidate 687,Mobile App Developer,"SQL, C#, API Development, TypeScript, Hibernate, Kubernetes",0.8 years,B.Tech CE,Mobile Banking UI
+CAND2025688,Prisha Yadav,Male,27,Hyderabad,prishayadav@gmail.com,Candidate 688,Frontend Developer,"Express, Android Studio, C#, Firebase, Node.js",2.7 years,BCA,Job Portal
+CAND2025689,Rohan Reddy,Female,36,Hyderabad,rohanreddy@gmail.com,Candidate 689,Data Analyst,"Selenium, MongoDB, TensorFlow, AWS, Pandas, Kubernetes, Python",2.6 years,B.Tech CE,Blockchain Wallet
+CAND2025690,Meera Pandey,Female,31,Mumbai,meerapandey@gmail.com,Candidate 690,Blockchain Developer,"React, Java, Power BI, Selenium, CSS, Pandas, Git",3.0 years,MCA,HR Dashboard
+CAND2025691,Meera Khan,Male,28,Chennai,meerakhan@gmail.com,Candidate 691,Backend Developer,"Firebase, C#, AWS, CSS, Node.js",4.7 years,M.Tech AI,"Blockchain Wallet, IoT Smart Home"
+CAND2025692,Arjun Reddy,Female,32,Delhi,arjunreddy@gmail.com,Candidate 692,Blockchain Developer,"Spring Boot, Node.js, C++, TensorFlow, NumPy, AWS",0.6 years,B.Sc CS,"Job Portal, IoT Smart Home"
+CAND2025693,Navya Jadhav,Female,36,Kolkata,navyajadhav@gmail.com,Candidate 693,Cloud Engineer,"Kotlin, Java, Git, TypeScript",1.9 years,B.Tech IT,Resume Analyzer
+CAND2025694,Vivaan Singh,Female,42,Chennai,vivaansingh@gmail.com,Candidate 694,Machine Learning Engineer,"Python, Kotlin, Hibernate, C++, Jira",4.8 years,B.Tech IT,"Mobile Banking UI, Blockchain Wallet"
+CAND2025695,Sai Shetty,Male,37,Pune,saishetty@gmail.com,Candidate 695,Frontend Developer,"Docker, API Development, C++, Node.js",4.8 years,B.Sc IT,Stock Predictor
+CAND2025696,Aditya Sharma,Male,33,Kolkata,adityasharma@gmail.com,Candidate 696,AI Engineer,"SQL, Selenium, HTML, CSS, TypeScript, Python, Firebase",4.1 years,M.Tech AI,"Portfolio Website, Stock Predictor"
+CAND2025697,Navya Khan,Male,20,Kolkata,navyakhan@gmail.com,Candidate 697,Backend Developer,"Java, Kubernetes, MongoDB, Spring Boot, AWS",2.7 years,BCA,ChatGPT Clone
+CAND2025698,Vivaan Khan,Male,33,Chennai,vivaankhan@gmail.com,Candidate 698,Java Developer,"Hibernate, Pandas, Python, C++, Express, SQL, AWS",4.9 years,B.Sc IT,"Weather App, Mobile Banking UI"
+CAND2025699,Krishna Verma,Male,26,Bengaluru,krishnaverma@gmail.com,Candidate 699,Database Engineer,"NumPy, Python, C++, Power BI, Jira, API Development",2.6 years,BCA,Mobile Banking UI
+CAND2025700,Sara Pawar,Female,32,Mumbai,sarapawar@gmail.com,Candidate 700,Full Stack Developer,"Git, Express, Firebase, TypeScript, MongoDB, Spring Boot",4.1 years,B.Tech CE,Stock Predictor
+CAND2025701,Ananya Chatterjee,Male,35,Pune,ananyachatterjee@gmail.com,Candidate 701,Frontend Developer,"Git, NumPy, Power BI, HTML",1.8 years,BCA,Job Portal
+CAND2025702,Sara Jadhav,Male,23,Hyderabad,sarajadhav@gmail.com,Candidate 702,AI Engineer,"TypeScript, Hibernate, Firebase, Selenium, Python, Pandas, Kubernetes",4.3 years,B.Tech IT,"IoT Smart Home, HR Dashboard"
+CAND2025703,Navya Reddy,Female,30,Delhi,navyareddy@gmail.com,Candidate 703,Backend Developer,"SQL, Power BI, API Development, React, Python",3.5 years,B.Sc IT,Job Portal
+CAND2025704,Ananya Kulkarni,Female,28,Mumbai,ananyakulkarni@gmail.com,Candidate 704,Mobile App Developer,"SQL, Hibernate, HTML, Spring Boot, Java",3.8 years,B.Tech CS,Resume Analyzer
+CAND2025705,Navya Reddy,Male,25,Pune,navyareddy@gmail.com,Candidate 705,DevOps Engineer,"React, NumPy, Firebase, Pandas, C#",4.6 years,B.Tech CS,Stock Predictor
+CAND2025706,Saanvi Reddy,Male,27,Mumbai,saanvireddy@gmail.com,Candidate 706,AI Engineer,"Hibernate, Java, C#, Kubernetes",2.4 years,BCA,"Stock Predictor, Fake News Detection"
+CAND2025707,Meera Singh,Male,41,Kolkata,meerasingh@gmail.com,Candidate 707,Software Tester,"TypeScript, Android Studio, Kubernetes, Power BI, API Development, Hibernate",3.1 years,B.Tech CSE,"Ecommerce API, Stock Predictor"
+CAND2025708,Sara Gowda,Male,27,Pune,saragowda@gmail.com,Candidate 708,Database Engineer,"SQL, Kubernetes, C#, TypeScript, HTML",4.9 years,MCA,IoT Smart Home
+CAND2025709,Prisha Patel,Male,33,Delhi,prishapatel@gmail.com,Candidate 709,DevOps Engineer,"Android Studio, Kubernetes, Docker, Express",2.1 years,B.Tech IT,Job Portal
+CAND2025710,Vihaan Verma,Male,38,Mumbai,vihaanverma@gmail.com,Candidate 710,Frontend Developer,"TensorFlow, Java, Python, AWS, Spring Boot",2.8 years,BCA,Mobile Banking UI
+CAND2025711,Sara Gowda,Male,26,Bengaluru,saragowda@gmail.com,Candidate 711,Machine Learning Engineer,"Kotlin, TensorFlow, Spring Boot, C#, Pandas, Docker, Java",2.1 years,B.Tech CE,Stock Predictor
+CAND2025712,Sara Verma,Male,32,Kolkata,saraverma@gmail.com,Candidate 712,Data Analyst,"Hibernate, Kotlin, React, CSS, Git, Android Studio, Selenium",3.1 years,BCA,Mobile Banking UI
+CAND2025713,Sai Sharma,Male,43,Chennai,saisharma@gmail.com,Candidate 713,Frontend Developer,"Git, Kotlin, AWS, Firebase, Jira, Hibernate",2.3 years,B.Sc IT,"Ecommerce API, IoT Smart Home"
+CAND2025714,Aadhya Kulkarni,Male,22,Chennai,aadhyakulkarni@gmail.com,Candidate 714,Data Analyst,"TypeScript, MongoDB, Power BI, Hibernate, Python, AWS",0.8 years,B.Sc IT,Stock Predictor
+CAND2025715,Sai Sharma,Female,43,Chennai,saisharma@gmail.com,Candidate 715,Java Developer,"Android Studio, TypeScript, C#, React, Docker, Spring Boot",2.2 years,B.Tech CS,"Mobile Banking UI, Job Portal"
+CAND2025716,Saanvi Chatterjee,Male,38,Bengaluru,saanvichatterjee@gmail.com,Candidate 716,Mobile App Developer,"Spring Boot, CSS, Pandas, Docker, SQL, HTML",3.3 years,B.Tech CSE,"Weather App, Stock Predictor"
+CAND2025717,Saanvi Sharma,Male,28,Hyderabad,saanvisharma@gmail.com,Candidate 717,Software Tester,"NumPy, Power BI, Git, Kubernetes, Pandas, HTML",3.7 years,MCA,"HR Dashboard, Job Portal"
+CAND2025718,Ishaan Sharma,Male,25,Pune,ishaansharma@gmail.com,Candidate 718,Full Stack Developer,"Hibernate, SQL, TensorFlow, Python, MongoDB, AWS, Express",3.7 years,B.Tech CE,"Portfolio Website, Stock Predictor"
+CAND2025719,Ira Jadhav,Male,42,Chennai,irajadhav@gmail.com,Candidate 719,Full Stack Developer,"API Development, C#, React, Git, Kotlin",2.1 years,B.Tech CE,"Resume Analyzer, Fake News Detection"
+CAND2025720,Vihaan Chatterjee,Female,20,Chennai,vihaanchatterjee@gmail.com,Candidate 720,Software Tester,"Selenium, Firebase, AWS, Android Studio, Spring Boot, CSS",1.2 years,MCA,"Fake News Detection, Portfolio Website"
+CAND2025721,Rohan Pandey,Male,31,Bengaluru,rohanpandey@gmail.com,Candidate 721,Mobile App Developer,"SQL, TypeScript, Kotlin, C++, NumPy",3.7 years,BCA,Blockchain Wallet
+CAND2025722,Sai Desai,Male,41,Pune,saidesai@gmail.com,Candidate 722,Blockchain Developer,"Express, Java, TypeScript, TensorFlow, C++",4.5 years,MCA,Weather App
+CAND2025723,Reyansh Pawar,Male,37,Kolkata,reyanshpawar@gmail.com,Candidate 723,Software Tester,"SQL, TensorFlow, React, Python, Power BI, Kotlin",4.2 years,B.Tech CE,Job Portal
+CAND2025724,Myra Shetty,Male,38,Hyderabad,myrashetty@gmail.com,Candidate 724,DevOps Engineer,"TypeScript, React, Selenium, Express",1.8 years,B.Tech CSE,Resume Analyzer
+CAND2025725,Arjun Chatterjee,Female,36,Pune,arjunchatterjee@gmail.com,Candidate 725,Frontend Developer,"Git, AWS, Selenium, TensorFlow, Python, API Development, Firebase",1.0 years,B.Tech CS,"Job Portal, Ecommerce API"
+CAND2025726,Meera Singh,Male,34,Pune,meerasingh@gmail.com,Candidate 726,Full Stack Developer,"SQL, Express, C++, Kotlin, AWS",3.2 years,B.Tech CE,"Resume Analyzer, Weather App"
+CAND2025727,Aditya Chatterjee,Female,42,Pune,adityachatterjee@gmail.com,Candidate 727,AI Engineer,"TypeScript, Kubernetes, Docker, Hibernate, Firebase, CSS",3.3 years,M.Tech AI,"ERP System, Stock Predictor"
+CAND2025728,Rohan Iyer,Male,38,Bengaluru,rohaniyer@gmail.com,Candidate 728,Database Engineer,"NumPy, HTML, Kotlin, Jira",2.9 years,BCA,"ChatGPT Clone, Stock Predictor"
+CAND2025729,Meera Mehta,Male,22,Mumbai,meeramehta@gmail.com,Candidate 729,Android Developer,"C++, C#, Selenium, Kubernetes, TensorFlow, TypeScript, AWS",2.7 years,B.Tech CS,"Mobile Banking UI, ChatGPT Clone"
+CAND2025730,Aadhya Verma,Male,33,Chennai,aadhyaverma@gmail.com,Candidate 730,DevOps Engineer,"CSS, AWS, Pandas, Selenium",2.2 years,MCA,IoT Smart Home
+CAND2025731,Rohan Sharma,Male,34,Chennai,rohansharma@gmail.com,Candidate 731,Database Engineer,"Selenium, MongoDB, Express, C++, Hibernate",3.7 years,B.Tech CE,"ERP System, Ecommerce API"
+CAND2025732,Navya Shaikh,Male,20,Hyderabad,navyashaikh@gmail.com,Candidate 732,DevOps Engineer,"API Development, Python, Android Studio, Selenium, Hibernate",4.3 years,B.Tech CS,Blockchain Wallet
+CAND2025733,Myra Reddy,Male,31,Bengaluru,myrareddy@gmail.com,Candidate 733,Mobile App Developer,"Kubernetes, NumPy, API Development, Python, Firebase, Selenium, MongoDB",4.7 years,B.Tech CS,Mobile Banking UI
+CAND2025734,Rohan Joshi,Female,27,Hyderabad,rohanjoshi@gmail.com,Candidate 734,Backend Developer,"Android Studio, NumPy, AWS, Express, Git, Firebase, Python",4.9 years,B.Sc CS,"HR Dashboard, ERP System"
+CAND2025735,Saanvi Gowda,Male,23,Pune,saanvigowda@gmail.com,Candidate 735,DevOps Engineer,"API Development, Java, CSS, Python",2.2 years,B.Tech CSE,"Weather App, IoT Smart Home"
+CAND2025736,Saanvi Singh,Male,40,Mumbai,saanvisingh@gmail.com,Candidate 736,AI Engineer,"MongoDB, NumPy, Spring Boot, Power BI, Java, Git, CSS",3.5 years,BCA,"IoT Smart Home, Blockchain Wallet"
+CAND2025737,Aditya Desai,Male,35,Bengaluru,adityadesai@gmail.com,Candidate 737,Data Analyst,"Node.js, Git, Express, Java, AWS",2.8 years,MCA,Stock Predictor
+CAND2025738,Ananya Sharma,Male,43,Delhi,ananyasharma@gmail.com,Candidate 738,Web Developer,"Pandas, TensorFlow, Python, HTML, API Development, Power BI, Spring Boot",2.5 years,B.Sc CS,IoT Smart Home
+CAND2025739,Aditya Reddy,Male,24,Hyderabad,adityareddy@gmail.com,Candidate 739,DevOps Engineer,"Jira, TensorFlow, Hibernate, Android Studio",2.4 years,B.Sc CS,"Portfolio Website, ChatGPT Clone"
+CAND2025740,Aarav Khan,Male,39,Mumbai,aaravkhan@gmail.com,Candidate 740,Cloud Engineer,"TensorFlow, Node.js, Android Studio, Kotlin",3.2 years,BCA,"Blockchain Wallet, IoT Smart Home"
+CAND2025741,Prisha Reddy,Female,45,Mumbai,prishareddy@gmail.com,Candidate 741,Mobile App Developer,"SQL, Spring Boot, C#, TensorFlow, Power BI, Java",4.6 years,MCA,ERP System
+CAND2025742,Krishna Verma,Female,39,Hyderabad,krishnaverma@gmail.com,Candidate 742,Web Developer,"Kubernetes, CSS, C++, SQL, Node.js, Java, Selenium",4.6 years,B.Tech CE,"HR Dashboard, Portfolio Website"
+CAND2025743,Meera Shetty,Female,40,Kolkata,meerashetty@gmail.com,Candidate 743,Android Developer,"Spring Boot, C#, Kubernetes, Android Studio",4.7 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+CAND2025744,Meera Shetty,Male,42,Mumbai,meerashetty@gmail.com,Candidate 744,DevOps Engineer,"API Development, Java, Pandas, Node.js",4.7 years,BCA,Ecommerce API
+CAND2025745,Vivaan Shaikh,Female,33,Pune,vivaanshaikh@gmail.com,Candidate 745,Frontend Developer,"Firebase, SQL, Python, CSS",4.0 years,B.Tech CE,Stock Predictor
+CAND2025746,Prisha Singh,Female,27,Bengaluru,prishasingh@gmail.com,Candidate 746,AI Engineer,"C++, Firebase, Docker, Spring Boot, Hibernate",0.6 years,B.Tech CE,Stock Predictor
+CAND2025747,Navya Patel,Female,32,Delhi,navyapatel@gmail.com,Candidate 747,Software Tester,"C#, Pandas, CSS, Firebase, C++, Docker, API Development",2.9 years,B.Tech CE,"Resume Analyzer, Weather App"
+CAND2025748,Saanvi Nair,Female,41,Hyderabad,saanvinair@gmail.com,Candidate 748,Android Developer,"NumPy, Android Studio, Jira, MongoDB, TensorFlow, SQL, Power BI",2.3 years,MCA,"Blockchain Wallet, Weather App"
+CAND2025749,Diya Pandey,Female,25,Kolkata,diyapandey@gmail.com,Candidate 749,DevOps Engineer,"Node.js, Kotlin, Python, Android Studio, CSS, Express",4.2 years,B.Tech IT,"Ecommerce API, Stock Predictor"
+CAND2025750,Arjun Patel,Male,44,Delhi,arjunpatel@gmail.com,Candidate 750,Mobile App Developer,"Node.js, TensorFlow, NumPy, C++, TypeScript, Hibernate",1.2 years,B.Sc IT,HR Dashboard
+CAND2025751,Diya Gowda,Male,45,Hyderabad,diyagowda@gmail.com,Candidate 751,Backend Developer,"CSS, Android Studio, C++, Java",2.2 years,B.Tech CS,ChatGPT Clone
+CAND2025752,Krishna Khan,Male,38,Kolkata,krishnakhan@gmail.com,Candidate 752,Full Stack Developer,"React, Python, Hibernate, Kotlin, AWS, C++, TensorFlow",0.7 years,MCA,Blockchain Wallet
+CAND2025753,Navya Joshi,Male,26,Bengaluru,navyajoshi@gmail.com,Candidate 753,Cloud Engineer,"Jira, Java, SQL, Kotlin",2.8 years,B.Tech CS,Blockchain Wallet
+CAND2025754,Rohan Shaikh,Female,29,Chennai,rohanshaikh@gmail.com,Candidate 754,Software Tester,"Python, Kotlin, TensorFlow, Java, AWS",1.6 years,B.Tech CSE,"Ecommerce API, Stock Predictor"
+CAND2025755,Saanvi Khan,Male,29,Chennai,saanvikhan@gmail.com,Candidate 755,Database Engineer,"TensorFlow, CSS, Selenium, Jira, Python, Kubernetes",3.0 years,MCA,"Stock Predictor, Weather App"
+CAND2025756,Arjun Desai,Male,34,Hyderabad,arjundesai@gmail.com,Candidate 756,Software Tester,"NumPy, API Development, Pandas, Spring Boot, SQL",2.7 years,B.Sc CS,"Mobile Banking UI, Portfolio Website"
+CAND2025757,Meera Jadhav,Female,39,Hyderabad,meerajadhav@gmail.com,Candidate 757,DevOps Engineer,"Java, API Development, Python, C++, Hibernate",4.6 years,BCA,"HR Dashboard, Fake News Detection"
+CAND2025758,Reyansh Khan,Male,34,Delhi,reyanshkhan@gmail.com,Candidate 758,Backend Developer,"Pandas, API Development, Android Studio, Kotlin, CSS, TypeScript",4.0 years,B.Tech IT,"IoT Smart Home, Ecommerce API"
+CAND2025759,Diya Yadav,Female,37,Hyderabad,diyayadav@gmail.com,Candidate 759,Java Developer,"Selenium, Git, Jira, Firebase",4.3 years,M.Tech AI,"Mobile Banking UI, Ecommerce API"
+CAND2025760,Sai Chatterjee,Female,39,Pune,saichatterjee@gmail.com,Candidate 760,Cloud Engineer,"React, TensorFlow, TypeScript, C++, Express",2.9 years,B.Tech CE,"ChatGPT Clone, Ecommerce API"
+CAND2025761,Saanvi Chatterjee,Male,40,Hyderabad,saanvichatterjee@gmail.com,Candidate 761,Software Tester,"CSS, C#, Power BI, Hibernate",3.8 years,MCA,Job Portal
+CAND2025762,Reyansh Pawar,Female,31,Bengaluru,reyanshpawar@gmail.com,Candidate 762,DevOps Engineer,"AWS, C#, CSS, Kotlin, Spring Boot",1.0 years,BCA,"Ecommerce API, Weather App"
+CAND2025763,Aadhya Gowda,Male,44,Bengaluru,aadhyagowda@gmail.com,Candidate 763,Full Stack Developer,"TensorFlow, Python, MongoDB, Power BI, Hibernate, Firebase, C#",1.7 years,B.Tech CSE,"ERP System, ChatGPT Clone"
+CAND2025764,Aadhya Verma,Female,38,Pune,aadhyaverma@gmail.com,Candidate 764,Data Analyst,"Kotlin, Java, MongoDB, CSS, SQL, AWS",1.2 years,MCA,Weather App
+CAND2025765,Aditya Khan,Male,24,Mumbai,adityakhan@gmail.com,Candidate 765,Mobile App Developer,"TypeScript, Power BI, C#, TensorFlow, Kubernetes",3.1 years,B.Tech CE,"Portfolio Website, IoT Smart Home"
+CAND2025766,Sai Patel,Female,45,Pune,saipatel@gmail.com,Candidate 766,AI Engineer,"Python, Kubernetes, Docker, AWS, Java, Node.js",3.7 years,B.Tech IT,"Fake News Detection, ERP System"
+CAND2025767,Aadhya Gowda,Male,29,Pune,aadhyagowda@gmail.com,Candidate 767,Web Developer,"CSS, HTML, Power BI, Java, Spring Boot",1.7 years,M.Tech AI,Resume Analyzer
+CAND2025768,Krishna Khan,Female,31,Chennai,krishnakhan@gmail.com,Candidate 768,Database Engineer,"API Development, CSS, TypeScript, Selenium, Docker, Pandas",4.5 years,MCA,"Portfolio Website, ChatGPT Clone"
+CAND2025769,Navya Jadhav,Male,36,Mumbai,navyajadhav@gmail.com,Candidate 769,Database Engineer,"TensorFlow, CSS, Docker, Power BI",2.8 years,B.Tech IT,"Portfolio Website, Weather App"
+CAND2025770,Arjun Pawar,Male,39,Pune,arjunpawar@gmail.com,Candidate 770,Machine Learning Engineer,"CSS, AWS, Firebase, C#, NumPy",2.5 years,M.Tech AI,Portfolio Website
+CAND2025771,Reyansh Pandey,Male,30,Chennai,reyanshpandey@gmail.com,Candidate 771,Web Developer,"SQL, Power BI, Docker, Spring Boot, Android Studio, React",4.9 years,B.Tech CS,"Resume Analyzer, Portfolio Website"
+CAND2025772,Ishaan Verma,Male,26,Chennai,ishaanverma@gmail.com,Candidate 772,Database Engineer,"CSS, API Development, Express, C++, Power BI",3.8 years,B.Tech IT,"IoT Smart Home, Stock Predictor"
+CAND2025773,Navya Verma,Male,35,Chennai,navyaverma@gmail.com,Candidate 773,Software Tester,"Git, API Development, Spring Boot, Android Studio, HTML",4.1 years,M.Tech AI,Mobile Banking UI
+CAND2025774,Vivaan Shaikh,Female,40,Pune,vivaanshaikh@gmail.com,Candidate 774,Android Developer,"HTML, Pandas, Docker, Power BI, Git",2.4 years,B.Tech IT,ERP System
+CAND2025775,Vihaan Chatterjee,Male,36,Hyderabad,vihaanchatterjee@gmail.com,Candidate 775,Backend Developer,"Kubernetes, Git, Hibernate, Spring Boot, Android Studio, HTML, C#",2.9 years,B.Tech CS,"Weather App, ChatGPT Clone"
+CAND2025776,Meera Iyer,Female,37,Chennai,meeraiyer@gmail.com,Candidate 776,Machine Learning Engineer,"Hibernate, AWS, HTML, TensorFlow",2.8 years,B.Tech CE,ChatGPT Clone
+CAND2025777,Aarav Pandey,Female,40,Mumbai,aaravpandey@gmail.com,Candidate 777,Machine Learning Engineer,"AWS, CSS, Firebase, Jira, C++, Kotlin",3.3 years,B.Sc IT,"HR Dashboard, Mobile Banking UI"
+CAND2025778,Aditya Singh,Female,25,Pune,adityasingh@gmail.com,Candidate 778,Machine Learning Engineer,"MongoDB, AWS, Spring Boot, Python, Hibernate, Git, Express",4.7 years,B.Tech CE,ERP System
+CAND2025779,Reyansh Jadhav,Female,42,Mumbai,reyanshjadhav@gmail.com,Candidate 779,Android Developer,"Jira, C++, TypeScript, Git, SQL, NumPy, Hibernate",4.5 years,M.Tech AI,Job Portal
+CAND2025780,Aadhya Joshi,Male,21,Hyderabad,aadhyajoshi@gmail.com,Candidate 780,Android Developer,"Jira, Android Studio, C++, Firebase, C#, Python",0.8 years,BCA,Mobile Banking UI
+CAND2025781,Prisha Joshi,Male,42,Delhi,prishajoshi@gmail.com,Candidate 781,AI Engineer,"MongoDB, Firebase, Python, HTML, Spring Boot",3.5 years,B.Tech CE,"Resume Analyzer, Mobile Banking UI"
+CAND2025782,Rohan Shetty,Male,34,Mumbai,rohanshetty@gmail.com,Candidate 782,Cloud Engineer,"NumPy, Docker, Java, Pandas, Selenium",1.9 years,B.Tech CSE,Stock Predictor
+CAND2025783,Arjun Singh,Male,43,Pune,arjunsingh@gmail.com,Candidate 783,DevOps Engineer,"Selenium, TensorFlow, Kotlin, TypeScript",1.1 years,B.Tech CE,"Resume Analyzer, Portfolio Website"
+CAND2025784,Vihaan Nair,Female,38,Kolkata,vihaannair@gmail.com,Candidate 784,Software Tester,"API Development, Express, Node.js, React, CSS, C++, C#",4.8 years,B.Tech CS,Job Portal
+CAND2025785,Aadhya Desai,Female,34,Hyderabad,aadhyadesai@gmail.com,Candidate 785,Software Tester,"SQL, TypeScript, Pandas, Java, Power BI",1.5 years,B.Tech IT,Weather App
+CAND2025786,Aadhya Gowda,Female,22,Chennai,aadhyagowda@gmail.com,Candidate 786,Mobile App Developer,"Jira, AWS, Express, Kotlin",4.3 years,M.Tech AI,ChatGPT Clone
+CAND2025787,Navya Sharma,Male,29,Kolkata,navyasharma@gmail.com,Candidate 787,Full Stack Developer,"Hibernate, Power BI, SQL, HTML, C#, Node.js, Git",4.5 years,B.Tech IT,"IoT Smart Home, Fake News Detection"
+CAND2025788,Rohan Sharma,Female,39,Kolkata,rohansharma@gmail.com,Candidate 788,Mobile App Developer,"Pandas, Express, TypeScript, Kotlin, Hibernate, NumPy, CSS",2.5 years,B.Tech CSE,"HR Dashboard, Portfolio Website"
+CAND2025789,Aditya Khan,Female,44,Mumbai,adityakhan@gmail.com,Candidate 789,AI Engineer,"Power BI, Selenium, API Development, Hibernate, Firebase, C++",0.6 years,BCA,Mobile Banking UI
+CAND2025790,Ananya Gowda,Male,33,Delhi,ananyagowda@gmail.com,Candidate 790,Frontend Developer,"Git, C#, HTML, Selenium, Python, C++",4.9 years,B.Sc CS,"ChatGPT Clone, Mobile Banking UI"
+CAND2025791,Diya Jadhav,Female,32,Hyderabad,diyajadhav@gmail.com,Candidate 791,Web Developer,"C++, Hibernate, CSS, Power BI, Jira, Python",4.4 years,B.Tech IT,Stock Predictor
+CAND2025792,Aditya Pawar,Male,38,Mumbai,adityapawar@gmail.com,Candidate 792,Cloud Engineer,"Power BI, HTML, CSS, Jira, C++",3.9 years,B.Tech CE,"Job Portal, HR Dashboard"
+CAND2025793,Arjun Shetty,Female,43,Chennai,arjunshetty@gmail.com,Candidate 793,Android Developer,"SQL, NumPy, Python, CSS, API Development, MongoDB, Android Studio",0.6 years,B.Sc CS,Mobile Banking UI
+CAND2025794,Ananya Khan,Male,42,Delhi,ananyakhan@gmail.com,Candidate 794,Android Developer,"C++, TypeScript, Java, Spring Boot, TensorFlow",3.0 years,B.Sc IT,Resume Analyzer
+CAND2025795,Ira Shetty,Female,26,Chennai,irashetty@gmail.com,Candidate 795,Machine Learning Engineer,"API Development, Express, Java, Node.js, Jira, Kotlin, C#",4.1 years,B.Tech CSE,"Weather App, IoT Smart Home"
+CAND2025796,Navya Joshi,Female,30,Mumbai,navyajoshi@gmail.com,Candidate 796,Machine Learning Engineer,"Kubernetes, TensorFlow, Spring Boot, MongoDB, Kotlin, Jira, AWS",1.1 years,B.Tech CSE,"Blockchain Wallet, ChatGPT Clone"
+CAND2025797,Aditya Pandey,Female,40,Pune,adityapandey@gmail.com,Candidate 797,Database Engineer,"Kubernetes, Express, Selenium, SQL, TypeScript, Kotlin",1.2 years,B.Tech CSE,HR Dashboard
+CAND2025798,Vivaan Kulkarni,Female,36,Bengaluru,vivaankulkarni@gmail.com,Candidate 798,Android Developer,"CSS, Hibernate, Git, API Development, Kubernetes, Kotlin, AWS",3.7 years,BCA,HR Dashboard
+CAND2025799,Krishna Jadhav,Female,41,Bengaluru,krishnajadhav@gmail.com,Candidate 799,Machine Learning Engineer,"AWS, React, Java, SQL",1.6 years,BCA,Resume Analyzer
+CAND2025800,Meera Singh,Female,21,Bengaluru,meerasingh@gmail.com,Candidate 800,Mobile App Developer,"NumPy, Java, TypeScript, Spring Boot",3.7 years,B.Sc IT,HR Dashboard
+CAND2025801,Vihaan Pandey,Male,40,Pune,vihaanpandey@gmail.com,Candidate 801,AI Engineer,"API Development, Python, TypeScript, NumPy, Java, Pandas",1.6 years,B.Tech IT,"Stock Predictor, Portfolio Website"
+CAND2025802,Prisha Jadhav,Female,37,Pune,prishajadhav@gmail.com,Candidate 802,Web Developer,"AWS, Pandas, Jira, SQL, React, Firebase, Selenium",3.3 years,B.Tech CE,Stock Predictor
+CAND2025803,Rohan Patel,Female,35,Bengaluru,rohanpatel@gmail.com,Candidate 803,Frontend Developer,"Firebase, SQL, TensorFlow, AWS, Node.js, Kubernetes, C#",2.5 years,BCA,"Weather App, IoT Smart Home"
+CAND2025804,Diya Khan,Male,27,Bengaluru,diyakhan@gmail.com,Candidate 804,Mobile App Developer,"Power BI, Python, NumPy, Pandas",0.9 years,B.Sc IT,"Mobile Banking UI, Resume Analyzer"
+CAND2025805,Myra Iyer,Male,42,Pune,myraiyer@gmail.com,Candidate 805,Machine Learning Engineer,"API Development, SQL, Firebase, Kotlin, AWS, HTML",1.2 years,B.Tech CE,"Portfolio Website, ERP System"
+CAND2025806,Ishaan Singh,Male,28,Delhi,ishaansingh@gmail.com,Candidate 806,Database Engineer,"HTML, Firebase, Selenium, Express, Java, Power BI, Docker",1.5 years,B.Sc IT,IoT Smart Home
+CAND2025807,Ishaan Shaikh,Female,27,Pune,ishaanshaikh@gmail.com,Candidate 807,Java Developer,"Hibernate, React, Firebase, Kubernetes",4.5 years,M.Tech AI,"IoT Smart Home, Portfolio Website"
+CAND2025808,Navya Pandey,Male,38,Mumbai,navyapandey@gmail.com,Candidate 808,Blockchain Developer,"TypeScript, Power BI, Python, Hibernate, C++, Node.js, Express",1.2 years,BCA,"ERP System, HR Dashboard"
+CAND2025809,Meera Shaikh,Male,29,Delhi,meerashaikh@gmail.com,Candidate 809,Android Developer,"Java, MongoDB, Express, Pandas",1.1 years,BCA,HR Dashboard
+CAND2025810,Aditya Joshi,Female,27,Mumbai,adityajoshi@gmail.com,Candidate 810,Frontend Developer,"HTML, Python, Git, CSS, NumPy, Jira, Pandas",3.7 years,MCA,"ERP System, Job Portal"
+CAND2025811,Rohan Reddy,Male,24,Bengaluru,rohanreddy@gmail.com,Candidate 811,Machine Learning Engineer,"Java, Git, Spring Boot, C++, React, Firebase",4.0 years,B.Tech CSE,Mobile Banking UI
+CAND2025812,Ira Sharma,Female,41,Mumbai,irasharma@gmail.com,Candidate 812,Machine Learning Engineer,"Android Studio, HTML, Pandas, Firebase",2.0 years,M.Tech AI,"ERP System, ChatGPT Clone"
+CAND2025813,Meera Joshi,Male,41,Delhi,meerajoshi@gmail.com,Candidate 813,Data Analyst,"Docker, Node.js, SQL, Java, Android Studio",1.9 years,MCA,"Mobile Banking UI, Portfolio Website"
+CAND2025814,Aadhya Patel,Male,45,Mumbai,aadhyapatel@gmail.com,Candidate 814,Data Analyst,"Firebase, API Development, Python, Kotlin",3.6 years,B.Sc CS,"Blockchain Wallet, IoT Smart Home"
+CAND2025815,Diya Pawar,Male,26,Pune,diyapawar@gmail.com,Candidate 815,Blockchain Developer,"Pandas, Java, Power BI, Android Studio, Express, CSS, Python",4.9 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+CAND2025816,Aarav Shetty,Female,41,Pune,aaravshetty@gmail.com,Candidate 816,Java Developer,"TensorFlow, AWS, Express, Pandas",2.9 years,M.Tech AI,"Stock Predictor, Blockchain Wallet"
+CAND2025817,Rohan Yadav,Male,34,Kolkata,rohanyadav@gmail.com,Candidate 817,Backend Developer,"Kotlin, SQL, Node.js, C++",3.9 years,B.Sc CS,ERP System
+CAND2025818,Rohan Mehta,Female,23,Mumbai,rohanmehta@gmail.com,Candidate 818,Database Engineer,"Docker, Android Studio, Kubernetes, API Development, TypeScript, Firebase, Pandas",0.9 years,B.Tech IT,Ecommerce API
+CAND2025819,Meera Joshi,Male,28,Delhi,meerajoshi@gmail.com,Candidate 819,DevOps Engineer,"NumPy, Selenium, Kotlin, CSS",2.0 years,B.Sc IT,"Ecommerce API, HR Dashboard"
+CAND2025820,Ishaan Sharma,Female,27,Kolkata,ishaansharma@gmail.com,Candidate 820,Web Developer,"Docker, Android Studio, Spring Boot, HTML, CSS, React",4.8 years,B.Tech IT,Resume Analyzer
+CAND2025821,Aarav Chatterjee,Male,42,Hyderabad,aaravchatterjee@gmail.com,Candidate 821,Backend Developer,"Selenium, Kotlin, Express, Android Studio, TypeScript, Firebase",0.6 years,MCA,IoT Smart Home
+CAND2025822,Krishna Patel,Male,30,Hyderabad,krishnapatel@gmail.com,Candidate 822,Software Tester,"Kubernetes, Hibernate, Spring Boot, React, Java",0.5 years,MCA,"ChatGPT Clone, Job Portal"
+CAND2025823,Diya Sharma,Female,36,Hyderabad,diyasharma@gmail.com,Candidate 823,Software Tester,"TensorFlow, SQL, Kotlin, Node.js, NumPy, Docker",3.7 years,BCA,IoT Smart Home
+CAND2025824,Vivaan Reddy,Male,35,Chennai,vivaanreddy@gmail.com,Candidate 824,Web Developer,"Docker, Node.js, Android Studio, Hibernate",3.7 years,BCA,"Resume Analyzer, Blockchain Wallet"
+CAND2025825,Saanvi Reddy,Male,35,Bengaluru,saanvireddy@gmail.com,Candidate 825,Backend Developer,"C#, Java, Jira, MongoDB, CSS",1.5 years,B.Sc CS,Fake News Detection
+CAND2025826,Reyansh Sharma,Male,45,Delhi,reyanshsharma@gmail.com,Candidate 826,Frontend Developer,"SQL, React, Python, HTML, Node.js, Firebase",3.8 years,B.Tech CS,Stock Predictor
+CAND2025827,Krishna Patel,Male,38,Mumbai,krishnapatel@gmail.com,Candidate 827,Data Analyst,"TensorFlow, React, Spring Boot, Java",4.9 years,B.Tech CSE,Job Portal
+CAND2025828,Ananya Pawar,Male,23,Hyderabad,ananyapawar@gmail.com,Candidate 828,Machine Learning Engineer,"AWS, Java, CSS, React",4.4 years,B.Tech CS,"Blockchain Wallet, Ecommerce API"
+CAND2025829,Vihaan Kulkarni,Male,20,Delhi,vihaankulkarni@gmail.com,Candidate 829,Data Analyst,"Python, Spring Boot, Git, CSS, TypeScript",3.3 years,B.Sc IT,Weather App
+CAND2025830,Aadhya Kulkarni,Female,43,Bengaluru,aadhyakulkarni@gmail.com,Candidate 830,Blockchain Developer,"CSS, Express, Kotlin, HTML, AWS, SQL",3.4 years,B.Tech CE,ChatGPT Clone
+CAND2025831,Navya Chatterjee,Male,34,Pune,navyachatterjee@gmail.com,Candidate 831,AI Engineer,"C++, Git, Firebase, Kubernetes, NumPy, SQL, Kotlin",1.6 years,B.Sc IT,HR Dashboard
+CAND2025832,Ananya Sharma,Male,40,Chennai,ananyasharma@gmail.com,Candidate 832,Cloud Engineer,"C++, Git, Node.js, TypeScript, Express, CSS, Spring Boot",4.6 years,B.Sc CS,"Mobile Banking UI, ChatGPT Clone"
+CAND2025833,Arjun Nair,Male,34,Bengaluru,arjunnair@gmail.com,Candidate 833,Full Stack Developer,"Hibernate, Spring Boot, Jira, Android Studio, Selenium, Java",0.9 years,B.Sc IT,"Job Portal, Ecommerce API"
+CAND2025834,Ira Reddy,Male,37,Pune,irareddy@gmail.com,Candidate 834,Mobile App Developer,"Docker, Kotlin, MongoDB, Pandas, HTML",4.5 years,M.Tech AI,ChatGPT Clone
+CAND2025835,Ira Singh,Female,34,Delhi,irasingh@gmail.com,Candidate 835,Backend Developer,"Git, Jira, MongoDB, AWS, TensorFlow",0.7 years,BCA,Stock Predictor
+CAND2025836,Diya Shaikh,Female,34,Mumbai,diyashaikh@gmail.com,Candidate 836,Cloud Engineer,"Python, NumPy, Git, CSS, Express, API Development",0.9 years,B.Tech CSE,ChatGPT Clone
+CAND2025837,Ananya Chatterjee,Male,28,Delhi,ananyachatterjee@gmail.com,Candidate 837,Mobile App Developer,"SQL, Android Studio, MongoDB, HTML",3.9 years,B.Sc IT,"Fake News Detection, Portfolio Website"
+CAND2025838,Ishaan Iyer,Male,25,Mumbai,ishaaniyer@gmail.com,Candidate 838,Data Analyst,"C#, Android Studio, React, Kubernetes",4.1 years,M.Tech AI,"HR Dashboard, Portfolio Website"
+CAND2025839,Vihaan Mehta,Female,34,Kolkata,vihaanmehta@gmail.com,Candidate 839,Mobile App Developer,"C++, Kotlin, Python, HTML, Selenium, Java",0.7 years,B.Tech CE,Mobile Banking UI
+CAND2025840,Aditya Verma,Female,27,Bengaluru,adityaverma@gmail.com,Candidate 840,Java Developer,"TypeScript, Docker, Node.js, Power BI, CSS, HTML",2.4 years,B.Tech CS,ChatGPT Clone
+CAND2025841,Sara Iyer,Male,42,Kolkata,saraiyer@gmail.com,Candidate 841,Blockchain Developer,"Hibernate, NumPy, TensorFlow, Node.js, Express",3.1 years,B.Sc CS,"Blockchain Wallet, IoT Smart Home"
+CAND2025842,Diya Desai,Female,36,Chennai,diyadesai@gmail.com,Candidate 842,Android Developer,"API Development, Python, NumPy, Docker",2.2 years,B.Tech IT,IoT Smart Home
+CAND2025843,Aditya Iyer,Female,35,Bengaluru,adityaiyer@gmail.com,Candidate 843,Software Tester,"MongoDB, Android Studio, Java, Kubernetes, Hibernate, C#, TensorFlow",2.3 years,B.Tech CE,Fake News Detection
+CAND2025844,Myra Yadav,Female,38,Delhi,myrayadav@gmail.com,Candidate 844,Database Engineer,"Kubernetes, C++, HTML, Android Studio",1.4 years,B.Tech CS,"ERP System, Portfolio Website"
+CAND2025845,Ishaan Joshi,Female,34,Delhi,ishaanjoshi@gmail.com,Candidate 845,Full Stack Developer,"CSS, NumPy, AWS, Android Studio, C++, API Development, Selenium",4.9 years,B.Sc IT,ERP System
+CAND2025846,Sara Khan,Male,30,Chennai,sarakhan@gmail.com,Candidate 846,Java Developer,"CSS, Node.js, Android Studio, Spring Boot, MongoDB, API Development",4.9 years,B.Tech IT,Portfolio Website
+CAND2025847,Vihaan Reddy,Male,26,Bengaluru,vihaanreddy@gmail.com,Candidate 847,Database Engineer,"C#, MongoDB, Node.js, Hibernate, React, C++",1.7 years,B.Tech CS,"ERP System, ChatGPT Clone"
+CAND2025848,Krishna Verma,Male,20,Delhi,krishnaverma@gmail.com,Candidate 848,Android Developer,"Android Studio, Docker, NumPy, React, HTML, Node.js",4.7 years,B.Sc IT,"Weather App, ERP System"
+CAND2025849,Reyansh Pandey,Female,24,Kolkata,reyanshpandey@gmail.com,Candidate 849,Cloud Engineer,"Python, TypeScript, Kubernetes, CSS, Spring Boot, AWS, SQL",2.3 years,M.Tech AI,"Portfolio Website, IoT Smart Home"
+CAND2025850,Reyansh Pandey,Female,21,Hyderabad,reyanshpandey@gmail.com,Candidate 850,Database Engineer,"HTML, Python, Hibernate, Kubernetes",1.8 years,MCA,"Resume Analyzer, Job Portal"
+CAND2025851,Vivaan Gowda,Male,42,Pune,vivaangowda@gmail.com,Candidate 851,Blockchain Developer,"Kotlin, Android Studio, NumPy, API Development, C++",2.1 years,MCA,"ERP System, ChatGPT Clone"
+CAND2025852,Aarav Gowda,Female,20,Kolkata,aaravgowda@gmail.com,Candidate 852,Database Engineer,"API Development, Jira, C++, C#",1.0 years,M.Tech AI,"HR Dashboard, Resume Analyzer"
+CAND2025853,Aadhya Verma,Male,37,Bengaluru,aadhyaverma@gmail.com,Candidate 853,Java Developer,"C#, Docker, C++, Selenium, Node.js, SQL",3.0 years,B.Sc IT,Stock Predictor
+CAND2025854,Diya Iyer,Female,35,Pune,diyaiyer@gmail.com,Candidate 854,Software Tester,"C++, Java, Firebase, SQL, Android Studio, Hibernate",0.9 years,M.Tech AI,"IoT Smart Home, Stock Predictor"
+CAND2025855,Arjun Yadav,Female,34,Mumbai,arjunyadav@gmail.com,Candidate 855,Backend Developer,"TypeScript, Node.js, API Development, Kotlin, Selenium, Hibernate, C#",3.8 years,B.Tech CE,"ChatGPT Clone, HR Dashboard"
+CAND2025856,Krishna Verma,Female,21,Kolkata,krishnaverma@gmail.com,Candidate 856,Mobile App Developer,"Node.js, Power BI, Pandas, Selenium, Java, CSS",4.6 years,B.Tech CSE,"Resume Analyzer, Job Portal"
+CAND2025857,Ishaan Mehta,Female,20,Bengaluru,ishaanmehta@gmail.com,Candidate 857,DevOps Engineer,"Kubernetes, Python, TypeScript, Android Studio",2.7 years,B.Tech CSE,ChatGPT Clone
+CAND2025858,Prisha Desai,Male,21,Bengaluru,prishadesai@gmail.com,Candidate 858,Machine Learning Engineer,"Express, Hibernate, SQL, Git, Spring Boot",4.9 years,B.Tech CE,Blockchain Wallet
+CAND2025859,Meera Verma,Female,34,Kolkata,meeraverma@gmail.com,Candidate 859,DevOps Engineer,"Kubernetes, Node.js, Kotlin, SQL, Python, Pandas",4.4 years,M.Tech AI,Fake News Detection
+CAND2025860,Aadhya Chatterjee,Male,33,Bengaluru,aadhyachatterjee@gmail.com,Candidate 860,AI Engineer,"API Development, SQL, Pandas, NumPy, Kubernetes, TypeScript",2.0 years,B.Sc CS,Weather App
+CAND2025861,Ishaan Chatterjee,Female,44,Pune,ishaanchatterjee@gmail.com,Candidate 861,Software Tester,"Selenium, Python, MongoDB, C++, HTML, Node.js, Pandas",0.9 years,B.Tech CE,"Portfolio Website, Blockchain Wallet"
+CAND2025862,Saanvi Sharma,Male,39,Hyderabad,saanvisharma@gmail.com,Candidate 862,Blockchain Developer,"Kubernetes, TypeScript, SQL, Docker",3.8 years,B.Sc CS,ChatGPT Clone
+CAND2025863,Vivaan Mehta,Male,45,Chennai,vivaanmehta@gmail.com,Candidate 863,Android Developer,"Express, TensorFlow, Docker, Spring Boot",2.0 years,B.Sc IT,Fake News Detection
+CAND2025864,Ira Iyer,Male,35,Kolkata,iraiyer@gmail.com,Candidate 864,Android Developer,"Python, Power BI, API Development, MongoDB",2.0 years,M.Tech AI,"Mobile Banking UI, Weather App"
+CAND2025865,Sara Kulkarni,Male,39,Hyderabad,sarakulkarni@gmail.com,Candidate 865,Blockchain Developer,"Hibernate, AWS, Pandas, Git, HTML, Jira",1.6 years,B.Tech IT,Ecommerce API
+CAND2025866,Meera Iyer,Female,31,Delhi,meeraiyer@gmail.com,Candidate 866,Blockchain Developer,"Firebase, Jira, Selenium, Spring Boot, TypeScript, Kotlin",1.0 years,B.Tech CS,"ChatGPT Clone, Portfolio Website"
+CAND2025867,Ishaan Shetty,Female,32,Chennai,ishaanshetty@gmail.com,Candidate 867,Backend Developer,"Pandas, Node.js, C++, API Development, CSS",3.6 years,B.Tech CS,"Weather App, Mobile Banking UI"
+CAND2025868,Vihaan Joshi,Male,27,Pune,vihaanjoshi@gmail.com,Candidate 868,Software Tester,"SQL, API Development, Spring Boot, Firebase",4.3 years,B.Sc CS,"Ecommerce API, Weather App"
+CAND2025869,Arjun Shetty,Male,35,Delhi,arjunshetty@gmail.com,Candidate 869,Android Developer,"Pandas, CSS, Power BI, Docker, HTML, Firebase, TensorFlow",3.2 years,B.Tech CE,"Mobile Banking UI, Resume Analyzer"
+CAND2025870,Saanvi Patel,Female,44,Mumbai,saanvipatel@gmail.com,Candidate 870,Backend Developer,"C#, Pandas, C++, TensorFlow, Git",0.7 years,B.Tech CS,Job Portal
+CAND2025871,Ananya Chatterjee,Male,26,Delhi,ananyachatterjee@gmail.com,Candidate 871,Software Tester,"Firebase, C++, NumPy, AWS, MongoDB",1.4 years,MCA,"Resume Analyzer, Weather App"
+CAND2025872,Ishaan Desai,Male,40,Chennai,ishaandesai@gmail.com,Candidate 872,Frontend Developer,"Jira, MongoDB, React, Git, NumPy",1.0 years,B.Tech CSE,"Ecommerce API, Stock Predictor"
+CAND2025873,Krishna Pawar,Female,27,Hyderabad,krishnapawar@gmail.com,Candidate 873,AI Engineer,"Firebase, Git, CSS, Docker, Java, React, MongoDB",2.4 years,B.Tech CS,Resume Analyzer
+CAND2025874,Meera Desai,Female,22,Hyderabad,meeradesai@gmail.com,Candidate 874,AI Engineer,"TensorFlow, API Development, Python, C#, Docker, MongoDB, SQL",3.3 years,B.Tech CSE,"ERP System, ChatGPT Clone"
+CAND2025875,Ira Yadav,Female,37,Hyderabad,irayadav@gmail.com,Candidate 875,Data Analyst,"Spring Boot, C++, Docker, Kotlin",3.6 years,M.Tech AI,"Blockchain Wallet, Ecommerce API"
+CAND2025876,Sara Yadav,Male,28,Kolkata,sarayadav@gmail.com,Candidate 876,AI Engineer,"Docker, TensorFlow, Git, Kubernetes, NumPy, Spring Boot, HTML",3.8 years,B.Tech IT,"Blockchain Wallet, Fake News Detection"
+CAND2025877,Sai Jadhav,Male,27,Delhi,saijadhav@gmail.com,Candidate 877,Machine Learning Engineer,"React, Java, Express, Spring Boot, Kotlin, Power BI, TensorFlow",0.7 years,B.Tech IT,Stock Predictor
+CAND2025878,Vivaan Patel,Male,40,Chennai,vivaanpatel@gmail.com,Candidate 878,Web Developer,"React, Git, C#, SQL, Node.js",4.0 years,B.Sc IT,"Blockchain Wallet, Ecommerce API"
+CAND2025879,Vihaan Sharma,Male,34,Mumbai,vihaansharma@gmail.com,Candidate 879,Cloud Engineer,"Kubernetes, CSS, NumPy, Docker, C#",1.4 years,B.Tech CSE,"Stock Predictor, Weather App"
+CAND2025880,Sai Singh,Female,41,Pune,saisingh@gmail.com,Candidate 880,Backend Developer,"Kotlin, TypeScript, SQL, Java",4.7 years,B.Sc CS,"Portfolio Website, ChatGPT Clone"
+CAND2025881,Meera Singh,Male,38,Kolkata,meerasingh@gmail.com,Candidate 881,Frontend Developer,"Kotlin, Android Studio, Hibernate, Jira, TypeScript",4.0 years,B.Tech CS,Resume Analyzer
+CAND2025882,Aditya Patel,Female,30,Bengaluru,adityapatel@gmail.com,Candidate 882,Machine Learning Engineer,"Spring Boot, Jira, Java, Node.js",1.0 years,M.Tech AI,ChatGPT Clone
+CAND2025883,Saanvi Desai,Male,36,Delhi,saanvidesai@gmail.com,Candidate 883,Frontend Developer,"C++, Selenium, TypeScript, AWS",3.0 years,B.Sc IT,"Weather App, Portfolio Website"
+CAND2025884,Saanvi Desai,Male,30,Bengaluru,saanvidesai@gmail.com,Candidate 884,Blockchain Developer,"Kotlin, Pandas, API Development, Selenium",3.0 years,B.Sc CS,IoT Smart Home
+CAND2025885,Ananya Desai,Male,42,Hyderabad,ananyadesai@gmail.com,Candidate 885,Blockchain Developer,"Express, CSS, TypeScript, Node.js, Git, TensorFlow",3.2 years,B.Tech CS,"Resume Analyzer, ChatGPT Clone"
+CAND2025886,Sara Desai,Female,39,Mumbai,saradesai@gmail.com,Candidate 886,AI Engineer,"Jira, Express, Kotlin, Java",3.8 years,M.Tech AI,ERP System
+CAND2025887,Ananya Desai,Male,32,Chennai,ananyadesai@gmail.com,Candidate 887,Backend Developer,"API Development, Android Studio, NumPy, CSS, React, Docker, AWS",4.2 years,B.Sc IT,Stock Predictor
+CAND2025888,Prisha Iyer,Male,33,Bengaluru,prishaiyer@gmail.com,Candidate 888,Backend Developer,"CSS, TypeScript, API Development, Android Studio",4.9 years,B.Sc IT,"Weather App, Fake News Detection"
+CAND2025889,Ira Pandey,Male,45,Hyderabad,irapandey@gmail.com,Candidate 889,Backend Developer,"C++, React, Hibernate, Power BI",0.9 years,B.Tech CE,"ChatGPT Clone, ERP System"
+CAND2025890,Meera Shetty,Male,28,Bengaluru,meerashetty@gmail.com,Candidate 890,Full Stack Developer,"CSS, C#, NumPy, Express",5.0 years,MCA,Resume Analyzer
+CAND2025891,Meera Chatterjee,Male,38,Mumbai,meerachatterjee@gmail.com,Candidate 891,Software Tester,"TensorFlow, TypeScript, NumPy, C#, Git, Pandas, Docker",4.6 years,B.Tech CE,Stock Predictor
+CAND2025892,Vivaan Desai,Female,26,Mumbai,vivaandesai@gmail.com,Candidate 892,Data Analyst,"Express, Docker, Selenium, Kotlin, MongoDB",3.7 years,M.Tech AI,"Weather App, Stock Predictor"
+CAND2025893,Sai Verma,Male,35,Chennai,saiverma@gmail.com,Candidate 893,Mobile App Developer,"HTML, NumPy, Kotlin, API Development, Express, Firebase",3.3 years,B.Sc CS,Resume Analyzer
+CAND2025894,Sara Sharma,Female,24,Hyderabad,sarasharma@gmail.com,Candidate 894,Data Analyst,"CSS, Kotlin, TypeScript, MongoDB, Python, React",4.7 years,M.Tech AI,Resume Analyzer
+CAND2025895,Vihaan Yadav,Male,38,Delhi,vihaanyadav@gmail.com,Candidate 895,Data Analyst,"Node.js, Kubernetes, Java, Git, Kotlin, MongoDB, CSS",2.7 years,B.Tech CE,ERP System
+CAND2025896,Krishna Gowda,Female,42,Pune,krishnagowda@gmail.com,Candidate 896,Android Developer,"Express, Selenium, HTML, C++, AWS, TypeScript, C#",2.6 years,B.Tech CSE,Resume Analyzer
+CAND2025897,Vihaan Khan,Female,25,Kolkata,vihaankhan@gmail.com,Candidate 897,Backend Developer,"Power BI, HTML, TensorFlow, Node.js, Kubernetes",1.0 years,B.Sc IT,"Fake News Detection, ERP System"
+CAND2025898,Arjun Mehta,Male,32,Bengaluru,arjunmehta@gmail.com,Candidate 898,Java Developer,"Power BI, API Development, Git, Express, Selenium, Python",2.3 years,B.Sc CS,"ChatGPT Clone, Ecommerce API"
+CAND2025899,Reyansh Sharma,Female,25,Pune,reyanshsharma@gmail.com,Candidate 899,Frontend Developer,"Selenium, Jira, Pandas, Hibernate, C#",0.9 years,B.Sc IT,"Ecommerce API, ERP System"
+CAND2025900,Navya Pawar,Male,22,Chennai,navyapawar@gmail.com,Candidate 900,Web Developer,"Selenium, Kotlin, API Development, AWS, NumPy",3.5 years,M.Tech AI,"Mobile Banking UI, HR Dashboard"
+CAND2025901,Rohan Khan,Female,43,Pune,rohankhan@gmail.com,Candidate 901,DevOps Engineer,"TypeScript, Node.js, Docker, C#, Jira",0.8 years,BCA,"Resume Analyzer, ERP System"
+CAND2025902,Saanvi Khan,Female,33,Pune,saanvikhan@gmail.com,Candidate 902,Backend Developer,"Kubernetes, Spring Boot, TensorFlow, Express, SQL, AWS",0.9 years,B.Tech CS,Blockchain Wallet
+CAND2025903,Aarav Pawar,Female,32,Delhi,aaravpawar@gmail.com,Candidate 903,DevOps Engineer,"C#, Java, NumPy, MongoDB",5.0 years,MCA,"Portfolio Website, Mobile Banking UI"
+CAND2025904,Vihaan Singh,Male,43,Mumbai,vihaansingh@gmail.com,Candidate 904,Web Developer,"AWS, Node.js, Git, Pandas, SQL",2.4 years,B.Tech IT,"Portfolio Website, Ecommerce API"
+CAND2025905,Ira Nair,Male,31,Mumbai,iranair@gmail.com,Candidate 905,AI Engineer,"Express, API Development, NumPy, Power BI, Firebase",3.4 years,B.Tech CSE,"Portfolio Website, ERP System"
+CAND2025906,Navya Yadav,Female,23,Mumbai,navyayadav@gmail.com,Candidate 906,Database Engineer,"Express, Spring Boot, TensorFlow, C++, Jira, Power BI, Node.js",3.8 years,B.Tech CE,"Blockchain Wallet, HR Dashboard"
+CAND2025907,Saanvi Shetty,Male,36,Pune,saanvishetty@gmail.com,Candidate 907,Web Developer,"C#, SQL, TensorFlow, Git",2.2 years,B.Tech CE,Ecommerce API
+CAND2025908,Ira Pandey,Female,22,Hyderabad,irapandey@gmail.com,Candidate 908,DevOps Engineer,"Power BI, Hibernate, NumPy, C#",2.3 years,B.Tech CE,"ERP System, Blockchain Wallet"
+CAND2025909,Sara Jadhav,Female,35,Kolkata,sarajadhav@gmail.com,Candidate 909,Web Developer,"Firebase, Java, Kubernetes, TypeScript, Python",2.3 years,B.Tech IT,HR Dashboard
+CAND2025910,Myra Chatterjee,Male,41,Delhi,myrachatterjee@gmail.com,Candidate 910,Android Developer,"SQL, Firebase, Pandas, Docker",2.1 years,B.Sc IT,"Job Portal, IoT Smart Home"
+CAND2025911,Sai Yadav,Male,25,Hyderabad,saiyadav@gmail.com,Candidate 911,Blockchain Developer,"Express, Jira, C++, Spring Boot, TensorFlow",2.3 years,BCA,"Blockchain Wallet, Mobile Banking UI"
+CAND2025912,Meera Joshi,Male,43,Kolkata,meerajoshi@gmail.com,Candidate 912,DevOps Engineer,"TensorFlow, API Development, MongoDB, Kubernetes, AWS",2.7 years,BCA,ERP System
+CAND2025913,Rohan Kulkarni,Female,31,Delhi,rohankulkarni@gmail.com,Candidate 913,Database Engineer,"SQL, Git, Kubernetes, API Development, Python",1.0 years,MCA,"Stock Predictor, ChatGPT Clone"
+CAND2025914,Diya Singh,Male,35,Chennai,diyasingh@gmail.com,Candidate 914,Cloud Engineer,"Kubernetes, Java, Docker, HTML, C++",2.4 years,B.Tech IT,"Fake News Detection, ERP System"
+CAND2025915,Navya Nair,Male,35,Hyderabad,navyanair@gmail.com,Candidate 915,Database Engineer,"Kotlin, C++, Spring Boot, Jira, AWS",1.1 years,B.Tech CSE,"Job Portal, IoT Smart Home"
+CAND2025916,Diya Patel,Male,24,Mumbai,diyapatel@gmail.com,Candidate 916,DevOps Engineer,"Docker, TensorFlow, Android Studio, Express",3.9 years,M.Tech AI,ERP System
+CAND2025917,Rohan Kulkarni,Female,36,Hyderabad,rohankulkarni@gmail.com,Candidate 917,Machine Learning Engineer,"Selenium, TensorFlow, TypeScript, CSS",0.6 years,B.Sc CS,"Resume Analyzer, ERP System"
+CAND2025918,Sai Sharma,Female,20,Kolkata,saisharma@gmail.com,Candidate 918,Full Stack Developer,"Node.js, Pandas, CSS, C++, Firebase, TensorFlow, Jira",1.4 years,B.Sc CS,"ChatGPT Clone, Blockchain Wallet"
+CAND2025919,Reyansh Khan,Female,41,Bengaluru,reyanshkhan@gmail.com,Candidate 919,DevOps Engineer,"Firebase, Git, Jira, CSS, Node.js, Kubernetes, Android Studio",1.6 years,M.Tech AI,"Stock Predictor, ERP System"
+CAND2025920,Vivaan Patel,Female,39,Delhi,vivaanpatel@gmail.com,Candidate 920,Mobile App Developer,"Node.js, React, Power BI, AWS, Spring Boot, Android Studio",0.7 years,B.Tech CSE,"Job Portal, Mobile Banking UI"
+CAND2025921,Vihaan Iyer,Male,38,Hyderabad,vihaaniyer@gmail.com,Candidate 921,Software Tester,"Express, Spring Boot, Selenium, API Development",2.1 years,B.Sc IT,"Mobile Banking UI, ChatGPT Clone"
+CAND2025922,Meera Iyer,Female,33,Delhi,meeraiyer@gmail.com,Candidate 922,DevOps Engineer,"C#, Node.js, Selenium, Jira, Java",2.7 years,B.Tech IT,Mobile Banking UI
+CAND2025923,Ananya Joshi,Male,30,Chennai,ananyajoshi@gmail.com,Candidate 923,Frontend Developer,"TypeScript, API Development, Power BI, Express, Jira, Git",3.4 years,B.Tech CE,"Portfolio Website, Ecommerce API"
+CAND2025924,Krishna Patel,Male,32,Chennai,krishnapatel@gmail.com,Candidate 924,Database Engineer,"Android Studio, CSS, HTML, Java, Docker, TensorFlow, MongoDB",3.1 years,B.Sc CS,"Stock Predictor, HR Dashboard"
+CAND2025925,Rohan Singh,Female,43,Kolkata,rohansingh@gmail.com,Candidate 925,Blockchain Developer,"NumPy, Docker, SQL, Firebase, Node.js, Kotlin, Kubernetes",0.8 years,M.Tech AI,"Fake News Detection, Stock Predictor"
+CAND2025926,Meera Khan,Male,23,Delhi,meerakhan@gmail.com,Candidate 926,Machine Learning Engineer,"Android Studio, HTML, Jira, Selenium",1.2 years,B.Tech CE,Ecommerce API
+CAND2025927,Vihaan Chatterjee,Female,36,Pune,vihaanchatterjee@gmail.com,Candidate 927,Software Tester,"Git, NumPy, Kotlin, Selenium, Pandas",2.6 years,MCA,"ChatGPT Clone, Job Portal"
+CAND2025928,Diya Patel,Male,22,Hyderabad,diyapatel@gmail.com,Candidate 928,DevOps Engineer,"Spring Boot, React, Power BI, AWS",4.3 years,B.Sc IT,Job Portal
+CAND2025929,Vihaan Iyer,Female,36,Kolkata,vihaaniyer@gmail.com,Candidate 929,Android Developer,"React, SQL, CSS, C++",2.3 years,B.Tech CSE,"HR Dashboard, ERP System"
+CAND2025930,Ananya Pandey,Male,34,Kolkata,ananyapandey@gmail.com,Candidate 930,Frontend Developer,"Pandas, Kubernetes, Android Studio, React, Hibernate, C++",0.9 years,MCA,Job Portal
+CAND2025931,Sai Reddy,Female,35,Pune,saireddy@gmail.com,Candidate 931,Full Stack Developer,"Power BI, MongoDB, AWS, HTML, Git, SQL",0.7 years,B.Tech CSE,"IoT Smart Home, Ecommerce API"
+CAND2025932,Ananya Yadav,Female,39,Delhi,ananyayadav@gmail.com,Candidate 932,Frontend Developer,"SQL, Jira, AWS, Java, C#, Docker",2.0 years,B.Sc CS,"Resume Analyzer, Blockchain Wallet"
+CAND2025933,Prisha Iyer,Female,36,Mumbai,prishaiyer@gmail.com,Candidate 933,Software Tester,"SQL, Hibernate, Android Studio, C#",3.3 years,B.Tech CE,HR Dashboard
+CAND2025934,Aarav Mehta,Female,44,Kolkata,aaravmehta@gmail.com,Candidate 934,Database Engineer,"Spring Boot, MongoDB, Git, HTML, SQL, Docker",1.8 years,BCA,Ecommerce API
+CAND2025935,Navya Jadhav,Female,21,Kolkata,navyajadhav@gmail.com,Candidate 935,Full Stack Developer,"Android Studio, Node.js, SQL, Express, API Development",2.3 years,B.Sc CS,"Resume Analyzer, Job Portal"
+CAND2025936,Krishna Kulkarni,Male,31,Chennai,krishnakulkarni@gmail.com,Candidate 936,Machine Learning Engineer,"Kotlin, AWS, React, Jira, Firebase, TensorFlow, Selenium",1.9 years,B.Tech CSE,Job Portal
+CAND2025937,Aarav Khan,Male,38,Chennai,aaravkhan@gmail.com,Candidate 937,Java Developer,"C++, AWS, Node.js, Express, Selenium",2.5 years,BCA,"IoT Smart Home, Job Portal"
+CAND2025938,Sara Shetty,Male,22,Pune,sarashetty@gmail.com,Candidate 938,Machine Learning Engineer,"Git, Express, Kotlin, C++, Kubernetes, Python",2.1 years,B.Sc CS,Resume Analyzer
+CAND2025939,Aadhya Reddy,Female,28,Kolkata,aadhyareddy@gmail.com,Candidate 939,Database Engineer,"Selenium, TensorFlow, CSS, Power BI, React, TypeScript, Spring Boot",3.8 years,B.Tech IT,"Mobile Banking UI, Resume Analyzer"
+CAND2025940,Saanvi Joshi,Female,30,Hyderabad,saanvijoshi@gmail.com,Candidate 940,Blockchain Developer,"Power BI, Docker, React, C++, AWS, Hibernate, Express",4.0 years,B.Sc CS,"Stock Predictor, HR Dashboard"
+CAND2025941,Vihaan Yadav,Female,28,Bengaluru,vihaanyadav@gmail.com,Candidate 941,Cloud Engineer,"TypeScript, React, Pandas, Node.js, Selenium, TensorFlow",2.9 years,MCA,"ChatGPT Clone, Fake News Detection"
+CAND2025942,Diya Iyer,Male,42,Delhi,diyaiyer@gmail.com,Candidate 942,Mobile App Developer,"React, Express, C++, Android Studio, Spring Boot",4.4 years,B.Tech CSE,"Portfolio Website, ChatGPT Clone"
+CAND2025943,Diya Khan,Male,38,Bengaluru,diyakhan@gmail.com,Candidate 943,Software Tester,"React, Selenium, SQL, HTML, CSS, AWS",4.8 years,B.Tech CE,Blockchain Wallet
+CAND2025944,Vihaan Pawar,Male,25,Mumbai,vihaanpawar@gmail.com,Candidate 944,Android Developer,"Kubernetes, API Development, Selenium, C++, MongoDB, Hibernate, TypeScript",3.7 years,MCA,"Ecommerce API, IoT Smart Home"
+CAND2025945,Navya Kulkarni,Male,36,Bengaluru,navyakulkarni@gmail.com,Candidate 945,Blockchain Developer,"Hibernate, Docker, Android Studio, API Development, Pandas",4.2 years,B.Tech IT,ChatGPT Clone
+CAND2025946,Arjun Pawar,Male,34,Bengaluru,arjunpawar@gmail.com,Candidate 946,Data Analyst,"Selenium, API Development, Python, Node.js, Docker, Firebase, CSS",3.4 years,B.Tech CSE,ChatGPT Clone
+CAND2025947,Navya Reddy,Female,25,Pune,navyareddy@gmail.com,Candidate 947,Mobile App Developer,"Docker, Jira, TypeScript, Git, NumPy, Firebase",1.6 years,B.Sc IT,"Resume Analyzer, ChatGPT Clone"
+CAND2025948,Prisha Kulkarni,Female,42,Delhi,prishakulkarni@gmail.com,Candidate 948,Machine Learning Engineer,"CSS, Firebase, NumPy, Power BI, C#",0.8 years,M.Tech AI,Portfolio Website
+CAND2025949,Ira Mehta,Male,26,Kolkata,iramehta@gmail.com,Candidate 949,Web Developer,"Docker, AWS, Hibernate, TensorFlow, Git, C++, Jira",2.7 years,B.Tech CSE,"Portfolio Website, Weather App"
+CAND2025950,Aadhya Pawar,Female,29,Delhi,aadhyapawar@gmail.com,Candidate 950,Full Stack Developer,"HTML, Hibernate, NumPy, API Development, TensorFlow",1.9 years,B.Tech CE,"Portfolio Website, Weather App"
+CAND2025951,Vihaan Nair,Female,42,Hyderabad,vihaannair@gmail.com,Candidate 951,Software Tester,"C#, Kubernetes, API Development, Spring Boot, Node.js, Pandas, Android Studio",4.8 years,B.Tech CS,Ecommerce API
+CAND2025952,Navya Patel,Female,43,Pune,navyapatel@gmail.com,Candidate 952,Machine Learning Engineer,"Power BI, TypeScript, C#, Jira",0.9 years,B.Tech CSE,"Job Portal, HR Dashboard"
+CAND2025953,Aditya Sharma,Male,24,Delhi,adityasharma@gmail.com,Candidate 953,Backend Developer,"React, SQL, TypeScript, Express, Pandas",2.9 years,B.Tech CE,Fake News Detection
+CAND2025954,Saanvi Joshi,Male,32,Kolkata,saanvijoshi@gmail.com,Candidate 954,Blockchain Developer,"Spring Boot, Firebase, TensorFlow, MongoDB, C++",1.3 years,M.Tech AI,Portfolio Website
+CAND2025955,Rohan Desai,Male,41,Delhi,rohandesai@gmail.com,Candidate 955,Database Engineer,"TensorFlow, Kotlin, C++, C#, React, Python, NumPy",2.7 years,B.Tech CSE,"Weather App, HR Dashboard"
+CAND2025956,Ira Gowda,Female,23,Delhi,iragowda@gmail.com,Candidate 956,Blockchain Developer,"NumPy, AWS, Kubernetes, Python, API Development",3.5 years,B.Tech CS,"Portfolio Website, HR Dashboard"
+CAND2025957,Ira Desai,Female,34,Pune,iradesai@gmail.com,Candidate 957,Android Developer,"Jira, Power BI, C++, Selenium",3.5 years,M.Tech AI,Stock Predictor
+CAND2025958,Arjun Patel,Male,23,Delhi,arjunpatel@gmail.com,Candidate 958,DevOps Engineer,"C#, AWS, HTML, React, C++, TypeScript, Kotlin",2.3 years,BCA,IoT Smart Home
+CAND2025959,Vihaan Jadhav,Male,43,Kolkata,vihaanjadhav@gmail.com,Candidate 959,Full Stack Developer,"Jira, Android Studio, Java, Firebase, Selenium",2.9 years,MCA,"IoT Smart Home, Weather App"
+CAND2025960,Arjun Iyer,Female,45,Hyderabad,arjuniyer@gmail.com,Candidate 960,Software Tester,"Kubernetes, Python, Express, Spring Boot",4.8 years,B.Tech CE,Portfolio Website
+CAND2025961,Ira Nair,Male,28,Delhi,iranair@gmail.com,Candidate 961,Full Stack Developer,"Jira, Android Studio, Kubernetes, Node.js, TypeScript, TensorFlow",1.3 years,B.Tech CSE,"Blockchain Wallet, ERP System"
+CAND2025962,Diya Chatterjee,Male,34,Delhi,diyachatterjee@gmail.com,Candidate 962,Web Developer,"SQL, Git, TypeScript, Jira, Hibernate, Android Studio, HTML",0.6 years,B.Tech IT,"Job Portal, ChatGPT Clone"
+CAND2025963,Rohan Singh,Male,41,Chennai,rohansingh@gmail.com,Candidate 963,Blockchain Developer,"API Development, Kubernetes, Firebase, Docker, React, Android Studio, TypeScript",3.2 years,B.Tech CE,"ChatGPT Clone, ERP System"
+CAND2025964,Rohan Desai,Female,24,Kolkata,rohandesai@gmail.com,Candidate 964,Machine Learning Engineer,"Kubernetes, Java, SQL, TensorFlow",1.2 years,B.Sc IT,"ERP System, Blockchain Wallet"
+CAND2025965,Diya Yadav,Female,31,Hyderabad,diyayadav@gmail.com,Candidate 965,AI Engineer,"Node.js, SQL, Firebase, Docker, Jira",1.1 years,B.Tech CSE,"Ecommerce API, Weather App"
+CAND2025966,Aditya Sharma,Female,45,Mumbai,adityasharma@gmail.com,Candidate 966,Machine Learning Engineer,"Kotlin, Express, AWS, Jira, Pandas",2.8 years,B.Tech CE,"Fake News Detection, Stock Predictor"
+CAND2025967,Aadhya Yadav,Male,41,Bengaluru,aadhyayadav@gmail.com,Candidate 967,Backend Developer,"Pandas, TypeScript, Selenium, React, TensorFlow, CSS, Jira",2.3 years,B.Tech CSE,"Fake News Detection, Portfolio Website"
+CAND2025968,Ananya Shaikh,Female,38,Mumbai,ananyashaikh@gmail.com,Candidate 968,Backend Developer,"Spring Boot, API Development, Power BI, Java",1.1 years,BCA,"IoT Smart Home, Weather App"
+CAND2025969,Vihaan Pawar,Male,44,Bengaluru,vihaanpawar@gmail.com,Candidate 969,Full Stack Developer,"Power BI, Express, Android Studio, C++, HTML, Git",1.7 years,MCA,"Fake News Detection, Ecommerce API"
+CAND2025970,Navya Gowda,Male,45,Bengaluru,navyagowda@gmail.com,Candidate 970,Full Stack Developer,"Pandas, Jira, SQL, Python, AWS",4.5 years,BCA,"Portfolio Website, HR Dashboard"
+CAND2025971,Aditya Shaikh,Male,45,Delhi,adityashaikh@gmail.com,Candidate 971,Full Stack Developer,"SQL, Git, Kubernetes, React",2.3 years,BCA,Job Portal
+CAND2025972,Ishaan Verma,Male,28,Chennai,ishaanverma@gmail.com,Candidate 972,Cloud Engineer,"CSS, AWS, Hibernate, SQL",4.8 years,B.Tech CSE,"Weather App, Resume Analyzer"
+CAND2025973,Navya Patel,Male,32,Chennai,navyapatel@gmail.com,Candidate 973,DevOps Engineer,"Kubernetes, Java, Power BI, HTML, Git",4.8 years,B.Tech CE,Weather App
+CAND2025974,Rohan Pandey,Male,21,Hyderabad,rohanpandey@gmail.com,Candidate 974,Database Engineer,"Python, Git, SQL, C#, HTML, API Development, Kubernetes",2.1 years,B.Tech CSE,"Resume Analyzer, Weather App"
+CAND2025975,Saanvi Shetty,Male,38,Mumbai,saanvishetty@gmail.com,Candidate 975,AI Engineer,"Python, NumPy, Hibernate, Java, Jira",4.7 years,B.Tech IT,"ERP System, Weather App"
+CAND2025976,Aarav Pawar,Male,32,Hyderabad,aaravpawar@gmail.com,Candidate 976,Full Stack Developer,"MongoDB, Hibernate, C++, Pandas",3.0 years,B.Tech IT,"ChatGPT Clone, Fake News Detection"
+CAND2025977,Aadhya Kulkarni,Female,45,Pune,aadhyakulkarni@gmail.com,Candidate 977,Data Analyst,"API Development, TensorFlow, Jira, Python, Express",2.1 years,MCA,HR Dashboard
+CAND2025978,Aditya Gowda,Male,41,Pune,adityagowda@gmail.com,Candidate 978,Data Analyst,"AWS, Pandas, Kubernetes, Git",1.7 years,B.Tech CE,Portfolio Website
+CAND2025979,Ira Mehta,Female,27,Mumbai,iramehta@gmail.com,Candidate 979,Data Analyst,"AWS, Pandas, Jira, Python, Power BI",3.7 years,M.Tech AI,ChatGPT Clone
+CAND2025980,Ishaan Khan,Male,20,Hyderabad,ishaankhan@gmail.com,Candidate 980,Android Developer,"Kubernetes, MongoDB, Git, Express, React, AWS",2.4 years,M.Tech AI,ERP System
+CAND2025981,Vihaan Kulkarni,Male,21,Bengaluru,vihaankulkarni@gmail.com,Candidate 981,Java Developer,"C#, React, Power BI, Android Studio, API Development, Pandas",0.6 years,M.Tech AI,"Resume Analyzer, Ecommerce API"
+CAND2025982,Sara Mehta,Male,34,Bengaluru,saramehta@gmail.com,Candidate 982,Full Stack Developer,"NumPy, TypeScript, Kotlin, Express, Git, Python",1.2 years,B.Tech CSE,Stock Predictor
+CAND2025983,Myra Iyer,Male,29,Delhi,myraiyer@gmail.com,Candidate 983,Database Engineer,"Node.js, Java, Express, TensorFlow, Python, API Development, Kubernetes",1.6 years,M.Tech AI,ERP System
+CAND2025984,Ananya Yadav,Male,38,Kolkata,ananyayadav@gmail.com,Candidate 984,Software Tester,"Selenium, Spring Boot, Android Studio, Hibernate, React, NumPy, Node.js",2.1 years,B.Tech CS,Stock Predictor
+CAND2025985,Rohan Nair,Male,40,Pune,rohannair@gmail.com,Candidate 985,Mobile App Developer,"SQL, Selenium, Python, Git",4.1 years,B.Tech CSE,Portfolio Website
+CAND2025986,Ananya Pawar,Male,45,Hyderabad,ananyapawar@gmail.com,Candidate 986,Android Developer,"C++, Power BI, TypeScript, Python, Kubernetes, Node.js, Selenium",1.0 years,B.Tech CE,Ecommerce API
+CAND2025987,Ananya Iyer,Male,21,Delhi,ananyaiyer@gmail.com,Candidate 987,Cloud Engineer,"Android Studio, Hibernate, Python, Git, MongoDB",1.8 years,B.Tech CE,"Fake News Detection, ChatGPT Clone"
+CAND2025988,Aarav Joshi,Female,22,Chennai,aaravjoshi@gmail.com,Candidate 988,Backend Developer,"Git, Android Studio, NumPy, MongoDB, Pandas, Java, Kubernetes",4.3 years,B.Tech IT,Stock Predictor
+CAND2025989,Ira Verma,Female,30,Delhi,iraverma@gmail.com,Candidate 989,Cloud Engineer,"AWS, Node.js, TensorFlow, C++, Hibernate, Git",1.5 years,B.Tech IT,Blockchain Wallet
+CAND2025990,Diya Patel,Female,37,Delhi,diyapatel@gmail.com,Candidate 990,Backend Developer,"Python, C++, Selenium, C#",1.4 years,MCA,Mobile Banking UI
+CAND2025991,Diya Shetty,Male,20,Bengaluru,diyashetty@gmail.com,Candidate 991,AI Engineer,"Hibernate, AWS, CSS, Kotlin, C#, SQL, HTML",3.2 years,B.Tech IT,Fake News Detection
+CAND2025992,Diya Pawar,Female,35,Pune,diyapawar@gmail.com,Candidate 992,Java Developer,"API Development, SQL, HTML, Android Studio",2.1 years,B.Tech CS,Fake News Detection
+CAND2025993,Meera Yadav,Female,37,Bengaluru,meerayadav@gmail.com,Candidate 993,Web Developer,"Power BI, TypeScript, C++, Selenium, Kubernetes",3.4 years,B.Tech CE,ChatGPT Clone
+CAND2025994,Navya Singh,Female,27,Bengaluru,navyasingh@gmail.com,Candidate 994,Data Analyst,"Pandas, Node.js, NumPy, Android Studio",1.3 years,MCA,Portfolio Website
+CAND2025995,Ishaan Iyer,Female,40,Kolkata,ishaaniyer@gmail.com,Candidate 995,Full Stack Developer,"TypeScript, MongoDB, Kotlin, Jira, Kubernetes",4.2 years,B.Tech CS,Weather App
+CAND2025996,Ananya Reddy,Male,33,Bengaluru,ananyareddy@gmail.com,Candidate 996,Backend Developer,"Selenium, Android Studio, HTML, AWS, React, CSS, TensorFlow",4.5 years,B.Tech IT,"Mobile Banking UI, ERP System"
+CAND2025997,Aarav Pandey,Male,20,Bengaluru,aaravpandey@gmail.com,Candidate 997,Full Stack Developer,"Power BI, Kotlin, Java, SQL",0.9 years,B.Tech CE,"Stock Predictor, ChatGPT Clone"
+CAND2025998,Vihaan Shetty,Female,26,Bengaluru,vihaanshetty@gmail.com,Candidate 998,Android Developer,"Java, CSS, MongoDB, Node.js, Express, NumPy, React",4.9 years,MCA,"Job Portal, ChatGPT Clone"
+CAND2025999,Navya Shetty,Male,20,Chennai,navyashetty@gmail.com,Candidate 999,Full Stack Developer,"Kubernetes, Firebase, MongoDB, Spring Boot, Python",3.9 years,B.Tech IT,Blockchain Wallet
+CAND20251000,Ananya Yadav,Female,22,Mumbai,ananyayadav@gmail.com,Candidate 1000,Web Developer,"C#, MongoDB, TypeScript, SQL",3.6 years,BCA,"Ecommerce API, HR Dashboard"

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ekvue Candidate Recommendation System</title>
+ <style>
+  body {
+    font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+    background: #eef1f6;
+    padding: 40px;
+    margin: 0;
+    color: #333;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #1a1a1a;
+  }
+
+  form {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  }
+
+  label {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  textarea {
+    width: 100%;
+    height: 120px;
+    padding: 12px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-top: 10px;
+    resize: vertical;
+  }
+
+  button {
+    margin-top: 18px;
+    padding: 12px 26px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #0066ff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s ease;
+  }
+
+  button:hover {
+    background: #004ec7;
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 26px;
+    color: #222;
+  }
+
+  .results-container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .card {
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 18px;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+    border-left: 6px solid #0066ff;
+    transition: transform 0.2s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-3px);
+  }
+
+  .card h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #111;
+  }
+
+  .card p {
+    margin: 6px 0;
+    font-size: 15px;
+  }
+
+  .score {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #0b6b22;
+  }
+</style>
+
+</head>
+<body>
+  <h1>🏢Ekvue Candidate Recommendation System</h1>
+
+  <form method="POST">
+    <label for="job_description"><strong>Enter required skills / job description:</strong></label><br><br>
+    <textarea id="job_description" name="job_description"
+      placeholder="e.g. machine learning, python, tableau, 1–2 years experience">{{ query }}</textarea>
+    <br><br>
+    <button type="submit">Recommend Candidates</button>
+  </form>
+{% if recommendations %}
+  <h2>Top Recommended Candidates</h2>
+
+  <div class="results-container">
+  {% for cand in recommendations %}
+    <div class="card">
+      <h3>⭐ {{ cand.name }}</h3>
+
+      <p><strong>Gender:</strong> {{ cand.gender }}</p>
+      <p><strong>Age:</strong> {{ cand.age }}</p>
+      <p><strong>Email:</strong> {{ cand.email }}</p>
+      <p><strong>Domain:</strong> {{ cand.domain }}</p>
+      <p><strong>Skills:</strong> {{ cand.skills }}</p>
+      <p><strong>Experience:</strong> {{ cand.experience }}</p>
+
+      <p class="score">
+        <strong>Match Score:</strong> {{ (cand.match_score * 100) | round(2) }}%
+      </p>
+    </div>
+  {% endfor %}
+  </div>
+
+
+
+
+  {% elif query %}
+    <p>No candidates found for this query. Try using broader skills or different keywords.</p>
+  {% endif %}
+
+</body>
+</html>

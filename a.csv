@@ -1,0 +1,1001 @@
+name,domain,skills,experience,education,projects
+Candidate 1,Blockchain Developer,"Express, Power BI, HTML, Selenium, Node.js, Python",3.9 years,M.Tech AI,"Resume Analyzer, Blockchain Wallet"
+Candidate 2,Data Analyst,"Spring Boot, Docker, Android Studio, Kubernetes",3.7 years,B.Sc IT,"Blockchain Wallet, Ecommerce API"
+Candidate 3,Cloud Engineer,"TensorFlow, C++, MongoDB, Power BI, CSS, Android Studio, AWS",2.7 years,B.Tech CSE,Fake News Detection
+Candidate 4,Full Stack Developer,"API Development, Jira, Docker, C#",4.7 years,B.Sc IT,"ERP System, Fake News Detection"
+Candidate 5,Full Stack Developer,"Selenium, Hibernate, TypeScript, MongoDB, React, AWS",4.9 years,BCA,"IoT Smart Home, ERP System"
+Candidate 6,Software Tester,"Selenium, Python, SQL, MongoDB, C++",1.1 years,B.Sc CS,"Job Portal, Mobile Banking UI"
+Candidate 7,AI Engineer,"Express, Spring Boot, C#, MongoDB, SQL, NumPy, Android Studio",4.4 years,B.Sc CS,IoT Smart Home
+Candidate 8,Database Engineer,"Docker, SQL, TensorFlow, C#, Java",0.7 years,BCA,Fake News Detection
+Candidate 9,Java Developer,"NumPy, Express, Selenium, HTML, Spring Boot, Docker",4.2 years,M.Tech AI,Blockchain Wallet
+Candidate 10,Web Developer,"CSS, Node.js, AWS, Jira, React",1.3 years,B.Tech CS,Ecommerce API
+Candidate 11,Cloud Engineer,"Jira, AWS, React, Java",3.2 years,B.Tech IT,Job Portal
+Candidate 12,Blockchain Developer,"SQL, Git, TypeScript, Hibernate, Python",2.8 years,B.Sc IT,"Ecommerce API, Weather App"
+Candidate 13,Backend Developer,"HTML, Firebase, Selenium, Docker, C++",2.4 years,B.Sc IT,Weather App
+Candidate 14,Full Stack Developer,"Express, Java, React, TensorFlow",1.9 years,MCA,"ChatGPT Clone, Blockchain Wallet"
+Candidate 15,Web Developer,"Git, Node.js, Hibernate, Jira, NumPy",3.4 years,BCA,"Mobile Banking UI, IoT Smart Home"
+Candidate 16,DevOps Engineer,"Express, React, Docker, Power BI, AWS, Kotlin, Java",3.3 years,B.Tech CS,Portfolio Website
+Candidate 17,Cloud Engineer,"Android Studio, Spring Boot, AWS, TypeScript, Jira, C++, Git",0.5 years,B.Sc IT,Ecommerce API
+Candidate 18,Mobile App Developer,"Python, AWS, Pandas, SQL, CSS",2.8 years,M.Tech AI,Fake News Detection
+Candidate 19,Frontend Developer,"Kotlin, React, TensorFlow, API Development, Selenium, Jira",4.0 years,B.Sc IT,"ERP System, Weather App"
+Candidate 20,Cloud Engineer,"Power BI, Git, TypeScript, CSS, Android Studio, C#",4.9 years,B.Sc CS,"ChatGPT Clone, Blockchain Wallet"
+Candidate 21,Java Developer,"C#, C++, CSS, Python, Selenium",3.0 years,B.Tech CE,Job Portal
+Candidate 22,Software Tester,"SQL, API Development, Jira, CSS, TypeScript",1.9 years,B.Tech IT,IoT Smart Home
+Candidate 23,DevOps Engineer,"Python, MongoDB, Kotlin, React, C#",1.3 years,B.Tech CSE,Portfolio Website
+Candidate 24,Full Stack Developer,"Power BI, API Development, C#, Node.js, Selenium",1.1 years,B.Tech CSE,"Fake News Detection, ERP System"
+Candidate 25,Full Stack Developer,"Hibernate, SQL, NumPy, Pandas, React, Kubernetes",4.1 years,B.Tech IT,"Weather App, ChatGPT Clone"
+Candidate 26,Frontend Developer,"CSS, Android Studio, AWS, MongoDB, Kubernetes",4.0 years,B.Tech CE,Portfolio Website
+Candidate 27,AI Engineer,"Express, React, AWS, Kubernetes, Python",0.9 years,B.Sc IT,ERP System
+Candidate 28,DevOps Engineer,"NumPy, Pandas, API Development, C#, Firebase",1.2 years,B.Tech CS,"Ecommerce API, Resume Analyzer"
+Candidate 29,Database Engineer,"TypeScript, Android Studio, Spring Boot, Power BI, Python",3.2 years,MCA,HR Dashboard
+Candidate 30,Android Developer,"Express, Kubernetes, API Development, TensorFlow, React, Node.js",3.9 years,B.Tech CE,"Mobile Banking UI, Portfolio Website"
+Candidate 31,Cloud Engineer,"React, Python, Express, Firebase, Selenium, Docker",1.4 years,BCA,"Stock Predictor, Ecommerce API"
+Candidate 32,Mobile App Developer,"Spring Boot, SQL, Hibernate, TensorFlow, CSS, Kubernetes",2.9 years,B.Sc CS,Fake News Detection
+Candidate 33,Database Engineer,"Pandas, HTML, Java, Jira",4.7 years,BCA,Resume Analyzer
+Candidate 34,Android Developer,"Firebase, API Development, Kubernetes, Python, Docker",2.2 years,B.Sc CS,Ecommerce API
+Candidate 35,Java Developer,"Android Studio, Selenium, Java, TypeScript, React",2.7 years,MCA,Weather App
+Candidate 36,Backend Developer,"CSS, Docker, SQL, TensorFlow, C++, API Development, NumPy",3.0 years,B.Tech CSE,"IoT Smart Home, Fake News Detection"
+Candidate 37,DevOps Engineer,"C++, Pandas, Jira, API Development, CSS, Java",3.0 years,B.Tech IT,Weather App
+Candidate 38,Database Engineer,"Node.js, Firebase, AWS, Pandas, TypeScript",2.6 years,B.Sc IT,Job Portal
+Candidate 39,AI Engineer,"Firebase, CSS, NumPy, Node.js, Kubernetes, Hibernate, HTML",4.6 years,B.Tech CS,ChatGPT Clone
+Candidate 40,Cloud Engineer,"Power BI, C++, Git, C#, Selenium, Pandas",1.4 years,BCA,"ChatGPT Clone, ERP System"
+Candidate 41,Cloud Engineer,"Java, React, HTML, Spring Boot, API Development",2.0 years,B.Tech CE,ChatGPT Clone
+Candidate 42,Web Developer,"TypeScript, Kotlin, Java, Git, Selenium, Android Studio, Pandas",1.2 years,B.Tech CS,IoT Smart Home
+Candidate 43,Full Stack Developer,"Android Studio, Spring Boot, Docker, AWS",2.7 years,B.Tech CSE,ChatGPT Clone
+Candidate 44,Android Developer,"Git, TensorFlow, Hibernate, Express",3.1 years,B.Tech CE,Ecommerce API
+Candidate 45,Full Stack Developer,"Power BI, TensorFlow, Firebase, AWS, C++",0.7 years,B.Sc CS,"ERP System, IoT Smart Home"
+Candidate 46,Android Developer,"TensorFlow, Kotlin, Docker, Java, MongoDB, Node.js, Pandas",2.2 years,B.Tech IT,"IoT Smart Home, Stock Predictor"
+Candidate 47,Software Tester,"MongoDB, Git, HTML, AWS, Selenium, CSS, Firebase",2.1 years,B.Tech CSE,HR Dashboard
+Candidate 48,AI Engineer,"Jira, Selenium, TypeScript, Android Studio, C++, SQL",1.1 years,B.Sc IT,ChatGPT Clone
+Candidate 49,Cloud Engineer,"Spring Boot, Express, Node.js, Hibernate, SQL, Python, MongoDB",2.1 years,B.Tech CSE,Mobile Banking UI
+Candidate 50,Full Stack Developer,"Git, SQL, MongoDB, Power BI, React, API Development, Kubernetes",1.7 years,B.Tech IT,Portfolio Website
+Candidate 51,Java Developer,"Kotlin, React, Firebase, Java",3.7 years,B.Tech IT,"Job Portal, HR Dashboard"
+Candidate 52,Software Tester,"Spring Boot, Java, React, Power BI, TensorFlow",0.7 years,B.Tech CE,"ChatGPT Clone, Weather App"
+Candidate 53,Cloud Engineer,"C#, Hibernate, Express, C++, MongoDB, SQL",1.0 years,BCA,"ERP System, Weather App"
+Candidate 54,Java Developer,"NumPy, API Development, C++, Firebase, Docker, Python, Selenium",2.2 years,MCA,Blockchain Wallet
+Candidate 55,Machine Learning Engineer,"Node.js, Hibernate, C++, Selenium, C#, Java",1.2 years,B.Sc CS,"Mobile Banking UI, Ecommerce API"
+Candidate 56,AI Engineer,"Kotlin, Node.js, MongoDB, Power BI",2.2 years,MCA,IoT Smart Home
+Candidate 57,Software Tester,"Jira, Selenium, C#, MongoDB, Android Studio",5.0 years,B.Tech CE,"HR Dashboard, Weather App"
+Candidate 58,Machine Learning Engineer,"Spring Boot, API Development, SQL, AWS, Power BI, NumPy",0.7 years,B.Sc IT,Fake News Detection
+Candidate 59,AI Engineer,"API Development, Firebase, NumPy, Pandas, Git",1.0 years,B.Sc IT,Fake News Detection
+Candidate 60,Backend Developer,"Docker, Java, C#, TensorFlow, Selenium, HTML, API Development",2.7 years,BCA,Resume Analyzer
+Candidate 61,Full Stack Developer,"Docker, Hibernate, MongoDB, TensorFlow, CSS",2.7 years,B.Tech CE,Portfolio Website
+Candidate 62,Software Tester,"C#, MongoDB, Pandas, Node.js, Kubernetes",1.7 years,B.Tech CSE,"HR Dashboard, IoT Smart Home"
+Candidate 63,Full Stack Developer,"AWS, Kotlin, Power BI, Spring Boot, SQL, Kubernetes",3.0 years,M.Tech AI,Mobile Banking UI
+Candidate 64,Cloud Engineer,"C++, Docker, Kotlin, Pandas, Jira",3.1 years,B.Tech CE,"Ecommerce API, Portfolio Website"
+Candidate 65,Full Stack Developer,"Spring Boot, C#, Pandas, Node.js, Hibernate, Kotlin",1.7 years,B.Tech IT,HR Dashboard
+Candidate 66,Mobile App Developer,"Hibernate, API Development, Spring Boot, CSS, React, Kubernetes",3.3 years,B.Tech CS,"Blockchain Wallet, Weather App"
+Candidate 67,Machine Learning Engineer,"Selenium, React, Jira, TypeScript, Docker, Power BI",1.1 years,M.Tech AI,ChatGPT Clone
+Candidate 68,DevOps Engineer,"API Development, Jira, Power BI, Docker, TypeScript, Android Studio",2.3 years,MCA,"ERP System, ChatGPT Clone"
+Candidate 69,Database Engineer,"AWS, Pandas, Kotlin, Hibernate",2.3 years,B.Tech IT,"Blockchain Wallet, Ecommerce API"
+Candidate 70,Web Developer,"Power BI, Pandas, AWS, Express",4.5 years,B.Sc IT,"Stock Predictor, ChatGPT Clone"
+Candidate 71,Software Tester,"Node.js, TensorFlow, React, Android Studio, Kotlin",3.6 years,BCA,"Job Portal, Resume Analyzer"
+Candidate 72,Data Analyst,"Hibernate, Jira, SQL, AWS, Android Studio, HTML",2.2 years,B.Sc IT,Job Portal
+Candidate 73,Backend Developer,"C++, API Development, React, Power BI, Jira",3.5 years,M.Tech AI,"Mobile Banking UI, Ecommerce API"
+Candidate 74,Web Developer,"Firebase, API Development, Python, Docker, Spring Boot, HTML, Android Studio",4.2 years,B.Sc CS,"Stock Predictor, ChatGPT Clone"
+Candidate 75,Data Analyst,"MongoDB, HTML, Git, SQL, Docker, Firebase",1.5 years,B.Tech CSE,Weather App
+Candidate 76,Software Tester,"MongoDB, Power BI, Python, Java, C++",2.2 years,B.Tech CSE,Blockchain Wallet
+Candidate 77,Software Tester,"Kotlin, TypeScript, Selenium, Express, Node.js, C++",2.7 years,B.Tech IT,"Ecommerce API, ERP System"
+Candidate 78,DevOps Engineer,"AWS, Git, Docker, CSS, Selenium, Firebase, Jira",4.9 years,B.Tech CE,"Job Portal, Ecommerce API"
+Candidate 79,Java Developer,"Node.js, TensorFlow, Jira, TypeScript, CSS, Kotlin",0.8 years,B.Tech IT,"Ecommerce API, HR Dashboard"
+Candidate 80,AI Engineer,"Selenium, Express, Pandas, Spring Boot, SQL, Android Studio",3.1 years,B.Sc CS,IoT Smart Home
+Candidate 81,Full Stack Developer,"React, Jira, Kubernetes, Node.js",3.2 years,B.Tech CSE,Job Portal
+Candidate 82,Frontend Developer,"Android Studio, Kubernetes, Python, Hibernate, TypeScript",3.7 years,B.Tech CS,Resume Analyzer
+Candidate 83,Backend Developer,"Firebase, Node.js, Android Studio, HTML, C#",2.3 years,M.Tech AI,"Resume Analyzer, Mobile Banking UI"
+Candidate 84,Full Stack Developer,"Selenium, Firebase, Pandas, Android Studio",1.6 years,B.Tech CSE,Mobile Banking UI
+Candidate 85,Software Tester,"Git, NumPy, Kubernetes, Jira, Node.js, CSS",5.0 years,B.Tech CSE,"ChatGPT Clone, IoT Smart Home"
+Candidate 86,Machine Learning Engineer,"Pandas, Kotlin, Node.js, MongoDB, Android Studio",0.9 years,BCA,"ChatGPT Clone, ERP System"
+Candidate 87,Cloud Engineer,"AWS, Pandas, Node.js, Selenium, Jira",4.6 years,B.Sc CS,"Portfolio Website, IoT Smart Home"
+Candidate 88,Java Developer,"CSS, Kotlin, Hibernate, HTML, TypeScript",2.3 years,B.Tech CSE,Ecommerce API
+Candidate 89,Data Analyst,"Python, Java, Android Studio, React, Jira",1.5 years,M.Tech AI,Mobile Banking UI
+Candidate 90,Software Tester,"HTML, SQL, Firebase, Hibernate, C++, Python",4.7 years,B.Tech IT,"Blockchain Wallet, HR Dashboard"
+Candidate 91,Machine Learning Engineer,"Android Studio, HTML, C++, Kubernetes, C#, Kotlin",3.8 years,B.Tech CS,HR Dashboard
+Candidate 92,Machine Learning Engineer,"C#, Kotlin, Android Studio, API Development, CSS, SQL",1.7 years,B.Tech IT,Ecommerce API
+Candidate 93,Software Tester,"API Development, Kotlin, MongoDB, Git, HTML",3.3 years,MCA,"HR Dashboard, Fake News Detection"
+Candidate 94,Data Analyst,"React, Spring Boot, Power BI, Jira, Kotlin",3.9 years,B.Sc CS,"HR Dashboard, Ecommerce API"
+Candidate 95,Machine Learning Engineer,"Power BI, Hibernate, TypeScript, SQL, React, Selenium",4.8 years,MCA,Fake News Detection
+Candidate 96,Cloud Engineer,"CSS, TensorFlow, C++, API Development",1.3 years,M.Tech AI,Portfolio Website
+Candidate 97,Web Developer,"Node.js, NumPy, Kubernetes, Java, SQL",1.1 years,B.Tech CS,HR Dashboard
+Candidate 98,Java Developer,"MongoDB, NumPy, C++, Power BI",3.6 years,B.Tech CSE,Portfolio Website
+Candidate 99,Database Engineer,"Docker, Selenium, Firebase, Power BI, Hibernate, SQL, NumPy",3.5 years,B.Tech CE,"Blockchain Wallet, IoT Smart Home"
+Candidate 100,Frontend Developer,"Firebase, Jira, React, Node.js",3.2 years,B.Sc IT,Mobile Banking UI
+Candidate 101,Database Engineer,"Docker, CSS, Kotlin, NumPy, TypeScript, TensorFlow, Selenium",4.2 years,B.Tech CE,Mobile Banking UI
+Candidate 102,Web Developer,"Power BI, Firebase, React, Python",0.7 years,M.Tech AI,Resume Analyzer
+Candidate 103,Java Developer,"Node.js, C++, Java, Firebase, AWS, Pandas",0.7 years,B.Sc IT,Fake News Detection
+Candidate 104,Database Engineer,"CSS, Spring Boot, Kubernetes, MongoDB, Selenium, Android Studio, TypeScript",2.2 years,B.Tech CS,"Mobile Banking UI, Portfolio Website"
+Candidate 105,Android Developer,"Firebase, Kubernetes, Hibernate, Express, API Development, Docker, HTML",3.9 years,B.Tech CE,Stock Predictor
+Candidate 106,Cloud Engineer,"Android Studio, C#, TypeScript, Pandas, HTML",4.4 years,M.Tech AI,"Blockchain Wallet, HR Dashboard"
+Candidate 107,Web Developer,"TensorFlow, Git, MongoDB, Docker, Express, Kubernetes, CSS",0.9 years,MCA,"Job Portal, Mobile Banking UI"
+Candidate 108,Mobile App Developer,"Jira, Power BI, Java, C#, HTML",4.9 years,B.Tech CSE,Mobile Banking UI
+Candidate 109,Android Developer,"C++, Jira, Power BI, Python",4.7 years,B.Tech CE,ERP System
+Candidate 110,Database Engineer,"CSS, Node.js, C#, Jira",1.1 years,B.Tech CSE,Blockchain Wallet
+Candidate 111,Backend Developer,"CSS, Java, Power BI, React, TypeScript, Docker, HTML",0.9 years,B.Tech CS,Job Portal
+Candidate 112,Java Developer,"Docker, Android Studio, SQL, Express, Power BI, Git",3.0 years,B.Tech IT,"Stock Predictor, Blockchain Wallet"
+Candidate 113,Full Stack Developer,"HTML, SQL, Git, Docker",0.8 years,B.Tech CE,"HR Dashboard, Weather App"
+Candidate 114,Software Tester,"Git, SQL, C#, Kubernetes, Firebase, TensorFlow",4.4 years,BCA,"Resume Analyzer, ChatGPT Clone"
+Candidate 115,Full Stack Developer,"MongoDB, Kotlin, Kubernetes, Jira",1.9 years,B.Tech CE,"ChatGPT Clone, HR Dashboard"
+Candidate 116,Java Developer,"HTML, TensorFlow, Spring Boot, Selenium, TypeScript",1.1 years,B.Sc CS,Stock Predictor
+Candidate 117,Full Stack Developer,"C#, Java, Express, Android Studio",1.1 years,BCA,"Stock Predictor, ChatGPT Clone"
+Candidate 118,Backend Developer,"Node.js, TensorFlow, C++, Android Studio, CSS, Selenium, React",2.7 years,B.Sc CS,ERP System
+Candidate 119,Machine Learning Engineer,"Git, Python, Java, HTML",3.0 years,B.Tech CE,Resume Analyzer
+Candidate 120,Mobile App Developer,"Git, TypeScript, Kotlin, TensorFlow, SQL",3.7 years,MCA,"Portfolio Website, Ecommerce API"
+Candidate 121,AI Engineer,"C#, Node.js, API Development, TensorFlow, NumPy, HTML, CSS",3.4 years,B.Tech CE,"Blockchain Wallet, Ecommerce API"
+Candidate 122,Data Analyst,"Jira, Express, HTML, Spring Boot, Docker",4.9 years,B.Tech CS,Ecommerce API
+Candidate 123,Cloud Engineer,"Android Studio, Python, TensorFlow, Jira, Express",4.1 years,B.Tech CS,"HR Dashboard, IoT Smart Home"
+Candidate 124,DevOps Engineer,"TypeScript, Docker, Kubernetes, Power BI, MongoDB, Jira",1.7 years,M.Tech AI,"Ecommerce API, IoT Smart Home"
+Candidate 125,DevOps Engineer,"Kubernetes, TensorFlow, React, CSS",4.7 years,B.Sc CS,"Portfolio Website, Weather App"
+Candidate 126,Java Developer,"Hibernate, Python, SQL, Firebase, HTML",4.7 years,B.Sc CS,"Mobile Banking UI, Resume Analyzer"
+Candidate 127,Data Analyst,"Kotlin, React, Power BI, Node.js",2.3 years,B.Tech IT,"HR Dashboard, Stock Predictor"
+Candidate 128,Web Developer,"API Development, Power BI, Android Studio, Git, Docker, Jira",1.1 years,B.Tech CE,Ecommerce API
+Candidate 129,Frontend Developer,"Pandas, React, TensorFlow, API Development, Docker",4.1 years,BCA,"Job Portal, ERP System"
+Candidate 130,DevOps Engineer,"MongoDB, TensorFlow, Git, HTML",1.5 years,B.Tech IT,"Resume Analyzer, Job Portal"
+Candidate 131,DevOps Engineer,"CSS, Express, Android Studio, TensorFlow",2.0 years,B.Sc CS,Resume Analyzer
+Candidate 132,Full Stack Developer,"API Development, React, Hibernate, Python, Docker, Firebase",4.1 years,B.Tech IT,"ChatGPT Clone, ERP System"
+Candidate 133,Blockchain Developer,"Git, React, CSS, Android Studio, Power BI",4.9 years,B.Sc CS,ERP System
+Candidate 134,Frontend Developer,"API Development, TensorFlow, CSS, Java, Hibernate",5.0 years,B.Tech CSE,"Mobile Banking UI, Stock Predictor"
+Candidate 135,Blockchain Developer,"Hibernate, NumPy, Git, Kubernetes, SQL, TensorFlow, Kotlin",2.5 years,B.Tech CS,Ecommerce API
+Candidate 136,AI Engineer,"Python, TypeScript, API Development, Android Studio, HTML, Pandas, C++",3.5 years,B.Sc IT,"ChatGPT Clone, Portfolio Website"
+Candidate 137,Machine Learning Engineer,"Express, MongoDB, Power BI, Docker",2.6 years,B.Tech CE,"Stock Predictor, Fake News Detection"
+Candidate 138,Data Analyst,"HTML, TypeScript, Firebase, Selenium",2.2 years,B.Tech IT,Fake News Detection
+Candidate 139,Database Engineer,"Node.js, NumPy, C++, Java, Kubernetes, AWS, Spring Boot",3.5 years,M.Tech AI,"Blockchain Wallet, Weather App"
+Candidate 140,Cloud Engineer,"Kotlin, Pandas, Git, HTML, C#",4.8 years,BCA,"Mobile Banking UI, Portfolio Website"
+Candidate 141,Java Developer,"TypeScript, Express, Java, C#",4.2 years,B.Tech CS,"Stock Predictor, Ecommerce API"
+Candidate 142,Software Tester,"Python, NumPy, Kubernetes, Git",4.1 years,B.Tech CSE,ChatGPT Clone
+Candidate 143,Full Stack Developer,"Docker, Kotlin, Pandas, C#, API Development, C++",2.3 years,B.Sc IT,IoT Smart Home
+Candidate 144,Database Engineer,"TypeScript, API Development, Kotlin, Spring Boot, CSS, Git, Node.js",1.2 years,B.Sc IT,Ecommerce API
+Candidate 145,Data Analyst,"HTML, NumPy, Kubernetes, Kotlin",3.4 years,B.Sc CS,"ERP System, Ecommerce API"
+Candidate 146,Software Tester,"TensorFlow, Spring Boot, Git, Python, HTML, MongoDB",1.6 years,B.Tech CS,"Job Portal, ERP System"
+Candidate 147,Frontend Developer,"CSS, AWS, Pandas, Spring Boot, Python, Android Studio, Selenium",1.6 years,MCA,"ChatGPT Clone, HR Dashboard"
+Candidate 148,Android Developer,"Docker, Firebase, HTML, React, MongoDB, Express",0.8 years,B.Tech CS,"Mobile Banking UI, Job Portal"
+Candidate 149,Data Analyst,"Android Studio, Firebase, API Development, Selenium, Kubernetes, Express",0.9 years,B.Tech CE,Weather App
+Candidate 150,Java Developer,"HTML, Power BI, React, Jira, Selenium, Docker, AWS",2.3 years,B.Sc CS,ERP System
+Candidate 151,Java Developer,"C++, AWS, Spring Boot, React, NumPy, TypeScript",2.0 years,B.Tech CSE,"Mobile Banking UI, ERP System"
+Candidate 152,Android Developer,"Kotlin, SQL, TensorFlow, C++, Python, Selenium, MongoDB",0.9 years,B.Tech IT,ChatGPT Clone
+Candidate 153,Web Developer,"Node.js, Android Studio, Kubernetes, AWS, API Development",2.9 years,MCA,Blockchain Wallet
+Candidate 154,Android Developer,"Spring Boot, Kubernetes, Java, API Development, C++, CSS",1.2 years,B.Tech CS,Ecommerce API
+Candidate 155,Java Developer,"TensorFlow, Node.js, AWS, Power BI",0.7 years,MCA,"Job Portal, Resume Analyzer"
+Candidate 156,Full Stack Developer,"TypeScript, Kubernetes, MongoDB, C++",1.9 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+Candidate 157,Database Engineer,"Node.js, Git, TensorFlow, TypeScript",4.8 years,M.Tech AI,Blockchain Wallet
+Candidate 158,Backend Developer,"Kubernetes, C++, AWS, API Development, Python, C#",4.9 years,B.Sc CS,Stock Predictor
+Candidate 159,Cloud Engineer,"Kotlin, Android Studio, Express, TensorFlow, NumPy",0.5 years,B.Tech CS,Stock Predictor
+Candidate 160,Backend Developer,"TensorFlow, Firebase, Python, Hibernate, NumPy",3.7 years,BCA,"ERP System, Blockchain Wallet"
+Candidate 161,Frontend Developer,"Python, Java, TypeScript, Hibernate, Express, Kubernetes",4.1 years,B.Tech CS,"Ecommerce API, Fake News Detection"
+Candidate 162,Blockchain Developer,"Kotlin, SQL, Pandas, Python, Docker, TypeScript, Jira",0.5 years,MCA,"HR Dashboard, Job Portal"
+Candidate 163,Database Engineer,"Pandas, Docker, HTML, Kubernetes, Jira, Power BI, Python",4.1 years,B.Tech IT,ChatGPT Clone
+Candidate 164,Full Stack Developer,"C++, Pandas, React, Java, AWS, Python",4.3 years,M.Tech AI,"Weather App, HR Dashboard"
+Candidate 165,Software Tester,"React, Firebase, C#, Python, HTML, NumPy, Selenium",2.2 years,B.Tech IT,Weather App
+Candidate 166,Database Engineer,"API Development, Node.js, Jira, NumPy, Java",3.4 years,B.Tech CSE,"Blockchain Wallet, Weather App"
+Candidate 167,Database Engineer,"Firebase, Kubernetes, Spring Boot, Docker, NumPy, Selenium",2.1 years,B.Tech CSE,"IoT Smart Home, HR Dashboard"
+Candidate 168,Frontend Developer,"Selenium, Git, Power BI, SQL, Jira, CSS, Java",1.7 years,B.Tech CS,Stock Predictor
+Candidate 169,Blockchain Developer,"NumPy, API Development, Android Studio, Git, Selenium",4.3 years,B.Sc IT,"ERP System, Ecommerce API"
+Candidate 170,AI Engineer,"C#, Git, Node.js, Java, Python, Express, Docker",3.6 years,B.Tech CS,"Fake News Detection, Blockchain Wallet"
+Candidate 171,Blockchain Developer,"API Development, SQL, Android Studio, Java, C++",3.4 years,B.Sc IT,"Stock Predictor, Ecommerce API"
+Candidate 172,AI Engineer,"NumPy, Node.js, Express, Hibernate",4.9 years,MCA,"Weather App, Job Portal"
+Candidate 173,AI Engineer,"API Development, Kubernetes, Selenium, Hibernate, SQL, C++",2.9 years,B.Tech CS,"Job Portal, Blockchain Wallet"
+Candidate 174,Software Tester,"Docker, React, Selenium, Pandas, Express",4.7 years,BCA,Fake News Detection
+Candidate 175,Frontend Developer,"Selenium, MongoDB, Java, Git, Hibernate, Android Studio, C++",2.6 years,M.Tech AI,"ChatGPT Clone, Fake News Detection"
+Candidate 176,Blockchain Developer,"Java, TensorFlow, Selenium, Pandas, Express, AWS",0.8 years,B.Sc IT,"Portfolio Website, Ecommerce API"
+Candidate 177,Cloud Engineer,"Hibernate, Pandas, AWS, TypeScript, C#, Java, Power BI",2.8 years,B.Sc CS,"Job Portal, ChatGPT Clone"
+Candidate 178,Backend Developer,"Spring Boot, CSS, Power BI, Hibernate",3.0 years,B.Sc IT,"Portfolio Website, Fake News Detection"
+Candidate 179,Android Developer,"Firebase, C++, Jira, Kubernetes, Python, Hibernate",3.1 years,B.Tech IT,"Portfolio Website, Ecommerce API"
+Candidate 180,Blockchain Developer,"Express, API Development, Firebase, React, Hibernate",4.1 years,BCA,Resume Analyzer
+Candidate 181,Software Tester,"Docker, React, Android Studio, Git, AWS, Java, Kotlin",2.3 years,B.Tech CSE,Ecommerce API
+Candidate 182,Machine Learning Engineer,"Selenium, Pandas, NumPy, SQL, AWS",4.5 years,B.Tech CSE,HR Dashboard
+Candidate 183,Software Tester,"C#, Node.js, Pandas, Docker, AWS",4.1 years,B.Sc CS,"ERP System, Blockchain Wallet"
+Candidate 184,Web Developer,"Express, Kotlin, NumPy, MongoDB, C++",4.9 years,B.Tech CS,"ChatGPT Clone, ERP System"
+Candidate 185,Cloud Engineer,"Power BI, React, Jira, Kotlin",1.4 years,BCA,"Ecommerce API, Job Portal"
+Candidate 186,Machine Learning Engineer,"Hibernate, React, Express, TensorFlow, Kubernetes",2.2 years,MCA,Portfolio Website
+Candidate 187,Frontend Developer,"MongoDB, C++, Kotlin, Jira, Node.js, CSS",2.0 years,M.Tech AI,Stock Predictor
+Candidate 188,Software Tester,"API Development, TensorFlow, C++, Node.js, React, Hibernate, C#",0.7 years,B.Sc CS,Resume Analyzer
+Candidate 189,Backend Developer,"MongoDB, Android Studio, CSS, Spring Boot, Express, TypeScript, Node.js",0.7 years,BCA,"ERP System, Mobile Banking UI"
+Candidate 190,Mobile App Developer,"SQL, Node.js, Jira, Hibernate",4.5 years,MCA,Weather App
+Candidate 191,Cloud Engineer,"TensorFlow, Jira, Git, Android Studio, Selenium, NumPy, HTML",3.7 years,B.Tech CE,Blockchain Wallet
+Candidate 192,Cloud Engineer,"Selenium, Hibernate, Android Studio, SQL, Python, Firebase, NumPy",4.3 years,B.Tech IT,Ecommerce API
+Candidate 193,Backend Developer,"MongoDB, HTML, Kubernetes, C#, Spring Boot, TensorFlow, Firebase",2.1 years,B.Tech CE,"Ecommerce API, HR Dashboard"
+Candidate 194,Web Developer,"AWS, API Development, HTML, Kubernetes, Express",4.1 years,B.Tech IT,Mobile Banking UI
+Candidate 195,Database Engineer,"C#, Pandas, SQL, Docker",4.8 years,B.Tech CE,Fake News Detection
+Candidate 196,Software Tester,"Git, MongoDB, TypeScript, Hibernate",3.2 years,B.Tech CS,"Resume Analyzer, Ecommerce API"
+Candidate 197,Data Analyst,"NumPy, SQL, Node.js, Hibernate, Selenium",2.3 years,M.Tech AI,Portfolio Website
+Candidate 198,Machine Learning Engineer,"Python, Express, Power BI, Java, Kubernetes, Pandas",2.4 years,M.Tech AI,Blockchain Wallet
+Candidate 199,Full Stack Developer,"Spring Boot, Express, SQL, NumPy, Android Studio",4.1 years,B.Tech CS,"Weather App, ERP System"
+Candidate 200,Android Developer,"SQL, Java, Pandas, AWS, Kotlin, Express",0.8 years,B.Sc IT,ChatGPT Clone
+Candidate 201,Java Developer,"Selenium, Python, C#, Kotlin",0.8 years,M.Tech AI,Job Portal
+Candidate 202,Full Stack Developer,"Kotlin, TypeScript, Kubernetes, HTML, Firebase",4.8 years,MCA,HR Dashboard
+Candidate 203,DevOps Engineer,"Hibernate, API Development, Docker, Python, Kubernetes, Git",1.2 years,B.Tech IT,"Job Portal, ChatGPT Clone"
+Candidate 204,Blockchain Developer,"Spring Boot, HTML, CSS, Android Studio",0.7 years,B.Tech CS,"Portfolio Website, HR Dashboard"
+Candidate 205,AI Engineer,"Docker, Power BI, Node.js, Pandas",1.4 years,B.Tech CSE,"Portfolio Website, Weather App"
+Candidate 206,Java Developer,"Pandas, Node.js, AWS, Python, Selenium, Java, React",1.2 years,B.Sc IT,"Stock Predictor, Weather App"
+Candidate 207,Blockchain Developer,"Selenium, Git, React, Spring Boot",3.2 years,B.Tech IT,HR Dashboard
+Candidate 208,DevOps Engineer,"Node.js, Kotlin, NumPy, TensorFlow, Selenium, CSS, Python",3.4 years,BCA,"Stock Predictor, Ecommerce API"
+Candidate 209,Mobile App Developer,"CSS, TypeScript, Selenium, React, Power BI, Express, Java",3.9 years,B.Tech CSE,"Resume Analyzer, Job Portal"
+Candidate 210,Full Stack Developer,"NumPy, Selenium, AWS, TypeScript, Power BI, Jira, TensorFlow",2.4 years,B.Tech CE,"Stock Predictor, Blockchain Wallet"
+Candidate 211,Cloud Engineer,"AWS, Git, C++, React, Firebase",1.1 years,B.Tech CS,ERP System
+Candidate 212,Database Engineer,"Power BI, Spring Boot, Docker, Java, Android Studio, API Development",2.0 years,B.Tech CE,Job Portal
+Candidate 213,Database Engineer,"HTML, Android Studio, Pandas, C#, C++, MongoDB",3.5 years,B.Sc IT,"Resume Analyzer, Weather App"
+Candidate 214,Blockchain Developer,"NumPy, Kotlin, TypeScript, Selenium",4.3 years,B.Sc IT,"Fake News Detection, Ecommerce API"
+Candidate 215,Data Analyst,"Docker, Power BI, Kubernetes, Python",1.7 years,BCA,"Stock Predictor, Mobile Banking UI"
+Candidate 216,Frontend Developer,"Jira, Firebase, Hibernate, Java, AWS, Python",2.0 years,B.Tech CSE,"Job Portal, Mobile Banking UI"
+Candidate 217,Backend Developer,"Docker, Android Studio, Express, React, Pandas, Git",1.3 years,B.Tech CE,"Mobile Banking UI, ChatGPT Clone"
+Candidate 218,AI Engineer,"NumPy, API Development, Power BI, Spring Boot, SQL",3.6 years,B.Sc CS,"Ecommerce API, Portfolio Website"
+Candidate 219,Database Engineer,"Pandas, CSS, NumPy, Firebase, Node.js, AWS, Git",4.7 years,B.Tech CSE,"Mobile Banking UI, Weather App"
+Candidate 220,Machine Learning Engineer,"Android Studio, MongoDB, Python, TypeScript",1.2 years,B.Tech CSE,"Fake News Detection, ERP System"
+Candidate 221,Full Stack Developer,"Kubernetes, Pandas, C#, React, C++, Firebase, TypeScript",1.6 years,B.Sc CS,Stock Predictor
+Candidate 222,Mobile App Developer,"Java, Android Studio, SQL, Kubernetes",1.5 years,B.Tech CS,"Weather App, ChatGPT Clone"
+Candidate 223,Machine Learning Engineer,"React, HTML, C#, Python, Kubernetes",4.0 years,B.Sc IT,"ChatGPT Clone, Resume Analyzer"
+Candidate 224,Blockchain Developer,"Express, HTML, Kotlin, React",4.1 years,M.Tech AI,Fake News Detection
+Candidate 225,Cloud Engineer,"Selenium, API Development, Python, Hibernate, HTML, Express, Kubernetes",3.7 years,B.Sc IT,"IoT Smart Home, Portfolio Website"
+Candidate 226,Full Stack Developer,"Power BI, Node.js, Android Studio, Hibernate, SQL",0.8 years,B.Sc CS,ChatGPT Clone
+Candidate 227,AI Engineer,"Git, React, NumPy, Android Studio, API Development, Pandas",2.2 years,B.Tech CE,Mobile Banking UI
+Candidate 228,Mobile App Developer,"TensorFlow, NumPy, Jira, Spring Boot, C++, Kotlin",4.0 years,B.Sc CS,"Mobile Banking UI, Portfolio Website"
+Candidate 229,Backend Developer,"AWS, TensorFlow, React, Kubernetes, Spring Boot, MongoDB",3.9 years,B.Tech CE,ERP System
+Candidate 230,Blockchain Developer,"Power BI, Jira, Python, NumPy, Kubernetes, Git, Hibernate",1.9 years,B.Sc IT,"Fake News Detection, Mobile Banking UI"
+Candidate 231,Machine Learning Engineer,"AWS, Pandas, TensorFlow, Kubernetes, Express",1.1 years,M.Tech AI,ERP System
+Candidate 232,Software Tester,"CSS, NumPy, TypeScript, C#, React, Hibernate",4.3 years,MCA,HR Dashboard
+Candidate 233,Java Developer,"Spring Boot, Docker, Kubernetes, Pandas",4.6 years,M.Tech AI,ERP System
+Candidate 234,Android Developer,"HTML, Kubernetes, AWS, CSS",5.0 years,B.Sc CS,"Blockchain Wallet, Portfolio Website"
+Candidate 235,Software Tester,"Selenium, TypeScript, AWS, Firebase, C#, Android Studio",2.4 years,BCA,Portfolio Website
+Candidate 236,Mobile App Developer,"Pandas, Spring Boot, NumPy, C++, Jira, HTML, MongoDB",3.4 years,B.Tech IT,"Stock Predictor, ChatGPT Clone"
+Candidate 237,Machine Learning Engineer,"Pandas, TensorFlow, Git, Express",2.1 years,B.Tech CSE,"ChatGPT Clone, Resume Analyzer"
+Candidate 238,Android Developer,"API Development, React, Java, HTML",1.7 years,B.Sc IT,IoT Smart Home
+Candidate 239,Full Stack Developer,"Firebase, C#, Git, Power BI, TypeScript, API Development, Hibernate",3.7 years,B.Tech CS,Ecommerce API
+Candidate 240,Java Developer,"NumPy, Android Studio, API Development, AWS, Python, Node.js, TypeScript",4.9 years,B.Tech CS,"Fake News Detection, Mobile Banking UI"
+Candidate 241,Frontend Developer,"API Development, Express, Spring Boot, Android Studio, Python, TensorFlow, AWS",2.8 years,M.Tech AI,"Weather App, Fake News Detection"
+Candidate 242,Data Analyst,"TensorFlow, Docker, React, Spring Boot",2.1 years,B.Sc IT,ChatGPT Clone
+Candidate 243,AI Engineer,"Spring Boot, C#, Python, TensorFlow, Node.js, AWS",1.2 years,M.Tech AI,"HR Dashboard, Blockchain Wallet"
+Candidate 244,Data Analyst,"CSS, C++, MongoDB, HTML, Python",4.9 years,B.Tech CS,"Portfolio Website, IoT Smart Home"
+Candidate 245,Java Developer,"Selenium, React, Hibernate, AWS, Java",2.8 years,B.Tech CSE,"Job Portal, Mobile Banking UI"
+Candidate 246,Data Analyst,"CSS, Node.js, MongoDB, C#, TypeScript, Docker",4.5 years,B.Sc IT,"ChatGPT Clone, Mobile Banking UI"
+Candidate 247,DevOps Engineer,"Express, Firebase, HTML, Jira, C++",1.9 years,B.Tech CE,ERP System
+Candidate 248,AI Engineer,"Firebase, Java, NumPy, Spring Boot",4.3 years,B.Tech IT,Portfolio Website
+Candidate 249,Machine Learning Engineer,"Pandas, NumPy, React, Python",4.7 years,B.Tech CS,"IoT Smart Home, ERP System"
+Candidate 250,AI Engineer,"Android Studio, Kotlin, Git, Hibernate, React, Spring Boot, TypeScript",1.4 years,B.Tech CSE,"ChatGPT Clone, Fake News Detection"
+Candidate 251,DevOps Engineer,"Java, API Development, React, AWS",4.8 years,MCA,Weather App
+Candidate 252,Blockchain Developer,"HTML, API Development, Jira, Kotlin",3.7 years,MCA,"Weather App, Ecommerce API"
+Candidate 253,Web Developer,"HTML, React, Node.js, TensorFlow",4.9 years,BCA,"HR Dashboard, ERP System"
+Candidate 254,Software Tester,"Firebase, Git, Jira, TensorFlow, Power BI, MongoDB",2.5 years,B.Tech IT,"HR Dashboard, Blockchain Wallet"
+Candidate 255,Android Developer,"Kotlin, SQL, Pandas, Firebase, C#",1.2 years,B.Sc IT,Portfolio Website
+Candidate 256,Full Stack Developer,"NumPy, C#, MongoDB, React, Docker, HTML, TensorFlow",2.0 years,M.Tech AI,Fake News Detection
+Candidate 257,Backend Developer,"Spring Boot, NumPy, CSS, Power BI, C#",2.5 years,B.Tech CS,Resume Analyzer
+Candidate 258,Software Tester,"Node.js, React, Python, Git, C++",2.6 years,M.Tech AI,"ChatGPT Clone, Blockchain Wallet"
+Candidate 259,Cloud Engineer,"Jira, CSS, Kubernetes, Python",1.5 years,B.Tech CE,"Stock Predictor, Blockchain Wallet"
+Candidate 260,Cloud Engineer,"TensorFlow, TypeScript, CSS, C++, MongoDB, Selenium, C#",2.8 years,MCA,"Ecommerce API, Portfolio Website"
+Candidate 261,DevOps Engineer,"Selenium, C++, Pandas, Git, C#, Kotlin",2.2 years,MCA,"Ecommerce API, Stock Predictor"
+Candidate 262,Mobile App Developer,"C++, API Development, React, SQL, CSS, Hibernate, Kubernetes",2.6 years,MCA,"ChatGPT Clone, ERP System"
+Candidate 263,Full Stack Developer,"Pandas, Power BI, AWS, Docker, Android Studio, TypeScript, C++",0.8 years,M.Tech AI,"ERP System, Mobile Banking UI"
+Candidate 264,Mobile App Developer,"C#, AWS, Firebase, NumPy",1.5 years,B.Tech CS,ERP System
+Candidate 265,Machine Learning Engineer,"Power BI, Kubernetes, HTML, Node.js, TypeScript, API Development, CSS",0.8 years,B.Sc CS,"HR Dashboard, Resume Analyzer"
+Candidate 266,Cloud Engineer,"API Development, Spring Boot, Java, Android Studio, Git",2.6 years,MCA,"Resume Analyzer, ChatGPT Clone"
+Candidate 267,Blockchain Developer,"Power BI, Kubernetes, Kotlin, C#, Spring Boot, MongoDB",3.5 years,B.Tech IT,Stock Predictor
+Candidate 268,DevOps Engineer,"Kubernetes, Hibernate, Spring Boot, NumPy, SQL, Python, MongoDB",1.9 years,B.Sc IT,HR Dashboard
+Candidate 269,Android Developer,"Express, Docker, Java, Power BI",1.3 years,B.Sc CS,Job Portal
+Candidate 270,Cloud Engineer,"Android Studio, SQL, Selenium, MongoDB",1.8 years,B.Tech IT,"Blockchain Wallet, Stock Predictor"
+Candidate 271,Mobile App Developer,"TypeScript, CSS, Pandas, Express, C#, NumPy, C++",1.3 years,B.Tech CSE,"Weather App, IoT Smart Home"
+Candidate 272,Android Developer,"SQL, Spring Boot, CSS, Python, React",2.7 years,B.Tech IT,ERP System
+Candidate 273,Blockchain Developer,"HTML, C++, Express, Python, Power BI, Git, Hibernate",2.8 years,MCA,"Mobile Banking UI, ChatGPT Clone"
+Candidate 274,Cloud Engineer,"Spring Boot, Express, CSS, HTML, Python, AWS, TypeScript",3.9 years,BCA,Job Portal
+Candidate 275,Java Developer,"NumPy, MongoDB, React, Git, Spring Boot",1.3 years,BCA,"IoT Smart Home, Stock Predictor"
+Candidate 276,Frontend Developer,"Java, Hibernate, Spring Boot, TensorFlow, Power BI",2.2 years,B.Tech CSE,Fake News Detection
+Candidate 277,Database Engineer,"Kubernetes, Selenium, C++, API Development, Java, HTML",3.3 years,MCA,"Blockchain Wallet, ERP System"
+Candidate 278,DevOps Engineer,"Selenium, MongoDB, Python, TensorFlow, C#",3.8 years,B.Tech CS,Weather App
+Candidate 279,Blockchain Developer,"SQL, Kubernetes, Docker, CSS",3.1 years,B.Tech CSE,"ERP System, Stock Predictor"
+Candidate 280,Database Engineer,"Kotlin, NumPy, Android Studio, CSS, Power BI",2.7 years,MCA,Portfolio Website
+Candidate 281,Backend Developer,"Docker, Python, TypeScript, Spring Boot",1.9 years,MCA,"Stock Predictor, Job Portal"
+Candidate 282,AI Engineer,"C++, Selenium, CSS, Pandas, Node.js",2.6 years,B.Tech CSE,"HR Dashboard, Mobile Banking UI"
+Candidate 283,Mobile App Developer,"TypeScript, API Development, TensorFlow, Hibernate, SQL, Selenium, Spring Boot",3.4 years,B.Tech IT,"IoT Smart Home, ChatGPT Clone"
+Candidate 284,Machine Learning Engineer,"TypeScript, Docker, HTML, MongoDB, Kotlin, Git",2.8 years,MCA,"Mobile Banking UI, Blockchain Wallet"
+Candidate 285,Database Engineer,"TensorFlow, Hibernate, CSS, Kotlin, Selenium, Power BI, Kubernetes",3.2 years,MCA,"Resume Analyzer, Stock Predictor"
+Candidate 286,Machine Learning Engineer,"Firebase, Jira, Power BI, Kubernetes",3.4 years,B.Sc IT,Ecommerce API
+Candidate 287,Database Engineer,"Git, C++, C#, TensorFlow, MongoDB, HTML",4.5 years,B.Sc CS,ERP System
+Candidate 288,Data Analyst,"Firebase, Git, HTML, Java, Selenium",3.5 years,MCA,"IoT Smart Home, ERP System"
+Candidate 289,AI Engineer,"C++, Node.js, Python, Power BI",3.0 years,MCA,"ERP System, Job Portal"
+Candidate 290,Android Developer,"Kotlin, Docker, C#, CSS, TensorFlow, Spring Boot, API Development",0.7 years,M.Tech AI,"Stock Predictor, Fake News Detection"
+Candidate 291,Backend Developer,"Git, TypeScript, Android Studio, C#",1.3 years,B.Sc CS,"Job Portal, IoT Smart Home"
+Candidate 292,Cloud Engineer,"Android Studio, C++, Selenium, Express, NumPy, Git",4.2 years,B.Tech CE,Ecommerce API
+Candidate 293,Mobile App Developer,"TensorFlow, CSS, Git, Pandas, SQL, Kubernetes, Express",3.7 years,MCA,"ERP System, Mobile Banking UI"
+Candidate 294,Web Developer,"SQL, Jira, Kubernetes, TypeScript, Hibernate, NumPy",3.5 years,B.Sc CS,"Stock Predictor, Weather App"
+Candidate 295,Web Developer,"Java, TensorFlow, Pandas, Selenium, NumPy, Kubernetes, Node.js",1.0 years,B.Tech IT,ERP System
+Candidate 296,Backend Developer,"Android Studio, TensorFlow, Node.js, Java, C++, Jira",1.8 years,M.Tech AI,"Fake News Detection, HR Dashboard"
+Candidate 297,Java Developer,"TensorFlow, Java, Hibernate, Git, Power BI, React, Spring Boot",1.1 years,B.Tech CSE,"Weather App, Ecommerce API"
+Candidate 298,Data Analyst,"TypeScript, Selenium, Docker, Firebase, Power BI",2.2 years,M.Tech AI,Fake News Detection
+Candidate 299,Software Tester,"Power BI, Git, C++, Express, Docker, TypeScript, Kubernetes",4.2 years,B.Tech CSE,"Blockchain Wallet, ERP System"
+Candidate 300,Database Engineer,"Spring Boot, Git, C++, SQL, Kubernetes, C#",4.8 years,B.Tech IT,"Blockchain Wallet, Weather App"
+Candidate 301,Web Developer,"NumPy, Kubernetes, Spring Boot, MongoDB, Firebase, Java, C#",3.6 years,B.Tech CSE,Ecommerce API
+Candidate 302,Java Developer,"Java, TypeScript, Spring Boot, Pandas, Express, HTML",3.8 years,BCA,Blockchain Wallet
+Candidate 303,Mobile App Developer,"React, Node.js, CSS, Kubernetes, Spring Boot",3.5 years,B.Tech CSE,"IoT Smart Home, Ecommerce API"
+Candidate 304,Web Developer,"API Development, Android Studio, Java, HTML, Git, SQL, Pandas",3.0 years,B.Sc IT,"Blockchain Wallet, HR Dashboard"
+Candidate 305,Web Developer,"Kotlin, TypeScript, C++, Jira, Pandas",1.5 years,B.Sc CS,"Fake News Detection, ChatGPT Clone"
+Candidate 306,Frontend Developer,"Pandas, Hibernate, Jira, MongoDB, AWS",1.1 years,M.Tech AI,"Portfolio Website, Blockchain Wallet"
+Candidate 307,Data Analyst,"NumPy, Pandas, C#, Firebase, HTML, SQL, Git",3.7 years,B.Sc CS,IoT Smart Home
+Candidate 308,Frontend Developer,"Node.js, Firebase, Jira, TypeScript, C++, Git",3.1 years,B.Tech CS,Weather App
+Candidate 309,Data Analyst,"Java, C++, Jira, Selenium, Android Studio, CSS, Express",1.6 years,B.Tech CSE,Fake News Detection
+Candidate 310,Web Developer,"CSS, Git, API Development, HTML, Power BI, Docker",1.2 years,M.Tech AI,Stock Predictor
+Candidate 311,Backend Developer,"Firebase, Hibernate, Pandas, MongoDB",2.8 years,B.Sc IT,"Ecommerce API, Mobile Banking UI"
+Candidate 312,Web Developer,"Kotlin, Docker, Python, SQL, TensorFlow, Firebase, HTML",3.0 years,B.Sc IT,Job Portal
+Candidate 313,Cloud Engineer,"API Development, Android Studio, AWS, Express, React, Pandas, Selenium",2.7 years,B.Sc IT,Job Portal
+Candidate 314,Data Analyst,"Power BI, AWS, Express, Node.js",3.6 years,B.Tech CS,ERP System
+Candidate 315,Android Developer,"Jira, Node.js, API Development, Hibernate",4.8 years,B.Tech IT,"Job Portal, Blockchain Wallet"
+Candidate 316,Backend Developer,"Python, SQL, Git, React, TypeScript",1.4 years,B.Tech CSE,Stock Predictor
+Candidate 317,Data Analyst,"MongoDB, HTML, Express, TensorFlow, Docker, SQL, Node.js",1.9 years,B.Sc IT,Ecommerce API
+Candidate 318,Data Analyst,"Kotlin, Node.js, C++, SQL, Selenium, Hibernate",1.2 years,B.Tech CSE,"Ecommerce API, Resume Analyzer"
+Candidate 319,Cloud Engineer,"Jira, AWS, Pandas, Firebase, Express, Java",2.8 years,M.Tech AI,"Job Portal, Portfolio Website"
+Candidate 320,AI Engineer,"React, CSS, Pandas, TypeScript",3.6 years,B.Tech IT,HR Dashboard
+Candidate 321,DevOps Engineer,"AWS, Hibernate, React, Spring Boot, NumPy, Kubernetes",1.8 years,M.Tech AI,IoT Smart Home
+Candidate 322,Mobile App Developer,"Express, Java, HTML, Power BI, Pandas, TypeScript, AWS",3.9 years,B.Sc IT,Ecommerce API
+Candidate 323,Blockchain Developer,"Android Studio, API Development, Hibernate, CSS, Express, MongoDB",4.1 years,B.Tech IT,"HR Dashboard, Weather App"
+Candidate 324,Android Developer,"Hibernate, Power BI, Android Studio, HTML",2.6 years,B.Tech CS,"Job Portal, Mobile Banking UI"
+Candidate 325,Mobile App Developer,"Hibernate, Android Studio, Jira, Firebase, Kotlin",2.9 years,M.Tech AI,Portfolio Website
+Candidate 326,Machine Learning Engineer,"Pandas, AWS, SQL, React, HTML, Java",1.1 years,B.Tech IT,"HR Dashboard, Blockchain Wallet"
+Candidate 327,Java Developer,"Jira, Node.js, Pandas, Java, Firebase, HTML, TensorFlow",3.9 years,MCA,"Weather App, IoT Smart Home"
+Candidate 328,Full Stack Developer,"Power BI, AWS, Git, Hibernate",2.8 years,B.Sc CS,Ecommerce API
+Candidate 329,Software Tester,"Power BI, Hibernate, Pandas, TypeScript, Express, C#, AWS",3.5 years,B.Sc IT,Fake News Detection
+Candidate 330,Machine Learning Engineer,"Jira, Hibernate, NumPy, Express",4.9 years,B.Tech CE,IoT Smart Home
+Candidate 331,Frontend Developer,"Jira, TypeScript, Java, Selenium, HTML, Spring Boot, Android Studio",1.5 years,M.Tech AI,"ChatGPT Clone, Job Portal"
+Candidate 332,Software Tester,"TypeScript, AWS, API Development, Selenium, React, Firebase",1.4 years,B.Tech CSE,"Blockchain Wallet, Job Portal"
+Candidate 333,Blockchain Developer,"HTML, API Development, SQL, TensorFlow",4.5 years,MCA,"Stock Predictor, ERP System"
+Candidate 334,Android Developer,"TypeScript, SQL, Docker, AWS, React, API Development, Android Studio",3.6 years,B.Tech CS,"Portfolio Website, HR Dashboard"
+Candidate 335,Frontend Developer,"Selenium, React, Spring Boot, SQL, TypeScript, C#, Jira",0.6 years,B.Tech CE,"Job Portal, Blockchain Wallet"
+Candidate 336,Cloud Engineer,"Docker, React, Selenium, Firebase, Pandas, Hibernate",0.6 years,B.Tech IT,Resume Analyzer
+Candidate 337,Machine Learning Engineer,"TensorFlow, MongoDB, Power BI, Python",3.2 years,B.Tech CSE,Stock Predictor
+Candidate 338,Frontend Developer,"AWS, MongoDB, Hibernate, C#, Spring Boot, Power BI",0.5 years,B.Tech CS,Ecommerce API
+Candidate 339,Mobile App Developer,"CSS, Kotlin, Java, Jira, Selenium, C++",2.0 years,BCA,"Resume Analyzer, Ecommerce API"
+Candidate 340,Mobile App Developer,"Selenium, HTML, MongoDB, Python",1.0 years,MCA,Ecommerce API
+Candidate 341,AI Engineer,"C++, Python, Hibernate, Spring Boot, Jira, Firebase",3.8 years,B.Sc IT,IoT Smart Home
+Candidate 342,Database Engineer,"Git, NumPy, Spring Boot, Power BI, Kubernetes, Selenium, MongoDB",2.3 years,B.Tech IT,"Ecommerce API, HR Dashboard"
+Candidate 343,DevOps Engineer,"React, NumPy, C#, Firebase, AWS, Express, MongoDB",0.5 years,B.Sc IT,Stock Predictor
+Candidate 344,Web Developer,"Express, Docker, Selenium, C#",4.3 years,M.Tech AI,Weather App
+Candidate 345,Software Tester,"Express, AWS, Python, C++, Node.js",2.5 years,B.Sc IT,HR Dashboard
+Candidate 346,Web Developer,"HTML, Kotlin, C++, Power BI, Android Studio, Java, Python",0.8 years,B.Sc IT,Fake News Detection
+Candidate 347,Cloud Engineer,"Node.js, Docker, Spring Boot, Kubernetes",2.5 years,M.Tech AI,"Stock Predictor, Portfolio Website"
+Candidate 348,AI Engineer,"Jira, MongoDB, Hibernate, CSS",3.1 years,B.Sc IT,"Ecommerce API, ERP System"
+Candidate 349,AI Engineer,"AWS, Kubernetes, Git, Kotlin, TensorFlow, TypeScript, Docker",4.3 years,MCA,"HR Dashboard, Blockchain Wallet"
+Candidate 350,Blockchain Developer,"TensorFlow, TypeScript, Hibernate, MongoDB, API Development, Git",1.9 years,M.Tech AI,"Job Portal, Blockchain Wallet"
+Candidate 351,Blockchain Developer,"Node.js, API Development, C#, TensorFlow, AWS",0.6 years,M.Tech AI,"Resume Analyzer, Stock Predictor"
+Candidate 352,AI Engineer,"Jira, Hibernate, Python, Express, NumPy, HTML",1.8 years,M.Tech AI,Mobile Banking UI
+Candidate 353,Frontend Developer,"API Development, SQL, NumPy, Spring Boot",3.2 years,B.Sc IT,Fake News Detection
+Candidate 354,Web Developer,"Spring Boot, Pandas, HTML, Jira, C++, CSS, Hibernate",2.0 years,B.Tech CE,"Job Portal, Blockchain Wallet"
+Candidate 355,Backend Developer,"Hibernate, SQL, API Development, CSS, C#, TensorFlow, Express",3.3 years,B.Sc CS,"Weather App, Job Portal"
+Candidate 356,Mobile App Developer,"Jira, C++, Android Studio, Spring Boot, API Development, Docker",1.0 years,B.Tech IT,ChatGPT Clone
+Candidate 357,Backend Developer,"C++, CSS, HTML, Express, Node.js, TypeScript",3.2 years,B.Sc IT,"Mobile Banking UI, Portfolio Website"
+Candidate 358,Data Analyst,"TypeScript, AWS, Express, MongoDB",3.8 years,MCA,"Stock Predictor, HR Dashboard"
+Candidate 359,Backend Developer,"Firebase, Power BI, Java, Spring Boot, C++, TensorFlow",4.0 years,B.Tech IT,ERP System
+Candidate 360,Full Stack Developer,"HTML, React, TypeScript, API Development, Kotlin",1.6 years,B.Sc IT,"Portfolio Website, IoT Smart Home"
+Candidate 361,Software Tester,"Java, HTML, AWS, Kotlin, Express",1.2 years,MCA,HR Dashboard
+Candidate 362,Cloud Engineer,"React, Kotlin, Python, Android Studio, CSS, Kubernetes, Git",4.9 years,MCA,"HR Dashboard, ChatGPT Clone"
+Candidate 363,Blockchain Developer,"SQL, Git, C++, AWS, Jira, Hibernate",4.3 years,B.Sc CS,"ChatGPT Clone, Mobile Banking UI"
+Candidate 364,Software Tester,"Express, React, Pandas, TensorFlow, TypeScript, API Development, Java",0.6 years,B.Tech IT,ERP System
+Candidate 365,Java Developer,"Kubernetes, API Development, TypeScript, Firebase, Power BI",1.1 years,B.Tech CSE,"Weather App, Ecommerce API"
+Candidate 366,Backend Developer,"Java, Pandas, Node.js, Spring Boot, Kubernetes, Express, React",2.1 years,B.Sc CS,Mobile Banking UI
+Candidate 367,Database Engineer,"MongoDB, Git, TypeScript, Docker, SQL, Selenium, Java",4.0 years,M.Tech AI,Weather App
+Candidate 368,AI Engineer,"MongoDB, Pandas, Kubernetes, TypeScript, Android Studio",3.0 years,M.Tech AI,Job Portal
+Candidate 369,Software Tester,"Spring Boot, Kubernetes, Jira, SQL",3.9 years,B.Sc IT,HR Dashboard
+Candidate 370,Software Tester,"HTML, Android Studio, Firebase, Power BI",4.5 years,B.Tech CE,Portfolio Website
+Candidate 371,AI Engineer,"MongoDB, Jira, API Development, NumPy, TypeScript, TensorFlow, Android Studio",1.0 years,B.Tech CSE,ERP System
+Candidate 372,Cloud Engineer,"Docker, HTML, CSS, MongoDB",4.3 years,MCA,Fake News Detection
+Candidate 373,Software Tester,"MongoDB, API Development, TensorFlow, C#, Git, Express, C++",2.8 years,MCA,"HR Dashboard, Mobile Banking UI"
+Candidate 374,Database Engineer,"Kubernetes, Python, AWS, Pandas, TensorFlow",4.0 years,B.Tech CE,Resume Analyzer
+Candidate 375,Backend Developer,"SQL, AWS, Firebase, Python, Git, Spring Boot",1.9 years,MCA,"Fake News Detection, Resume Analyzer"
+Candidate 376,Blockchain Developer,"API Development, AWS, Pandas, Hibernate, TypeScript, C#, Android Studio",1.5 years,B.Tech CS,"ChatGPT Clone, Weather App"
+Candidate 377,Data Analyst,"NumPy, Spring Boot, Java, AWS, Jira",4.8 years,B.Tech CE,Job Portal
+Candidate 378,Mobile App Developer,"Firebase, Jira, Power BI, Git, Selenium, SQL",2.4 years,B.Tech CSE,Job Portal
+Candidate 379,DevOps Engineer,"Jira, Firebase, CSS, Spring Boot, NumPy, C++",2.4 years,BCA,"HR Dashboard, Ecommerce API"
+Candidate 380,Machine Learning Engineer,"CSS, Power BI, Kotlin, C++, Hibernate, Selenium, Spring Boot",0.6 years,M.Tech AI,"Job Portal, Mobile Banking UI"
+Candidate 381,Cloud Engineer,"C++, Firebase, React, CSS, AWS, SQL, MongoDB",0.9 years,B.Tech CE,Ecommerce API
+Candidate 382,DevOps Engineer,"Spring Boot, Jira, Git, Node.js, HTML, Pandas",3.9 years,B.Tech CSE,"Stock Predictor, HR Dashboard"
+Candidate 383,Data Analyst,"HTML, Spring Boot, Power BI, C++",2.7 years,B.Tech CS,IoT Smart Home
+Candidate 384,Android Developer,"Express, MongoDB, Kubernetes, HTML",1.8 years,BCA,"Portfolio Website, Stock Predictor"
+Candidate 385,Java Developer,"Firebase, Hibernate, C++, Android Studio, Git",2.7 years,B.Tech CE,"Weather App, ChatGPT Clone"
+Candidate 386,AI Engineer,"MongoDB, Jira, Node.js, Java, TensorFlow",0.7 years,B.Tech CSE,Stock Predictor
+Candidate 387,Machine Learning Engineer,"Node.js, Express, Git, NumPy, Python",5.0 years,MCA,ChatGPT Clone
+Candidate 388,Full Stack Developer,"Spring Boot, Selenium, Jira, Node.js, Pandas, Git, TensorFlow",4.2 years,BCA,"Blockchain Wallet, HR Dashboard"
+Candidate 389,Machine Learning Engineer,"NumPy, Python, TensorFlow, MongoDB, HTML, Selenium, Java",4.2 years,BCA,HR Dashboard
+Candidate 390,Blockchain Developer,"Pandas, Express, Java, C#, Firebase, NumPy",2.3 years,M.Tech AI,ERP System
+Candidate 391,DevOps Engineer,"Firebase, Spring Boot, Power BI, React, AWS, Docker",1.9 years,M.Tech AI,"IoT Smart Home, Blockchain Wallet"
+Candidate 392,Cloud Engineer,"NumPy, Pandas, SQL, HTML, Java, Jira",1.4 years,B.Tech IT,Weather App
+Candidate 393,Blockchain Developer,"Power BI, Node.js, Jira, C#",0.7 years,B.Tech CS,IoT Smart Home
+Candidate 394,Data Analyst,"Docker, Python, Kubernetes, React",0.6 years,B.Tech CE,Stock Predictor
+Candidate 395,Software Tester,"Jira, CSS, NumPy, C++, Power BI, Node.js",0.5 years,BCA,"Blockchain Wallet, Weather App"
+Candidate 396,Database Engineer,"Node.js, Kotlin, TypeScript, Jira, C++, Spring Boot",1.6 years,B.Sc CS,"HR Dashboard, IoT Smart Home"
+Candidate 397,Mobile App Developer,"TensorFlow, C#, MongoDB, Jira, Android Studio, Docker",4.9 years,BCA,"Portfolio Website, Ecommerce API"
+Candidate 398,Frontend Developer,"AWS, Git, Kotlin, API Development, Firebase",4.7 years,B.Tech CSE,Ecommerce API
+Candidate 399,DevOps Engineer,"Java, C#, HTML, AWS, Android Studio, CSS",1.3 years,B.Sc CS,"Ecommerce API, Blockchain Wallet"
+Candidate 400,Java Developer,"Spring Boot, Power BI, Express, Jira, Python",2.3 years,B.Tech CS,Stock Predictor
+Candidate 401,Software Tester,"Android Studio, Python, Jira, Firebase",0.9 years,M.Tech AI,Resume Analyzer
+Candidate 402,Backend Developer,"AWS, Express, TypeScript, Power BI, Kotlin, Spring Boot",2.3 years,B.Tech IT,Weather App
+Candidate 403,Cloud Engineer,"CSS, Java, Docker, Python, TypeScript, MongoDB",3.0 years,B.Tech IT,Weather App
+Candidate 404,Cloud Engineer,"API Development, CSS, HTML, TensorFlow, Kubernetes, Express",4.3 years,M.Tech AI,"Stock Predictor, IoT Smart Home"
+Candidate 405,Java Developer,"Node.js, Selenium, TensorFlow, AWS",1.1 years,M.Tech AI,"Job Portal, Stock Predictor"
+Candidate 406,Machine Learning Engineer,"React, Firebase, Kotlin, SQL, Jira, TypeScript",4.2 years,M.Tech AI,ChatGPT Clone
+Candidate 407,Java Developer,"API Development, TensorFlow, AWS, CSS, MongoDB, Kubernetes",4.8 years,B.Tech IT,Weather App
+Candidate 408,Web Developer,"C#, Java, TensorFlow, Jira, Android Studio, Spring Boot",1.8 years,B.Sc CS,ERP System
+Candidate 409,Java Developer,"Kubernetes, CSS, Git, Kotlin",2.6 years,MCA,Job Portal
+Candidate 410,Data Analyst,"Selenium, Android Studio, C#, Git, Firebase",0.9 years,M.Tech AI,"Portfolio Website, Resume Analyzer"
+Candidate 411,Machine Learning Engineer,"Kotlin, TypeScript, API Development, TensorFlow, Pandas",1.5 years,M.Tech AI,Weather App
+Candidate 412,Backend Developer,"Git, TypeScript, Kotlin, C#, API Development, Power BI",3.1 years,MCA,Weather App
+Candidate 413,Frontend Developer,"Kubernetes, NumPy, Git, Kotlin, TypeScript, C#, SQL",4.5 years,MCA,"Job Portal, Resume Analyzer"
+Candidate 414,Web Developer,"Java, Git, Python, Android Studio",2.8 years,B.Tech CS,Resume Analyzer
+Candidate 415,Frontend Developer,"React, Git, Docker, Android Studio, Express, Spring Boot, TensorFlow",2.7 years,M.Tech AI,"IoT Smart Home, HR Dashboard"
+Candidate 416,Full Stack Developer,"React, Express, TypeScript, Java",3.3 years,B.Tech IT,Stock Predictor
+Candidate 417,Java Developer,"HTML, Docker, Kubernetes, Git, Express",4.9 years,M.Tech AI,"Mobile Banking UI, Portfolio Website"
+Candidate 418,Backend Developer,"Selenium, C++, AWS, API Development, Express",2.7 years,B.Tech CS,Weather App
+Candidate 419,Data Analyst,"Git, Docker, C++, React",4.3 years,M.Tech AI,Fake News Detection
+Candidate 420,Mobile App Developer,"Pandas, Python, Android Studio, Node.js",2.5 years,B.Sc CS,Ecommerce API
+Candidate 421,Mobile App Developer,"Express, TypeScript, CSS, Spring Boot",3.1 years,B.Tech IT,"Blockchain Wallet, Fake News Detection"
+Candidate 422,DevOps Engineer,"Git, CSS, Pandas, AWS, MongoDB",1.3 years,B.Sc IT,Portfolio Website
+Candidate 423,Machine Learning Engineer,"Spring Boot, CSS, C++, AWS, TensorFlow, C#",3.2 years,MCA,"HR Dashboard, ChatGPT Clone"
+Candidate 424,Software Tester,"Firebase, Pandas, Kubernetes, Android Studio",3.2 years,M.Tech AI,"HR Dashboard, Job Portal"
+Candidate 425,Mobile App Developer,"MongoDB, Firebase, Express, Android Studio, SQL, Docker, Git",2.9 years,B.Tech CE,Fake News Detection
+Candidate 426,AI Engineer,"TypeScript, Firebase, API Development, Selenium, Jira",1.4 years,M.Tech AI,Portfolio Website
+Candidate 427,Software Tester,"Kotlin, Power BI, C++, Selenium, Hibernate, NumPy",1.8 years,B.Sc IT,Weather App
+Candidate 428,Software Tester,"Firebase, Spring Boot, MongoDB, Python",1.4 years,B.Tech IT,Portfolio Website
+Candidate 429,AI Engineer,"Kotlin, HTML, C#, Power BI",4.1 years,MCA,Resume Analyzer
+Candidate 430,Backend Developer,"MongoDB, C++, Pandas, Docker",2.9 years,B.Tech CSE,IoT Smart Home
+Candidate 431,Frontend Developer,"CSS, C++, Git, C#",2.2 years,B.Sc IT,"Portfolio Website, HR Dashboard"
+Candidate 432,Backend Developer,"Pandas, Power BI, Hibernate, NumPy, C++, Python",2.1 years,MCA,IoT Smart Home
+Candidate 433,Web Developer,"Selenium, Android Studio, MongoDB, TypeScript, Docker, CSS",1.8 years,B.Tech CE,Portfolio Website
+Candidate 434,Mobile App Developer,"Docker, Python, CSS, Firebase, Kotlin, Express, TypeScript",2.2 years,B.Sc CS,"Stock Predictor, Weather App"
+Candidate 435,Database Engineer,"Python, Kotlin, Hibernate, AWS, Node.js, Android Studio",4.4 years,B.Tech CS,Blockchain Wallet
+Candidate 436,DevOps Engineer,"Git, HTML, Kotlin, Kubernetes, MongoDB",2.1 years,B.Tech CS,"Mobile Banking UI, IoT Smart Home"
+Candidate 437,Backend Developer,"TensorFlow, Jira, Hibernate, Pandas, Kotlin, Python",3.5 years,BCA,"Ecommerce API, Stock Predictor"
+Candidate 438,AI Engineer,"Express, Hibernate, CSS, C#, Java",1.6 years,MCA,Fake News Detection
+Candidate 439,Database Engineer,"Power BI, TypeScript, CSS, Kubernetes",5.0 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+Candidate 440,Blockchain Developer,"C#, TensorFlow, Firebase, CSS, Pandas",4.5 years,MCA,"Ecommerce API, IoT Smart Home"
+Candidate 441,Machine Learning Engineer,"AWS, Docker, Python, Java, TypeScript, CSS",3.9 years,B.Tech CSE,"Resume Analyzer, IoT Smart Home"
+Candidate 442,Frontend Developer,"React, Java, Jira, Express, Kubernetes, Docker",3.1 years,B.Tech IT,"Resume Analyzer, Portfolio Website"
+Candidate 443,Web Developer,"MongoDB, Jira, SQL, Spring Boot, TensorFlow, CSS, NumPy",4.7 years,B.Tech CS,"Ecommerce API, ERP System"
+Candidate 444,DevOps Engineer,"TensorFlow, Python, Java, Jira, Firebase, HTML",4.1 years,B.Tech CS,"Stock Predictor, ChatGPT Clone"
+Candidate 445,Backend Developer,"Firebase, React, Node.js, C++",4.0 years,MCA,IoT Smart Home
+Candidate 446,Frontend Developer,"AWS, Java, Kubernetes, HTML",1.1 years,B.Tech CSE,Blockchain Wallet
+Candidate 447,Data Analyst,"Hibernate, C#, Spring Boot, MongoDB",0.8 years,B.Tech CE,Job Portal
+Candidate 448,Mobile App Developer,"Pandas, Android Studio, Git, C#",3.3 years,B.Tech IT,Ecommerce API
+Candidate 449,Machine Learning Engineer,"API Development, HTML, MongoDB, Docker, Hibernate, Power BI",3.1 years,B.Sc IT,Mobile Banking UI
+Candidate 450,Android Developer,"Git, React, Power BI, Firebase, TypeScript, Selenium",2.5 years,B.Sc CS,Portfolio Website
+Candidate 451,Machine Learning Engineer,"Java, C#, CSS, Selenium, Node.js, TensorFlow",2.4 years,B.Sc CS,Weather App
+Candidate 452,Machine Learning Engineer,"Android Studio, Docker, Jira, MongoDB, Power BI",0.9 years,B.Tech IT,"Ecommerce API, Mobile Banking UI"
+Candidate 453,Android Developer,"TypeScript, Power BI, Java, CSS, HTML, Firebase",5.0 years,M.Tech AI,Weather App
+Candidate 454,Cloud Engineer,"Hibernate, React, Java, Express, HTML, MongoDB",4.0 years,B.Tech CSE,"ERP System, HR Dashboard"
+Candidate 455,Cloud Engineer,"NumPy, Express, Power BI, Spring Boot",2.9 years,M.Tech AI,"Blockchain Wallet, Resume Analyzer"
+Candidate 456,Data Analyst,"Firebase, Selenium, TensorFlow, CSS",5.0 years,B.Tech CE,Ecommerce API
+Candidate 457,Android Developer,"Git, Python, Firebase, Android Studio, Pandas, Hibernate",3.0 years,MCA,"Mobile Banking UI, Job Portal"
+Candidate 458,DevOps Engineer,"Docker, Pandas, SQL, React",0.9 years,M.Tech AI,"Portfolio Website, Resume Analyzer"
+Candidate 459,Data Analyst,"Node.js, CSS, TensorFlow, AWS, C++, Python, API Development",4.1 years,B.Sc IT,"Mobile Banking UI, ERP System"
+Candidate 460,Backend Developer,"TensorFlow, TypeScript, Android Studio, Kotlin, NumPy, Express",4.6 years,B.Tech CSE,IoT Smart Home
+Candidate 461,Full Stack Developer,"C++, Java, TensorFlow, Pandas",1.0 years,MCA,"Ecommerce API, Weather App"
+Candidate 462,Machine Learning Engineer,"TypeScript, Hibernate, NumPy, Firebase, AWS",4.1 years,B.Tech IT,ChatGPT Clone
+Candidate 463,Cloud Engineer,"AWS, Git, Kubernetes, NumPy, Python, API Development",2.8 years,B.Tech CS,IoT Smart Home
+Candidate 464,DevOps Engineer,"Pandas, Git, TensorFlow, Node.js, Firebase",3.6 years,BCA,"Blockchain Wallet, ERP System"
+Candidate 465,Backend Developer,"TensorFlow, Power BI, MongoDB, AWS, Hibernate, C#",2.6 years,B.Tech IT,"Job Portal, ChatGPT Clone"
+Candidate 466,Java Developer,"Git, CSS, Firebase, NumPy, HTML",3.0 years,B.Sc IT,ERP System
+Candidate 467,Cloud Engineer,"Express, AWS, NumPy, API Development",4.3 years,MCA,Resume Analyzer
+Candidate 468,Android Developer,"Kubernetes, TensorFlow, CSS, SQL, Python, Spring Boot, Selenium",3.8 years,B.Tech CSE,IoT Smart Home
+Candidate 469,Mobile App Developer,"Android Studio, Firebase, HTML, Power BI, TensorFlow, C#, Selenium",4.7 years,BCA,Weather App
+Candidate 470,Full Stack Developer,"Hibernate, SQL, Pandas, TypeScript, React",0.7 years,BCA,Job Portal
+Candidate 471,Full Stack Developer,"Jira, Kubernetes, MongoDB, Selenium",3.9 years,B.Tech CE,"Mobile Banking UI, Weather App"
+Candidate 472,Mobile App Developer,"TypeScript, SQL, API Development, Kotlin, Docker, Pandas",4.8 years,B.Tech CE,Blockchain Wallet
+Candidate 473,DevOps Engineer,"Spring Boot, HTML, NumPy, Express, AWS, Node.js",0.5 years,B.Tech IT,"Fake News Detection, Stock Predictor"
+Candidate 474,Java Developer,"Git, AWS, Express, TypeScript",0.5 years,B.Tech CE,IoT Smart Home
+Candidate 475,Machine Learning Engineer,"Android Studio, Spring Boot, Java, AWS",3.7 years,B.Tech IT,Portfolio Website
+Candidate 476,Database Engineer,"HTML, Java, Pandas, Selenium, TypeScript",1.7 years,B.Tech CS,"Weather App, ChatGPT Clone"
+Candidate 477,Cloud Engineer,"Docker, Selenium, Android Studio, TypeScript",0.9 years,B.Tech CE,Weather App
+Candidate 478,Mobile App Developer,"Firebase, C++, C#, Spring Boot",1.2 years,MCA,"Blockchain Wallet, Job Portal"
+Candidate 479,Frontend Developer,"Jira, C++, API Development, Power BI",4.9 years,M.Tech AI,"Stock Predictor, Job Portal"
+Candidate 480,Full Stack Developer,"API Development, Jira, HTML, TypeScript, Pandas",3.8 years,B.Tech CS,"IoT Smart Home, Blockchain Wallet"
+Candidate 481,Machine Learning Engineer,"Firebase, TypeScript, HTML, AWS, API Development, C++",4.9 years,MCA,Job Portal
+Candidate 482,Mobile App Developer,"Jira, React, Kotlin, C#, Hibernate, C++, Java",0.8 years,B.Tech IT,HR Dashboard
+Candidate 483,AI Engineer,"Power BI, TensorFlow, Spring Boot, Firebase, Pandas, NumPy",2.5 years,B.Sc CS,Job Portal
+Candidate 484,Full Stack Developer,"React, Firebase, HTML, Pandas, Docker, MongoDB, Hibernate",2.2 years,B.Sc CS,HR Dashboard
+Candidate 485,Frontend Developer,"AWS, Hibernate, Pandas, CSS",1.0 years,M.Tech AI,Portfolio Website
+Candidate 486,Java Developer,"Docker, TypeScript, Kotlin, C++, SQL",4.5 years,MCA,"Resume Analyzer, IoT Smart Home"
+Candidate 487,Blockchain Developer,"API Development, Git, Node.js, Docker, Hibernate, AWS",4.6 years,B.Tech CSE,Resume Analyzer
+Candidate 488,Cloud Engineer,"NumPy, Hibernate, Docker, TypeScript, Power BI, Kotlin",4.2 years,B.Tech CSE,"Fake News Detection, ChatGPT Clone"
+Candidate 489,Blockchain Developer,"Hibernate, Kubernetes, Python, Pandas, Power BI, Android Studio",3.5 years,B.Sc IT,"Weather App, Blockchain Wallet"
+Candidate 490,Mobile App Developer,"Jira, Python, CSS, Express, API Development",1.3 years,B.Sc CS,Ecommerce API
+Candidate 491,Blockchain Developer,"Selenium, CSS, TensorFlow, Jira, Pandas, API Development, Spring Boot",3.5 years,B.Tech CE,"Portfolio Website, Stock Predictor"
+Candidate 492,Android Developer,"Pandas, Python, Express, Spring Boot, API Development, TensorFlow, TypeScript",1.8 years,B.Tech CS,"ERP System, Mobile Banking UI"
+Candidate 493,Data Analyst,"Kotlin, React, Jira, SQL, Kubernetes",2.1 years,B.Sc CS,"IoT Smart Home, Ecommerce API"
+Candidate 494,Frontend Developer,"Selenium, TensorFlow, HTML, Kubernetes",3.1 years,B.Tech CSE,"Resume Analyzer, Portfolio Website"
+Candidate 495,Full Stack Developer,"Pandas, Power BI, Kotlin, Node.js, MongoDB",3.9 years,B.Tech CE,"Weather App, Blockchain Wallet"
+Candidate 496,Full Stack Developer,"Express, Kotlin, TypeScript, Jira, C#, Docker",0.9 years,B.Tech CS,Weather App
+Candidate 497,Mobile App Developer,"Hibernate, Selenium, Kotlin, NumPy, CSS, HTML, C++",3.9 years,M.Tech AI,"IoT Smart Home, Ecommerce API"
+Candidate 498,Java Developer,"TensorFlow, CSS, Git, Java",4.4 years,B.Tech CE,ERP System
+Candidate 499,Machine Learning Engineer,"React, API Development, Kotlin, HTML, Node.js, Express, TensorFlow",4.9 years,B.Tech IT,"Portfolio Website, Resume Analyzer"
+Candidate 500,Full Stack Developer,"Express, Kubernetes, Docker, Firebase, TypeScript, React, MongoDB",3.0 years,M.Tech AI,"Job Portal, IoT Smart Home"
+Candidate 501,Cloud Engineer,"Java, Kubernetes, Spring Boot, Git, C#",2.3 years,B.Tech CSE,Mobile Banking UI
+Candidate 502,Web Developer,"AWS, HTML, Android Studio, Selenium, Express",2.0 years,B.Tech CE,Stock Predictor
+Candidate 503,Backend Developer,"Hibernate, CSS, Node.js, AWS, Firebase, Jira",2.9 years,B.Tech CE,"Portfolio Website, HR Dashboard"
+Candidate 504,Full Stack Developer,"HTML, C#, Android Studio, AWS, Express",2.1 years,B.Tech CSE,"ChatGPT Clone, IoT Smart Home"
+Candidate 505,AI Engineer,"Git, C++, TypeScript, Android Studio",1.2 years,B.Tech CSE,HR Dashboard
+Candidate 506,Java Developer,"Python, Spring Boot, C++, Power BI",1.5 years,M.Tech AI,Stock Predictor
+Candidate 507,Software Tester,"Pandas, Kubernetes, NumPy, Selenium, Hibernate, Express",4.1 years,BCA,"ERP System, HR Dashboard"
+Candidate 508,Full Stack Developer,"Kotlin, Node.js, TensorFlow, Power BI, Kubernetes, NumPy, C#",0.9 years,B.Sc IT,Fake News Detection
+Candidate 509,Software Tester,"AWS, SQL, CSS, HTML, Hibernate, TensorFlow, Node.js",2.3 years,B.Sc CS,"HR Dashboard, Portfolio Website"
+Candidate 510,Android Developer,"NumPy, Kotlin, C#, TypeScript, MongoDB, SQL, Kubernetes",4.0 years,B.Sc CS,"ERP System, Ecommerce API"
+Candidate 511,Machine Learning Engineer,"HTML, Python, Git, TypeScript, API Development, MongoDB, Pandas",0.5 years,BCA,Job Portal
+Candidate 512,Mobile App Developer,"NumPy, Python, Spring Boot, TensorFlow, Express",0.6 years,B.Tech CS,"Blockchain Wallet, Fake News Detection"
+Candidate 513,Database Engineer,"CSS, API Development, Java, TensorFlow, Power BI, Spring Boot, Pandas",3.3 years,B.Sc IT,"Blockchain Wallet, HR Dashboard"
+Candidate 514,Web Developer,"NumPy, C#, Kubernetes, Firebase, Node.js, MongoDB, Power BI",4.5 years,B.Tech CS,"Portfolio Website, Blockchain Wallet"
+Candidate 515,Web Developer,"C#, TensorFlow, Docker, Java, API Development, Git, NumPy",3.0 years,B.Tech CE,Job Portal
+Candidate 516,Java Developer,"Pandas, Power BI, TensorFlow, C++, HTML, TypeScript",4.0 years,B.Sc CS,Job Portal
+Candidate 517,Java Developer,"SQL, HTML, C#, Power BI",4.1 years,B.Sc IT,"IoT Smart Home, Portfolio Website"
+Candidate 518,Full Stack Developer,"Selenium, SQL, Power BI, NumPy, TypeScript",3.5 years,MCA,ERP System
+Candidate 519,Blockchain Developer,"TypeScript, AWS, SQL, Pandas, Jira",2.7 years,B.Tech IT,Portfolio Website
+Candidate 520,Android Developer,"NumPy, C#, Kubernetes, AWS, Spring Boot, Power BI",2.7 years,B.Tech CSE,Mobile Banking UI
+Candidate 521,Software Tester,"Docker, React, CSS, Node.js, TypeScript, Spring Boot",3.1 years,BCA,Job Portal
+Candidate 522,Android Developer,"MongoDB, Spring Boot, C#, Kubernetes, Firebase",3.0 years,BCA,"Job Portal, ERP System"
+Candidate 523,Android Developer,"NumPy, API Development, CSS, HTML, Power BI, Android Studio",4.7 years,M.Tech AI,"Ecommerce API, Resume Analyzer"
+Candidate 524,Software Tester,"Docker, C#, Selenium, Android Studio, Firebase",2.7 years,B.Tech CE,"Mobile Banking UI, Stock Predictor"
+Candidate 525,Blockchain Developer,"Python, Pandas, Spring Boot, MongoDB",4.7 years,B.Tech CE,"ERP System, Fake News Detection"
+Candidate 526,Blockchain Developer,"NumPy, Android Studio, Git, MongoDB, TensorFlow, Node.js",5.0 years,B.Tech CE,"Stock Predictor, Weather App"
+Candidate 527,Web Developer,"Pandas, Kubernetes, Git, Python, HTML, React, TensorFlow",3.2 years,M.Tech AI,"Portfolio Website, Ecommerce API"
+Candidate 528,Machine Learning Engineer,"Selenium, Kubernetes, TensorFlow, TypeScript, Android Studio",3.0 years,B.Tech CS,Job Portal
+Candidate 529,Java Developer,"C#, Docker, Node.js, API Development",1.5 years,B.Tech CE,Blockchain Wallet
+Candidate 530,Data Analyst,"CSS, C#, HTML, NumPy, Kubernetes, TypeScript, Android Studio",3.6 years,M.Tech AI,IoT Smart Home
+Candidate 531,Full Stack Developer,"Express, NumPy, React, TypeScript, Hibernate",5.0 years,B.Sc IT,"Stock Predictor, ERP System"
+Candidate 532,DevOps Engineer,"Git, C#, CSS, Docker",2.6 years,B.Sc CS,"Resume Analyzer, Mobile Banking UI"
+Candidate 533,Database Engineer,"MongoDB, Spring Boot, HTML, Python",3.1 years,BCA,"Job Portal, IoT Smart Home"
+Candidate 534,Android Developer,"Selenium, NumPy, C#, Firebase, MongoDB",3.4 years,MCA,"IoT Smart Home, Resume Analyzer"
+Candidate 535,AI Engineer,"Docker, TypeScript, Git, Firebase, Kotlin, Android Studio",4.4 years,B.Sc IT,ERP System
+Candidate 536,Mobile App Developer,"TypeScript, Node.js, MongoDB, Jira, React, Kubernetes, Pandas",1.4 years,B.Sc CS,"Ecommerce API, HR Dashboard"
+Candidate 537,AI Engineer,"MongoDB, NumPy, Git, Spring Boot",3.1 years,B.Sc CS,"Resume Analyzer, Mobile Banking UI"
+Candidate 538,Java Developer,"API Development, SQL, MongoDB, Pandas, React",0.7 years,B.Tech CE,ERP System
+Candidate 539,Data Analyst,"Kubernetes, Android Studio, CSS, Python, Power BI",1.7 years,B.Sc CS,"Resume Analyzer, HR Dashboard"
+Candidate 540,Blockchain Developer,"Hibernate, Kubernetes, C++, NumPy",1.0 years,B.Tech IT,Ecommerce API
+Candidate 541,Cloud Engineer,"Selenium, AWS, Hibernate, MongoDB",0.8 years,M.Tech AI,"ChatGPT Clone, HR Dashboard"
+Candidate 542,Blockchain Developer,"CSS, C#, C++, Hibernate",1.6 years,M.Tech AI,"IoT Smart Home, Resume Analyzer"
+Candidate 543,Software Tester,"Node.js, Pandas, API Development, TensorFlow, Selenium, AWS",1.7 years,B.Tech IT,"Stock Predictor, Job Portal"
+Candidate 544,Java Developer,"API Development, MongoDB, Spring Boot, Hibernate, Pandas, Jira, Power BI",0.6 years,B.Sc CS,"Fake News Detection, Resume Analyzer"
+Candidate 545,Full Stack Developer,"Express, Git, Spring Boot, Kotlin, Hibernate, AWS, NumPy",1.8 years,B.Sc IT,HR Dashboard
+Candidate 546,Web Developer,"API Development, Jira, Android Studio, Spring Boot, Kubernetes, Git",3.0 years,MCA,IoT Smart Home
+Candidate 547,Mobile App Developer,"Pandas, Docker, Kubernetes, Node.js, Express, Hibernate",2.4 years,B.Tech CE,Blockchain Wallet
+Candidate 548,Full Stack Developer,"CSS, C#, Selenium, MongoDB, TensorFlow",2.9 years,B.Tech CE,Weather App
+Candidate 549,Database Engineer,"SQL, Kotlin, Python, Power BI, API Development",1.6 years,B.Sc IT,"IoT Smart Home, ChatGPT Clone"
+Candidate 550,Data Analyst,"Hibernate, Android Studio, SQL, Python, Express, Git, C#",0.9 years,B.Tech IT,"Blockchain Wallet, IoT Smart Home"
+Candidate 551,DevOps Engineer,"TypeScript, Node.js, Power BI, TensorFlow, C++",3.1 years,M.Tech AI,ChatGPT Clone
+Candidate 552,Android Developer,"Kotlin, Python, MongoDB, API Development, React, Java",2.8 years,MCA,IoT Smart Home
+Candidate 553,Software Tester,"Android Studio, MongoDB, Kubernetes, Docker, CSS, Python",2.4 years,B.Sc CS,Resume Analyzer
+Candidate 554,Backend Developer,"AWS, Kotlin, NumPy, Express",4.3 years,B.Tech CSE,"ERP System, Ecommerce API"
+Candidate 555,Frontend Developer,"Power BI, TypeScript, Kotlin, Java, Spring Boot, React, Hibernate",4.5 years,B.Sc CS,"Stock Predictor, Portfolio Website"
+Candidate 556,Machine Learning Engineer,"CSS, SQL, NumPy, C#, API Development, Kubernetes",4.9 years,B.Sc IT,"Weather App, Blockchain Wallet"
+Candidate 557,Machine Learning Engineer,"Java, Jira, Kotlin, TypeScript, Hibernate, Python, React",3.5 years,B.Tech CSE,"Resume Analyzer, Ecommerce API"
+Candidate 558,Data Analyst,"TypeScript, API Development, C++, Selenium, TensorFlow, AWS",2.4 years,B.Tech CSE,"Job Portal, Portfolio Website"
+Candidate 559,Backend Developer,"CSS, Git, Power BI, C++, Kubernetes, SQL",1.9 years,B.Sc CS,"ChatGPT Clone, Weather App"
+Candidate 560,Machine Learning Engineer,"HTML, MongoDB, Spring Boot, Git, Java, Jira",4.7 years,B.Sc IT,HR Dashboard
+Candidate 561,Software Tester,"API Development, Kubernetes, Jira, Python, CSS",0.7 years,B.Tech CS,"Weather App, IoT Smart Home"
+Candidate 562,Data Analyst,"TensorFlow, AWS, React, Firebase",4.1 years,B.Sc IT,Blockchain Wallet
+Candidate 563,Full Stack Developer,"Firebase, Hibernate, Selenium, Git, Kotlin",4.5 years,M.Tech AI,Job Portal
+Candidate 564,Software Tester,"HTML, Kotlin, Java, NumPy, Android Studio, API Development, C#",1.4 years,B.Tech IT,"Blockchain Wallet, ChatGPT Clone"
+Candidate 565,Data Analyst,"React, C++, Power BI, C#, Android Studio, CSS",4.0 years,B.Tech IT,Resume Analyzer
+Candidate 566,AI Engineer,"C#, Docker, TensorFlow, Python",3.7 years,B.Tech IT,Resume Analyzer
+Candidate 567,Java Developer,"Python, Selenium, Express, Jira, TensorFlow, Node.js, NumPy",4.2 years,M.Tech AI,"IoT Smart Home, Mobile Banking UI"
+Candidate 568,Cloud Engineer,"React, MongoDB, Node.js, Docker, API Development, Kubernetes, TensorFlow",4.8 years,B.Sc CS,Job Portal
+Candidate 569,Frontend Developer,"CSS, Docker, NumPy, Jira, Hibernate, Power BI",2.2 years,B.Tech CSE,Mobile Banking UI
+Candidate 570,Backend Developer,"C#, Node.js, C++, CSS, AWS, HTML, Firebase",2.2 years,B.Tech IT,Ecommerce API
+Candidate 571,Machine Learning Engineer,"Pandas, TensorFlow, SQL, React",2.2 years,B.Sc CS,"ChatGPT Clone, HR Dashboard"
+Candidate 572,Frontend Developer,"Express, C#, Jira, API Development",2.9 years,M.Tech AI,Blockchain Wallet
+Candidate 573,Cloud Engineer,"C++, Jira, Kotlin, Selenium",0.8 years,MCA,Stock Predictor
+Candidate 574,Blockchain Developer,"NumPy, Express, Android Studio, CSS, AWS, API Development, Pandas",3.6 years,MCA,"Blockchain Wallet, Job Portal"
+Candidate 575,AI Engineer,"Python, C#, Express, Git, Node.js, CSS, Android Studio",0.8 years,B.Sc CS,Mobile Banking UI
+Candidate 576,Data Analyst,"Pandas, SQL, Kubernetes, Python, Java",1.1 years,BCA,Portfolio Website
+Candidate 577,DevOps Engineer,"Kubernetes, Express, Selenium, NumPy, Spring Boot, SQL, Jira",4.5 years,MCA,"Fake News Detection, Blockchain Wallet"
+Candidate 578,AI Engineer,"NumPy, Jira, API Development, SQL",4.3 years,MCA,Stock Predictor
+Candidate 579,Full Stack Developer,"Kubernetes, Selenium, MongoDB, AWS, C++, TensorFlow, Python",2.6 years,B.Sc IT,Stock Predictor
+Candidate 580,Backend Developer,"Firebase, Java, TypeScript, AWS",2.7 years,BCA,Blockchain Wallet
+Candidate 581,Data Analyst,"CSS, C++, Java, HTML",1.3 years,B.Tech CE,"Resume Analyzer, Portfolio Website"
+Candidate 582,Cloud Engineer,"Firebase, Express, C#, Pandas, Java, C++, Node.js",1.4 years,B.Tech CSE,IoT Smart Home
+Candidate 583,Blockchain Developer,"React, API Development, TypeScript, Selenium, Spring Boot, Power BI",2.7 years,B.Sc IT,Resume Analyzer
+Candidate 584,Mobile App Developer,"Pandas, Kubernetes, C++, Git, Docker, Hibernate",0.8 years,B.Tech CSE,"Fake News Detection, Blockchain Wallet"
+Candidate 585,Full Stack Developer,"CSS, TypeScript, HTML, AWS, Spring Boot, Java, Firebase",2.3 years,B.Tech CSE,Weather App
+Candidate 586,Database Engineer,"Docker, AWS, Pandas, Git, Android Studio, Python",0.8 years,B.Tech CS,Fake News Detection
+Candidate 587,Java Developer,"NumPy, Selenium, Node.js, Firebase, TypeScript, C#, Python",3.8 years,B.Tech CS,"Mobile Banking UI, Fake News Detection"
+Candidate 588,Full Stack Developer,"SQL, TypeScript, C#, CSS, Android Studio, Java, MongoDB",1.8 years,M.Tech AI,"Stock Predictor, Ecommerce API"
+Candidate 589,Backend Developer,"Pandas, Kubernetes, Android Studio, Power BI, C#, Git",3.6 years,B.Sc IT,"Stock Predictor, Portfolio Website"
+Candidate 590,Backend Developer,"HTML, MongoDB, AWS, C#, Pandas, API Development",3.3 years,MCA,Blockchain Wallet
+Candidate 591,Mobile App Developer,"Kotlin, Docker, Node.js, Power BI",4.4 years,B.Tech CS,"Resume Analyzer, Blockchain Wallet"
+Candidate 592,Full Stack Developer,"CSS, Kotlin, API Development, SQL, TypeScript, Pandas, NumPy",3.3 years,B.Tech CE,Portfolio Website
+Candidate 593,Cloud Engineer,"Selenium, TypeScript, API Development, Android Studio",4.3 years,B.Sc IT,"Blockchain Wallet, ChatGPT Clone"
+Candidate 594,Database Engineer,"C#, TensorFlow, Node.js, CSS",2.6 years,B.Tech CE,ChatGPT Clone
+Candidate 595,Machine Learning Engineer,"React, Git, Java, Selenium, AWS, C#",1.7 years,B.Tech IT,"Mobile Banking UI, Job Portal"
+Candidate 596,Software Tester,"Kotlin, C++, API Development, Express, CSS, Power BI",4.1 years,B.Sc IT,"HR Dashboard, Portfolio Website"
+Candidate 597,Data Analyst,"Kotlin, TypeScript, Selenium, Power BI",3.4 years,B.Sc IT,"Resume Analyzer, Fake News Detection"
+Candidate 598,Android Developer,"Python, Git, TypeScript, Node.js, Selenium, C#, Docker",0.8 years,MCA,"Portfolio Website, Blockchain Wallet"
+Candidate 599,Data Analyst,"C#, TensorFlow, API Development, Spring Boot, NumPy, Python, Jira",4.5 years,B.Tech IT,Resume Analyzer
+Candidate 600,Software Tester,"Java, Pandas, Express, SQL, Jira, Kotlin",4.5 years,B.Tech CE,Weather App
+Candidate 601,DevOps Engineer,"C#, AWS, Hibernate, TypeScript, Kubernetes",3.3 years,B.Tech CS,Blockchain Wallet
+Candidate 602,Backend Developer,"Jira, Hibernate, TypeScript, Git",2.6 years,BCA,"Blockchain Wallet, Mobile Banking UI"
+Candidate 603,Blockchain Developer,"TypeScript, HTML, Spring Boot, Firebase",2.9 years,B.Sc CS,"ERP System, Fake News Detection"
+Candidate 604,AI Engineer,"Kubernetes, AWS, Python, Docker",3.8 years,B.Tech CE,Mobile Banking UI
+Candidate 605,Data Analyst,"SQL, Express, TypeScript, Python, Git, Pandas",4.1 years,B.Tech CE,"Fake News Detection, IoT Smart Home"
+Candidate 606,AI Engineer,"API Development, Kubernetes, Android Studio, MongoDB, C#, React, Spring Boot",2.0 years,B.Tech IT,"Weather App, Fake News Detection"
+Candidate 607,Android Developer,"C#, Hibernate, Jira, SQL, MongoDB",4.4 years,BCA,"IoT Smart Home, Job Portal"
+Candidate 608,Database Engineer,"API Development, Power BI, Android Studio, Python, Kotlin, Java",1.5 years,B.Tech CS,"Stock Predictor, ChatGPT Clone"
+Candidate 609,Backend Developer,"TypeScript, Pandas, Spring Boot, CSS",2.4 years,B.Tech CS,Blockchain Wallet
+Candidate 610,Android Developer,"Power BI, Node.js, C#, Git, C++, Kubernetes",4.3 years,B.Sc IT,HR Dashboard
+Candidate 611,Backend Developer,"C++, API Development, AWS, React, HTML, Jira",3.6 years,B.Sc CS,"Portfolio Website, ERP System"
+Candidate 612,Java Developer,"React, SQL, Docker, Pandas, Firebase, NumPy, Spring Boot",1.4 years,B.Sc IT,"Blockchain Wallet, Weather App"
+Candidate 613,Full Stack Developer,"Android Studio, HTML, TensorFlow, Git, SQL, C++, CSS",2.0 years,BCA,"HR Dashboard, Blockchain Wallet"
+Candidate 614,Java Developer,"Express, Docker, Firebase, CSS, Git",1.3 years,BCA,ChatGPT Clone
+Candidate 615,Frontend Developer,"Firebase, AWS, Kubernetes, Java, MongoDB, API Development",1.7 years,B.Tech IT,"Weather App, Fake News Detection"
+Candidate 616,Frontend Developer,"Spring Boot, Docker, Jira, Node.js, Python, Firebase, TensorFlow",3.4 years,B.Tech CSE,Stock Predictor
+Candidate 617,DevOps Engineer,"Pandas, Git, SQL, Kotlin, Power BI",0.8 years,B.Sc IT,"IoT Smart Home, Portfolio Website"
+Candidate 618,Software Tester,"AWS, C#, Java, API Development, Node.js, CSS",4.4 years,M.Tech AI,Fake News Detection
+Candidate 619,Data Analyst,"NumPy, Git, C#, SQL, Pandas",2.0 years,BCA,"ERP System, ChatGPT Clone"
+Candidate 620,Full Stack Developer,"Firebase, CSS, React, TypeScript, Power BI, Python, Pandas",1.0 years,B.Tech CSE,"ChatGPT Clone, Stock Predictor"
+Candidate 621,Frontend Developer,"HTML, Express, Selenium, Git, C#",1.0 years,B.Tech CS,IoT Smart Home
+Candidate 622,Database Engineer,"Kubernetes, Node.js, Git, Selenium, TypeScript, C++",3.5 years,B.Sc CS,"Mobile Banking UI, ChatGPT Clone"
+Candidate 623,Database Engineer,"Android Studio, AWS, Kubernetes, HTML, MongoDB, Java",4.2 years,B.Sc CS,Resume Analyzer
+Candidate 624,Frontend Developer,"API Development, Selenium, C#, Pandas, Jira, C++, Spring Boot",2.2 years,B.Sc IT,"Job Portal, ChatGPT Clone"
+Candidate 625,AI Engineer,"Kubernetes, Android Studio, CSS, TypeScript, SQL, Kotlin, TensorFlow",4.6 years,B.Tech IT,ChatGPT Clone
+Candidate 626,Android Developer,"Express, Docker, NumPy, C#, Kubernetes, Pandas",1.5 years,B.Tech CSE,IoT Smart Home
+Candidate 627,Machine Learning Engineer,"TypeScript, C#, MongoDB, Node.js, Express",3.1 years,B.Sc CS,Ecommerce API
+Candidate 628,Frontend Developer,"C#, AWS, Firebase, Spring Boot",1.6 years,B.Sc IT,"Mobile Banking UI, Resume Analyzer"
+Candidate 629,Mobile App Developer,"Kotlin, Spring Boot, HTML, React",4.6 years,B.Tech CSE,"Portfolio Website, Blockchain Wallet"
+Candidate 630,AI Engineer,"Java, Docker, HTML, Selenium, Firebase, TensorFlow",3.0 years,M.Tech AI,"Stock Predictor, HR Dashboard"
+Candidate 631,Database Engineer,"Jira, Python, Power BI, CSS, Java, Hibernate, Kotlin",1.6 years,B.Sc CS,"Stock Predictor, Mobile Banking UI"
+Candidate 632,Frontend Developer,"Python, Kotlin, Hibernate, HTML, Android Studio, Jira",2.3 years,BCA,HR Dashboard
+Candidate 633,AI Engineer,"TypeScript, Docker, C#, Python",2.0 years,B.Sc CS,"Weather App, ERP System"
+Candidate 634,Backend Developer,"Docker, Selenium, Kubernetes, React, AWS",4.6 years,B.Sc IT,Ecommerce API
+Candidate 635,Android Developer,"Power BI, Node.js, MongoDB, Git, API Development, Pandas",3.6 years,MCA,"Mobile Banking UI, Weather App"
+Candidate 636,Cloud Engineer,"Kubernetes, Jira, React, Hibernate, Node.js",4.8 years,B.Tech CSE,"IoT Smart Home, Fake News Detection"
+Candidate 637,Java Developer,"TypeScript, Express, Power BI, SQL, AWS, Kubernetes",2.7 years,B.Sc IT,"ERP System, Blockchain Wallet"
+Candidate 638,DevOps Engineer,"Node.js, Kubernetes, HTML, Kotlin",4.5 years,B.Tech CSE,Ecommerce API
+Candidate 639,Machine Learning Engineer,"Power BI, Node.js, TensorFlow, API Development",2.6 years,B.Tech CS,Stock Predictor
+Candidate 640,Android Developer,"Node.js, TensorFlow, CSS, Kotlin, Android Studio, Selenium",2.2 years,B.Tech CE,Job Portal
+Candidate 641,Java Developer,"Spring Boot, TypeScript, Selenium, MongoDB, Power BI, AWS, Kubernetes",4.8 years,B.Tech IT,"Stock Predictor, HR Dashboard"
+Candidate 642,Cloud Engineer,"C++, Kubernetes, TensorFlow, Express, MongoDB, C#",1.0 years,B.Tech CS,Resume Analyzer
+Candidate 643,Frontend Developer,"SQL, React, Python, TensorFlow, AWS, HTML",2.7 years,MCA,"Portfolio Website, ChatGPT Clone"
+Candidate 644,DevOps Engineer,"Docker, TypeScript, Selenium, Spring Boot, Express",2.4 years,BCA,Portfolio Website
+Candidate 645,Java Developer,"NumPy, Git, MongoDB, Python, Kubernetes, Firebase",3.5 years,B.Sc IT,Weather App
+Candidate 646,Web Developer,"Selenium, Python, Firebase, HTML",4.7 years,M.Tech AI,"Weather App, ChatGPT Clone"
+Candidate 647,Backend Developer,"Selenium, Hibernate, Firebase, Pandas",1.7 years,B.Tech CSE,Job Portal
+Candidate 648,Cloud Engineer,"TypeScript, Express, Spring Boot, AWS, CSS, C#",1.4 years,MCA,HR Dashboard
+Candidate 649,Cloud Engineer,"Jira, Kotlin, Hibernate, C++, Express",3.2 years,B.Sc CS,"Ecommerce API, Fake News Detection"
+Candidate 650,Java Developer,"Pandas, Power BI, Selenium, SQL",0.7 years,B.Tech CS,"Blockchain Wallet, Weather App"
+Candidate 651,Software Tester,"Java, HTML, CSS, TensorFlow, AWS",3.4 years,B.Tech IT,"Weather App, Stock Predictor"
+Candidate 652,Database Engineer,"C#, Spring Boot, Python, C++, Kotlin, Pandas",1.7 years,B.Tech CE,"Blockchain Wallet, Weather App"
+Candidate 653,Machine Learning Engineer,"C#, Firebase, TensorFlow, React, Jira, MongoDB",2.7 years,B.Sc CS,"HR Dashboard, Mobile Banking UI"
+Candidate 654,Web Developer,"Kotlin, React, Jira, MongoDB, Spring Boot",2.8 years,MCA,Fake News Detection
+Candidate 655,Android Developer,"Kotlin, Pandas, TypeScript, Java, Jira",4.4 years,BCA,HR Dashboard
+Candidate 656,Android Developer,"CSS, HTML, Java, Firebase, Node.js, Express",2.6 years,M.Tech AI,Mobile Banking UI
+Candidate 657,Android Developer,"Docker, Firebase, NumPy, Express, Android Studio",1.2 years,M.Tech AI,"Mobile Banking UI, Portfolio Website"
+Candidate 658,Software Tester,"HTML, Java, SQL, Power BI, Express, Kubernetes, Jira",0.9 years,BCA,Job Portal
+Candidate 659,AI Engineer,"NumPy, MongoDB, C#, Hibernate, API Development",2.9 years,B.Tech IT,"Portfolio Website, Weather App"
+Candidate 660,Machine Learning Engineer,"C++, TensorFlow, C#, Python",3.9 years,BCA,Fake News Detection
+Candidate 661,Java Developer,"Git, Java, CSS, API Development",4.0 years,B.Tech CSE,IoT Smart Home
+Candidate 662,Machine Learning Engineer,"NumPy, Firebase, C++, Git",3.8 years,M.Tech AI,ChatGPT Clone
+Candidate 663,Machine Learning Engineer,"CSS, Firebase, Java, C++",1.4 years,B.Tech CE,"Ecommerce API, Weather App"
+Candidate 664,AI Engineer,"HTML, C++, MongoDB, Pandas, NumPy, AWS",2.4 years,B.Tech CSE,"Mobile Banking UI, ERP System"
+Candidate 665,Full Stack Developer,"C#, Jira, NumPy, Pandas, TypeScript",4.1 years,M.Tech AI,Portfolio Website
+Candidate 666,Cloud Engineer,"Spring Boot, Pandas, Kotlin, Android Studio, Hibernate, MongoDB",1.7 years,B.Tech CE,ERP System
+Candidate 667,Web Developer,"Express, TypeScript, NumPy, Hibernate",1.7 years,B.Tech CS,"HR Dashboard, IoT Smart Home"
+Candidate 668,Data Analyst,"Python, Java, C++, AWS",4.8 years,B.Tech CSE,"Resume Analyzer, Stock Predictor"
+Candidate 669,Database Engineer,"TensorFlow, Express, Firebase, AWS, Selenium, Kubernetes",3.9 years,MCA,"Ecommerce API, HR Dashboard"
+Candidate 670,Data Analyst,"Docker, C#, SQL, Pandas, Selenium, CSS",3.0 years,BCA,Blockchain Wallet
+Candidate 671,Database Engineer,"API Development, Spring Boot, Kubernetes, React, Power BI",3.2 years,B.Tech CS,IoT Smart Home
+Candidate 672,Database Engineer,"Kubernetes, AWS, Firebase, Java, API Development, Express",2.6 years,B.Tech CE,Blockchain Wallet
+Candidate 673,Mobile App Developer,"HTML, Node.js, Selenium, MongoDB, Docker",3.0 years,B.Tech CS,Portfolio Website
+Candidate 674,Web Developer,"Firebase, Kotlin, TensorFlow, Android Studio, Jira, CSS",0.5 years,B.Tech CS,Portfolio Website
+Candidate 675,Cloud Engineer,"NumPy, Kotlin, C++, AWS, Android Studio, TypeScript",2.3 years,B.Tech CS,Ecommerce API
+Candidate 676,Android Developer,"Java, CSS, C++, Spring Boot, Jira, SQL, AWS",3.4 years,M.Tech AI,Fake News Detection
+Candidate 677,Full Stack Developer,"AWS, CSS, NumPy, Spring Boot",1.7 years,MCA,"Mobile Banking UI, IoT Smart Home"
+Candidate 678,Cloud Engineer,"Pandas, Docker, Spring Boot, C#, AWS, NumPy",2.5 years,BCA,"Blockchain Wallet, ERP System"
+Candidate 679,Web Developer,"HTML, Firebase, Jira, CSS",4.2 years,B.Tech CS,ERP System
+Candidate 680,Cloud Engineer,"Pandas, Firebase, Kubernetes, Python, Node.js, C#",4.5 years,BCA,"Portfolio Website, Ecommerce API"
+Candidate 681,Web Developer,"Python, TensorFlow, C#, API Development, Git, Spring Boot, MongoDB",0.6 years,BCA,Mobile Banking UI
+Candidate 682,Database Engineer,"Express, Java, Kotlin, API Development, HTML, Python",3.8 years,MCA,"Job Portal, IoT Smart Home"
+Candidate 683,Blockchain Developer,"Git, Jira, Power BI, Docker, Selenium",1.0 years,B.Tech CS,HR Dashboard
+Candidate 684,Frontend Developer,"Pandas, C++, Hibernate, AWS, Power BI, Node.js, React",3.5 years,M.Tech AI,"Weather App, IoT Smart Home"
+Candidate 685,Android Developer,"React, Kotlin, HTML, Spring Boot, Jira, MongoDB, Selenium",0.6 years,B.Tech CS,"Weather App, IoT Smart Home"
+Candidate 686,Web Developer,"Docker, Firebase, Pandas, Kubernetes, SQL, C++, API Development",3.8 years,BCA,Portfolio Website
+Candidate 687,Mobile App Developer,"SQL, C#, API Development, TypeScript, Hibernate, Kubernetes",0.8 years,B.Tech CE,Mobile Banking UI
+Candidate 688,Frontend Developer,"Express, Android Studio, C#, Firebase, Node.js",2.7 years,BCA,Job Portal
+Candidate 689,Data Analyst,"Selenium, MongoDB, TensorFlow, AWS, Pandas, Kubernetes, Python",2.6 years,B.Tech CE,Blockchain Wallet
+Candidate 690,Blockchain Developer,"React, Java, Power BI, Selenium, CSS, Pandas, Git",3.0 years,MCA,HR Dashboard
+Candidate 691,Backend Developer,"Firebase, C#, AWS, CSS, Node.js",4.7 years,M.Tech AI,"Blockchain Wallet, IoT Smart Home"
+Candidate 692,Blockchain Developer,"Spring Boot, Node.js, C++, TensorFlow, NumPy, AWS",0.6 years,B.Sc CS,"Job Portal, IoT Smart Home"
+Candidate 693,Cloud Engineer,"Kotlin, Java, Git, TypeScript",1.9 years,B.Tech IT,Resume Analyzer
+Candidate 694,Machine Learning Engineer,"Python, Kotlin, Hibernate, C++, Jira",4.8 years,B.Tech IT,"Mobile Banking UI, Blockchain Wallet"
+Candidate 695,Frontend Developer,"Docker, API Development, C++, Node.js",4.8 years,B.Sc IT,Stock Predictor
+Candidate 696,AI Engineer,"SQL, Selenium, HTML, CSS, TypeScript, Python, Firebase",4.1 years,M.Tech AI,"Portfolio Website, Stock Predictor"
+Candidate 697,Backend Developer,"Java, Kubernetes, MongoDB, Spring Boot, AWS",2.7 years,BCA,ChatGPT Clone
+Candidate 698,Java Developer,"Hibernate, Pandas, Python, C++, Express, SQL, AWS",4.9 years,B.Sc IT,"Weather App, Mobile Banking UI"
+Candidate 699,Database Engineer,"NumPy, Python, C++, Power BI, Jira, API Development",2.6 years,BCA,Mobile Banking UI
+Candidate 700,Full Stack Developer,"Git, Express, Firebase, TypeScript, MongoDB, Spring Boot",4.1 years,B.Tech CE,Stock Predictor
+Candidate 701,Frontend Developer,"Git, NumPy, Power BI, HTML",1.8 years,BCA,Job Portal
+Candidate 702,AI Engineer,"TypeScript, Hibernate, Firebase, Selenium, Python, Pandas, Kubernetes",4.3 years,B.Tech IT,"IoT Smart Home, HR Dashboard"
+Candidate 703,Backend Developer,"SQL, Power BI, API Development, React, Python",3.5 years,B.Sc IT,Job Portal
+Candidate 704,Mobile App Developer,"SQL, Hibernate, HTML, Spring Boot, Java",3.8 years,B.Tech CS,Resume Analyzer
+Candidate 705,DevOps Engineer,"React, NumPy, Firebase, Pandas, C#",4.6 years,B.Tech CS,Stock Predictor
+Candidate 706,AI Engineer,"Hibernate, Java, C#, Kubernetes",2.4 years,BCA,"Stock Predictor, Fake News Detection"
+Candidate 707,Software Tester,"TypeScript, Android Studio, Kubernetes, Power BI, API Development, Hibernate",3.1 years,B.Tech CSE,"Ecommerce API, Stock Predictor"
+Candidate 708,Database Engineer,"SQL, Kubernetes, C#, TypeScript, HTML",4.9 years,MCA,IoT Smart Home
+Candidate 709,DevOps Engineer,"Android Studio, Kubernetes, Docker, Express",2.1 years,B.Tech IT,Job Portal
+Candidate 710,Frontend Developer,"TensorFlow, Java, Python, AWS, Spring Boot",2.8 years,BCA,Mobile Banking UI
+Candidate 711,Machine Learning Engineer,"Kotlin, TensorFlow, Spring Boot, C#, Pandas, Docker, Java",2.1 years,B.Tech CE,Stock Predictor
+Candidate 712,Data Analyst,"Hibernate, Kotlin, React, CSS, Git, Android Studio, Selenium",3.1 years,BCA,Mobile Banking UI
+Candidate 713,Frontend Developer,"Git, Kotlin, AWS, Firebase, Jira, Hibernate",2.3 years,B.Sc IT,"Ecommerce API, IoT Smart Home"
+Candidate 714,Data Analyst,"TypeScript, MongoDB, Power BI, Hibernate, Python, AWS",0.8 years,B.Sc IT,Stock Predictor
+Candidate 715,Java Developer,"Android Studio, TypeScript, C#, React, Docker, Spring Boot",2.2 years,B.Tech CS,"Mobile Banking UI, Job Portal"
+Candidate 716,Mobile App Developer,"Spring Boot, CSS, Pandas, Docker, SQL, HTML",3.3 years,B.Tech CSE,"Weather App, Stock Predictor"
+Candidate 717,Software Tester,"NumPy, Power BI, Git, Kubernetes, Pandas, HTML",3.7 years,MCA,"HR Dashboard, Job Portal"
+Candidate 718,Full Stack Developer,"Hibernate, SQL, TensorFlow, Python, MongoDB, AWS, Express",3.7 years,B.Tech CE,"Portfolio Website, Stock Predictor"
+Candidate 719,Full Stack Developer,"API Development, C#, React, Git, Kotlin",2.1 years,B.Tech CE,"Resume Analyzer, Fake News Detection"
+Candidate 720,Software Tester,"Selenium, Firebase, AWS, Android Studio, Spring Boot, CSS",1.2 years,MCA,"Fake News Detection, Portfolio Website"
+Candidate 721,Mobile App Developer,"SQL, TypeScript, Kotlin, C++, NumPy",3.7 years,BCA,Blockchain Wallet
+Candidate 722,Blockchain Developer,"Express, Java, TypeScript, TensorFlow, C++",4.5 years,MCA,Weather App
+Candidate 723,Software Tester,"SQL, TensorFlow, React, Python, Power BI, Kotlin",4.2 years,B.Tech CE,Job Portal
+Candidate 724,DevOps Engineer,"TypeScript, React, Selenium, Express",1.8 years,B.Tech CSE,Resume Analyzer
+Candidate 725,Frontend Developer,"Git, AWS, Selenium, TensorFlow, Python, API Development, Firebase",1.0 years,B.Tech CS,"Job Portal, Ecommerce API"
+Candidate 726,Full Stack Developer,"SQL, Express, C++, Kotlin, AWS",3.2 years,B.Tech CE,"Resume Analyzer, Weather App"
+Candidate 727,AI Engineer,"TypeScript, Kubernetes, Docker, Hibernate, Firebase, CSS",3.3 years,M.Tech AI,"ERP System, Stock Predictor"
+Candidate 728,Database Engineer,"NumPy, HTML, Kotlin, Jira",2.9 years,BCA,"ChatGPT Clone, Stock Predictor"
+Candidate 729,Android Developer,"C++, C#, Selenium, Kubernetes, TensorFlow, TypeScript, AWS",2.7 years,B.Tech CS,"Mobile Banking UI, ChatGPT Clone"
+Candidate 730,DevOps Engineer,"CSS, AWS, Pandas, Selenium",2.2 years,MCA,IoT Smart Home
+Candidate 731,Database Engineer,"Selenium, MongoDB, Express, C++, Hibernate",3.7 years,B.Tech CE,"ERP System, Ecommerce API"
+Candidate 732,DevOps Engineer,"API Development, Python, Android Studio, Selenium, Hibernate",4.3 years,B.Tech CS,Blockchain Wallet
+Candidate 733,Mobile App Developer,"Kubernetes, NumPy, API Development, Python, Firebase, Selenium, MongoDB",4.7 years,B.Tech CS,Mobile Banking UI
+Candidate 734,Backend Developer,"Android Studio, NumPy, AWS, Express, Git, Firebase, Python",4.9 years,B.Sc CS,"HR Dashboard, ERP System"
+Candidate 735,DevOps Engineer,"API Development, Java, CSS, Python",2.2 years,B.Tech CSE,"Weather App, IoT Smart Home"
+Candidate 736,AI Engineer,"MongoDB, NumPy, Spring Boot, Power BI, Java, Git, CSS",3.5 years,BCA,"IoT Smart Home, Blockchain Wallet"
+Candidate 737,Data Analyst,"Node.js, Git, Express, Java, AWS",2.8 years,MCA,Stock Predictor
+Candidate 738,Web Developer,"Pandas, TensorFlow, Python, HTML, API Development, Power BI, Spring Boot",2.5 years,B.Sc CS,IoT Smart Home
+Candidate 739,DevOps Engineer,"Jira, TensorFlow, Hibernate, Android Studio",2.4 years,B.Sc CS,"Portfolio Website, ChatGPT Clone"
+Candidate 740,Cloud Engineer,"TensorFlow, Node.js, Android Studio, Kotlin",3.2 years,BCA,"Blockchain Wallet, IoT Smart Home"
+Candidate 741,Mobile App Developer,"SQL, Spring Boot, C#, TensorFlow, Power BI, Java",4.6 years,MCA,ERP System
+Candidate 742,Web Developer,"Kubernetes, CSS, C++, SQL, Node.js, Java, Selenium",4.6 years,B.Tech CE,"HR Dashboard, Portfolio Website"
+Candidate 743,Android Developer,"Spring Boot, C#, Kubernetes, Android Studio",4.7 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+Candidate 744,DevOps Engineer,"API Development, Java, Pandas, Node.js",4.7 years,BCA,Ecommerce API
+Candidate 745,Frontend Developer,"Firebase, SQL, Python, CSS",4.0 years,B.Tech CE,Stock Predictor
+Candidate 746,AI Engineer,"C++, Firebase, Docker, Spring Boot, Hibernate",0.6 years,B.Tech CE,Stock Predictor
+Candidate 747,Software Tester,"C#, Pandas, CSS, Firebase, C++, Docker, API Development",2.9 years,B.Tech CE,"Resume Analyzer, Weather App"
+Candidate 748,Android Developer,"NumPy, Android Studio, Jira, MongoDB, TensorFlow, SQL, Power BI",2.3 years,MCA,"Blockchain Wallet, Weather App"
+Candidate 749,DevOps Engineer,"Node.js, Kotlin, Python, Android Studio, CSS, Express",4.2 years,B.Tech IT,"Ecommerce API, Stock Predictor"
+Candidate 750,Mobile App Developer,"Node.js, TensorFlow, NumPy, C++, TypeScript, Hibernate",1.2 years,B.Sc IT,HR Dashboard
+Candidate 751,Backend Developer,"CSS, Android Studio, C++, Java",2.2 years,B.Tech CS,ChatGPT Clone
+Candidate 752,Full Stack Developer,"React, Python, Hibernate, Kotlin, AWS, C++, TensorFlow",0.7 years,MCA,Blockchain Wallet
+Candidate 753,Cloud Engineer,"Jira, Java, SQL, Kotlin",2.8 years,B.Tech CS,Blockchain Wallet
+Candidate 754,Software Tester,"Python, Kotlin, TensorFlow, Java, AWS",1.6 years,B.Tech CSE,"Ecommerce API, Stock Predictor"
+Candidate 755,Database Engineer,"TensorFlow, CSS, Selenium, Jira, Python, Kubernetes",3.0 years,MCA,"Stock Predictor, Weather App"
+Candidate 756,Software Tester,"NumPy, API Development, Pandas, Spring Boot, SQL",2.7 years,B.Sc CS,"Mobile Banking UI, Portfolio Website"
+Candidate 757,DevOps Engineer,"Java, API Development, Python, C++, Hibernate",4.6 years,BCA,"HR Dashboard, Fake News Detection"
+Candidate 758,Backend Developer,"Pandas, API Development, Android Studio, Kotlin, CSS, TypeScript",4.0 years,B.Tech IT,"IoT Smart Home, Ecommerce API"
+Candidate 759,Java Developer,"Selenium, Git, Jira, Firebase",4.3 years,M.Tech AI,"Mobile Banking UI, Ecommerce API"
+Candidate 760,Cloud Engineer,"React, TensorFlow, TypeScript, C++, Express",2.9 years,B.Tech CE,"ChatGPT Clone, Ecommerce API"
+Candidate 761,Software Tester,"CSS, C#, Power BI, Hibernate",3.8 years,MCA,Job Portal
+Candidate 762,DevOps Engineer,"AWS, C#, CSS, Kotlin, Spring Boot",1.0 years,BCA,"Ecommerce API, Weather App"
+Candidate 763,Full Stack Developer,"TensorFlow, Python, MongoDB, Power BI, Hibernate, Firebase, C#",1.7 years,B.Tech CSE,"ERP System, ChatGPT Clone"
+Candidate 764,Data Analyst,"Kotlin, Java, MongoDB, CSS, SQL, AWS",1.2 years,MCA,Weather App
+Candidate 765,Mobile App Developer,"TypeScript, Power BI, C#, TensorFlow, Kubernetes",3.1 years,B.Tech CE,"Portfolio Website, IoT Smart Home"
+Candidate 766,AI Engineer,"Python, Kubernetes, Docker, AWS, Java, Node.js",3.7 years,B.Tech IT,"Fake News Detection, ERP System"
+Candidate 767,Web Developer,"CSS, HTML, Power BI, Java, Spring Boot",1.7 years,M.Tech AI,Resume Analyzer
+Candidate 768,Database Engineer,"API Development, CSS, TypeScript, Selenium, Docker, Pandas",4.5 years,MCA,"Portfolio Website, ChatGPT Clone"
+Candidate 769,Database Engineer,"TensorFlow, CSS, Docker, Power BI",2.8 years,B.Tech IT,"Portfolio Website, Weather App"
+Candidate 770,Machine Learning Engineer,"CSS, AWS, Firebase, C#, NumPy",2.5 years,M.Tech AI,Portfolio Website
+Candidate 771,Web Developer,"SQL, Power BI, Docker, Spring Boot, Android Studio, React",4.9 years,B.Tech CS,"Resume Analyzer, Portfolio Website"
+Candidate 772,Database Engineer,"CSS, API Development, Express, C++, Power BI",3.8 years,B.Tech IT,"IoT Smart Home, Stock Predictor"
+Candidate 773,Software Tester,"Git, API Development, Spring Boot, Android Studio, HTML",4.1 years,M.Tech AI,Mobile Banking UI
+Candidate 774,Android Developer,"HTML, Pandas, Docker, Power BI, Git",2.4 years,B.Tech IT,ERP System
+Candidate 775,Backend Developer,"Kubernetes, Git, Hibernate, Spring Boot, Android Studio, HTML, C#",2.9 years,B.Tech CS,"Weather App, ChatGPT Clone"
+Candidate 776,Machine Learning Engineer,"Hibernate, AWS, HTML, TensorFlow",2.8 years,B.Tech CE,ChatGPT Clone
+Candidate 777,Machine Learning Engineer,"AWS, CSS, Firebase, Jira, C++, Kotlin",3.3 years,B.Sc IT,"HR Dashboard, Mobile Banking UI"
+Candidate 778,Machine Learning Engineer,"MongoDB, AWS, Spring Boot, Python, Hibernate, Git, Express",4.7 years,B.Tech CE,ERP System
+Candidate 779,Android Developer,"Jira, C++, TypeScript, Git, SQL, NumPy, Hibernate",4.5 years,M.Tech AI,Job Portal
+Candidate 780,Android Developer,"Jira, Android Studio, C++, Firebase, C#, Python",0.8 years,BCA,Mobile Banking UI
+Candidate 781,AI Engineer,"MongoDB, Firebase, Python, HTML, Spring Boot",3.5 years,B.Tech CE,"Resume Analyzer, Mobile Banking UI"
+Candidate 782,Cloud Engineer,"NumPy, Docker, Java, Pandas, Selenium",1.9 years,B.Tech CSE,Stock Predictor
+Candidate 783,DevOps Engineer,"Selenium, TensorFlow, Kotlin, TypeScript",1.1 years,B.Tech CE,"Resume Analyzer, Portfolio Website"
+Candidate 784,Software Tester,"API Development, Express, Node.js, React, CSS, C++, C#",4.8 years,B.Tech CS,Job Portal
+Candidate 785,Software Tester,"SQL, TypeScript, Pandas, Java, Power BI",1.5 years,B.Tech IT,Weather App
+Candidate 786,Mobile App Developer,"Jira, AWS, Express, Kotlin",4.3 years,M.Tech AI,ChatGPT Clone
+Candidate 787,Full Stack Developer,"Hibernate, Power BI, SQL, HTML, C#, Node.js, Git",4.5 years,B.Tech IT,"IoT Smart Home, Fake News Detection"
+Candidate 788,Mobile App Developer,"Pandas, Express, TypeScript, Kotlin, Hibernate, NumPy, CSS",2.5 years,B.Tech CSE,"HR Dashboard, Portfolio Website"
+Candidate 789,AI Engineer,"Power BI, Selenium, API Development, Hibernate, Firebase, C++",0.6 years,BCA,Mobile Banking UI
+Candidate 790,Frontend Developer,"Git, C#, HTML, Selenium, Python, C++",4.9 years,B.Sc CS,"ChatGPT Clone, Mobile Banking UI"
+Candidate 791,Web Developer,"C++, Hibernate, CSS, Power BI, Jira, Python",4.4 years,B.Tech IT,Stock Predictor
+Candidate 792,Cloud Engineer,"Power BI, HTML, CSS, Jira, C++",3.9 years,B.Tech CE,"Job Portal, HR Dashboard"
+Candidate 793,Android Developer,"SQL, NumPy, Python, CSS, API Development, MongoDB, Android Studio",0.6 years,B.Sc CS,Mobile Banking UI
+Candidate 794,Android Developer,"C++, TypeScript, Java, Spring Boot, TensorFlow",3.0 years,B.Sc IT,Resume Analyzer
+Candidate 795,Machine Learning Engineer,"API Development, Express, Java, Node.js, Jira, Kotlin, C#",4.1 years,B.Tech CSE,"Weather App, IoT Smart Home"
+Candidate 796,Machine Learning Engineer,"Kubernetes, TensorFlow, Spring Boot, MongoDB, Kotlin, Jira, AWS",1.1 years,B.Tech CSE,"Blockchain Wallet, ChatGPT Clone"
+Candidate 797,Database Engineer,"Kubernetes, Express, Selenium, SQL, TypeScript, Kotlin",1.2 years,B.Tech CSE,HR Dashboard
+Candidate 798,Android Developer,"CSS, Hibernate, Git, API Development, Kubernetes, Kotlin, AWS",3.7 years,BCA,HR Dashboard
+Candidate 799,Machine Learning Engineer,"AWS, React, Java, SQL",1.6 years,BCA,Resume Analyzer
+Candidate 800,Mobile App Developer,"NumPy, Java, TypeScript, Spring Boot",3.7 years,B.Sc IT,HR Dashboard
+Candidate 801,AI Engineer,"API Development, Python, TypeScript, NumPy, Java, Pandas",1.6 years,B.Tech IT,"Stock Predictor, Portfolio Website"
+Candidate 802,Web Developer,"AWS, Pandas, Jira, SQL, React, Firebase, Selenium",3.3 years,B.Tech CE,Stock Predictor
+Candidate 803,Frontend Developer,"Firebase, SQL, TensorFlow, AWS, Node.js, Kubernetes, C#",2.5 years,BCA,"Weather App, IoT Smart Home"
+Candidate 804,Mobile App Developer,"Power BI, Python, NumPy, Pandas",0.9 years,B.Sc IT,"Mobile Banking UI, Resume Analyzer"
+Candidate 805,Machine Learning Engineer,"API Development, SQL, Firebase, Kotlin, AWS, HTML",1.2 years,B.Tech CE,"Portfolio Website, ERP System"
+Candidate 806,Database Engineer,"HTML, Firebase, Selenium, Express, Java, Power BI, Docker",1.5 years,B.Sc IT,IoT Smart Home
+Candidate 807,Java Developer,"Hibernate, React, Firebase, Kubernetes",4.5 years,M.Tech AI,"IoT Smart Home, Portfolio Website"
+Candidate 808,Blockchain Developer,"TypeScript, Power BI, Python, Hibernate, C++, Node.js, Express",1.2 years,BCA,"ERP System, HR Dashboard"
+Candidate 809,Android Developer,"Java, MongoDB, Express, Pandas",1.1 years,BCA,HR Dashboard
+Candidate 810,Frontend Developer,"HTML, Python, Git, CSS, NumPy, Jira, Pandas",3.7 years,MCA,"ERP System, Job Portal"
+Candidate 811,Machine Learning Engineer,"Java, Git, Spring Boot, C++, React, Firebase",4.0 years,B.Tech CSE,Mobile Banking UI
+Candidate 812,Machine Learning Engineer,"Android Studio, HTML, Pandas, Firebase",2.0 years,M.Tech AI,"ERP System, ChatGPT Clone"
+Candidate 813,Data Analyst,"Docker, Node.js, SQL, Java, Android Studio",1.9 years,MCA,"Mobile Banking UI, Portfolio Website"
+Candidate 814,Data Analyst,"Firebase, API Development, Python, Kotlin",3.6 years,B.Sc CS,"Blockchain Wallet, IoT Smart Home"
+Candidate 815,Blockchain Developer,"Pandas, Java, Power BI, Android Studio, Express, CSS, Python",4.9 years,B.Tech CS,"Portfolio Website, Fake News Detection"
+Candidate 816,Java Developer,"TensorFlow, AWS, Express, Pandas",2.9 years,M.Tech AI,"Stock Predictor, Blockchain Wallet"
+Candidate 817,Backend Developer,"Kotlin, SQL, Node.js, C++",3.9 years,B.Sc CS,ERP System
+Candidate 818,Database Engineer,"Docker, Android Studio, Kubernetes, API Development, TypeScript, Firebase, Pandas",0.9 years,B.Tech IT,Ecommerce API
+Candidate 819,DevOps Engineer,"NumPy, Selenium, Kotlin, CSS",2.0 years,B.Sc IT,"Ecommerce API, HR Dashboard"
+Candidate 820,Web Developer,"Docker, Android Studio, Spring Boot, HTML, CSS, React",4.8 years,B.Tech IT,Resume Analyzer
+Candidate 821,Backend Developer,"Selenium, Kotlin, Express, Android Studio, TypeScript, Firebase",0.6 years,MCA,IoT Smart Home
+Candidate 822,Software Tester,"Kubernetes, Hibernate, Spring Boot, React, Java",0.5 years,MCA,"ChatGPT Clone, Job Portal"
+Candidate 823,Software Tester,"TensorFlow, SQL, Kotlin, Node.js, NumPy, Docker",3.7 years,BCA,IoT Smart Home
+Candidate 824,Web Developer,"Docker, Node.js, Android Studio, Hibernate",3.7 years,BCA,"Resume Analyzer, Blockchain Wallet"
+Candidate 825,Backend Developer,"C#, Java, Jira, MongoDB, CSS",1.5 years,B.Sc CS,Fake News Detection
+Candidate 826,Frontend Developer,"SQL, React, Python, HTML, Node.js, Firebase",3.8 years,B.Tech CS,Stock Predictor
+Candidate 827,Data Analyst,"TensorFlow, React, Spring Boot, Java",4.9 years,B.Tech CSE,Job Portal
+Candidate 828,Machine Learning Engineer,"AWS, Java, CSS, React",4.4 years,B.Tech CS,"Blockchain Wallet, Ecommerce API"
+Candidate 829,Data Analyst,"Python, Spring Boot, Git, CSS, TypeScript",3.3 years,B.Sc IT,Weather App
+Candidate 830,Blockchain Developer,"CSS, Express, Kotlin, HTML, AWS, SQL",3.4 years,B.Tech CE,ChatGPT Clone
+Candidate 831,AI Engineer,"C++, Git, Firebase, Kubernetes, NumPy, SQL, Kotlin",1.6 years,B.Sc IT,HR Dashboard
+Candidate 832,Cloud Engineer,"C++, Git, Node.js, TypeScript, Express, CSS, Spring Boot",4.6 years,B.Sc CS,"Mobile Banking UI, ChatGPT Clone"
+Candidate 833,Full Stack Developer,"Hibernate, Spring Boot, Jira, Android Studio, Selenium, Java",0.9 years,B.Sc IT,"Job Portal, Ecommerce API"
+Candidate 834,Mobile App Developer,"Docker, Kotlin, MongoDB, Pandas, HTML",4.5 years,M.Tech AI,ChatGPT Clone
+Candidate 835,Backend Developer,"Git, Jira, MongoDB, AWS, TensorFlow",0.7 years,BCA,Stock Predictor
+Candidate 836,Cloud Engineer,"Python, NumPy, Git, CSS, Express, API Development",0.9 years,B.Tech CSE,ChatGPT Clone
+Candidate 837,Mobile App Developer,"SQL, Android Studio, MongoDB, HTML",3.9 years,B.Sc IT,"Fake News Detection, Portfolio Website"
+Candidate 838,Data Analyst,"C#, Android Studio, React, Kubernetes",4.1 years,M.Tech AI,"HR Dashboard, Portfolio Website"
+Candidate 839,Mobile App Developer,"C++, Kotlin, Python, HTML, Selenium, Java",0.7 years,B.Tech CE,Mobile Banking UI
+Candidate 840,Java Developer,"TypeScript, Docker, Node.js, Power BI, CSS, HTML",2.4 years,B.Tech CS,ChatGPT Clone
+Candidate 841,Blockchain Developer,"Hibernate, NumPy, TensorFlow, Node.js, Express",3.1 years,B.Sc CS,"Blockchain Wallet, IoT Smart Home"
+Candidate 842,Android Developer,"API Development, Python, NumPy, Docker",2.2 years,B.Tech IT,IoT Smart Home
+Candidate 843,Software Tester,"MongoDB, Android Studio, Java, Kubernetes, Hibernate, C#, TensorFlow",2.3 years,B.Tech CE,Fake News Detection
+Candidate 844,Database Engineer,"Kubernetes, C++, HTML, Android Studio",1.4 years,B.Tech CS,"ERP System, Portfolio Website"
+Candidate 845,Full Stack Developer,"CSS, NumPy, AWS, Android Studio, C++, API Development, Selenium",4.9 years,B.Sc IT,ERP System
+Candidate 846,Java Developer,"CSS, Node.js, Android Studio, Spring Boot, MongoDB, API Development",4.9 years,B.Tech IT,Portfolio Website
+Candidate 847,Database Engineer,"C#, MongoDB, Node.js, Hibernate, React, C++",1.7 years,B.Tech CS,"ERP System, ChatGPT Clone"
+Candidate 848,Android Developer,"Android Studio, Docker, NumPy, React, HTML, Node.js",4.7 years,B.Sc IT,"Weather App, ERP System"
+Candidate 849,Cloud Engineer,"Python, TypeScript, Kubernetes, CSS, Spring Boot, AWS, SQL",2.3 years,M.Tech AI,"Portfolio Website, IoT Smart Home"
+Candidate 850,Database Engineer,"HTML, Python, Hibernate, Kubernetes",1.8 years,MCA,"Resume Analyzer, Job Portal"
+Candidate 851,Blockchain Developer,"Kotlin, Android Studio, NumPy, API Development, C++",2.1 years,MCA,"ERP System, ChatGPT Clone"
+Candidate 852,Database Engineer,"API Development, Jira, C++, C#",1.0 years,M.Tech AI,"HR Dashboard, Resume Analyzer"
+Candidate 853,Java Developer,"C#, Docker, C++, Selenium, Node.js, SQL",3.0 years,B.Sc IT,Stock Predictor
+Candidate 854,Software Tester,"C++, Java, Firebase, SQL, Android Studio, Hibernate",0.9 years,M.Tech AI,"IoT Smart Home, Stock Predictor"
+Candidate 855,Backend Developer,"TypeScript, Node.js, API Development, Kotlin, Selenium, Hibernate, C#",3.8 years,B.Tech CE,"ChatGPT Clone, HR Dashboard"
+Candidate 856,Mobile App Developer,"Node.js, Power BI, Pandas, Selenium, Java, CSS",4.6 years,B.Tech CSE,"Resume Analyzer, Job Portal"
+Candidate 857,DevOps Engineer,"Kubernetes, Python, TypeScript, Android Studio",2.7 years,B.Tech CSE,ChatGPT Clone
+Candidate 858,Machine Learning Engineer,"Express, Hibernate, SQL, Git, Spring Boot",4.9 years,B.Tech CE,Blockchain Wallet
+Candidate 859,DevOps Engineer,"Kubernetes, Node.js, Kotlin, SQL, Python, Pandas",4.4 years,M.Tech AI,Fake News Detection
+Candidate 860,AI Engineer,"API Development, SQL, Pandas, NumPy, Kubernetes, TypeScript",2.0 years,B.Sc CS,Weather App
+Candidate 861,Software Tester,"Selenium, Python, MongoDB, C++, HTML, Node.js, Pandas",0.9 years,B.Tech CE,"Portfolio Website, Blockchain Wallet"
+Candidate 862,Blockchain Developer,"Kubernetes, TypeScript, SQL, Docker",3.8 years,B.Sc CS,ChatGPT Clone
+Candidate 863,Android Developer,"Express, TensorFlow, Docker, Spring Boot",2.0 years,B.Sc IT,Fake News Detection
+Candidate 864,Android Developer,"Python, Power BI, API Development, MongoDB",2.0 years,M.Tech AI,"Mobile Banking UI, Weather App"
+Candidate 865,Blockchain Developer,"Hibernate, AWS, Pandas, Git, HTML, Jira",1.6 years,B.Tech IT,Ecommerce API
+Candidate 866,Blockchain Developer,"Firebase, Jira, Selenium, Spring Boot, TypeScript, Kotlin",1.0 years,B.Tech CS,"ChatGPT Clone, Portfolio Website"
+Candidate 867,Backend Developer,"Pandas, Node.js, C++, API Development, CSS",3.6 years,B.Tech CS,"Weather App, Mobile Banking UI"
+Candidate 868,Software Tester,"SQL, API Development, Spring Boot, Firebase",4.3 years,B.Sc CS,"Ecommerce API, Weather App"
+Candidate 869,Android Developer,"Pandas, CSS, Power BI, Docker, HTML, Firebase, TensorFlow",3.2 years,B.Tech CE,"Mobile Banking UI, Resume Analyzer"
+Candidate 870,Backend Developer,"C#, Pandas, C++, TensorFlow, Git",0.7 years,B.Tech CS,Job Portal
+Candidate 871,Software Tester,"Firebase, C++, NumPy, AWS, MongoDB",1.4 years,MCA,"Resume Analyzer, Weather App"
+Candidate 872,Frontend Developer,"Jira, MongoDB, React, Git, NumPy",1.0 years,B.Tech CSE,"Ecommerce API, Stock Predictor"
+Candidate 873,AI Engineer,"Firebase, Git, CSS, Docker, Java, React, MongoDB",2.4 years,B.Tech CS,Resume Analyzer
+Candidate 874,AI Engineer,"TensorFlow, API Development, Python, C#, Docker, MongoDB, SQL",3.3 years,B.Tech CSE,"ERP System, ChatGPT Clone"
+Candidate 875,Data Analyst,"Spring Boot, C++, Docker, Kotlin",3.6 years,M.Tech AI,"Blockchain Wallet, Ecommerce API"
+Candidate 876,AI Engineer,"Docker, TensorFlow, Git, Kubernetes, NumPy, Spring Boot, HTML",3.8 years,B.Tech IT,"Blockchain Wallet, Fake News Detection"
+Candidate 877,Machine Learning Engineer,"React, Java, Express, Spring Boot, Kotlin, Power BI, TensorFlow",0.7 years,B.Tech IT,Stock Predictor
+Candidate 878,Web Developer,"React, Git, C#, SQL, Node.js",4.0 years,B.Sc IT,"Blockchain Wallet, Ecommerce API"
+Candidate 879,Cloud Engineer,"Kubernetes, CSS, NumPy, Docker, C#",1.4 years,B.Tech CSE,"Stock Predictor, Weather App"
+Candidate 880,Backend Developer,"Kotlin, TypeScript, SQL, Java",4.7 years,B.Sc CS,"Portfolio Website, ChatGPT Clone"
+Candidate 881,Frontend Developer,"Kotlin, Android Studio, Hibernate, Jira, TypeScript",4.0 years,B.Tech CS,Resume Analyzer
+Candidate 882,Machine Learning Engineer,"Spring Boot, Jira, Java, Node.js",1.0 years,M.Tech AI,ChatGPT Clone
+Candidate 883,Frontend Developer,"C++, Selenium, TypeScript, AWS",3.0 years,B.Sc IT,"Weather App, Portfolio Website"
+Candidate 884,Blockchain Developer,"Kotlin, Pandas, API Development, Selenium",3.0 years,B.Sc CS,IoT Smart Home
+Candidate 885,Blockchain Developer,"Express, CSS, TypeScript, Node.js, Git, TensorFlow",3.2 years,B.Tech CS,"Resume Analyzer, ChatGPT Clone"
+Candidate 886,AI Engineer,"Jira, Express, Kotlin, Java",3.8 years,M.Tech AI,ERP System
+Candidate 887,Backend Developer,"API Development, Android Studio, NumPy, CSS, React, Docker, AWS",4.2 years,B.Sc IT,Stock Predictor
+Candidate 888,Backend Developer,"CSS, TypeScript, API Development, Android Studio",4.9 years,B.Sc IT,"Weather App, Fake News Detection"
+Candidate 889,Backend Developer,"C++, React, Hibernate, Power BI",0.9 years,B.Tech CE,"ChatGPT Clone, ERP System"
+Candidate 890,Full Stack Developer,"CSS, C#, NumPy, Express",5.0 years,MCA,Resume Analyzer
+Candidate 891,Software Tester,"TensorFlow, TypeScript, NumPy, C#, Git, Pandas, Docker",4.6 years,B.Tech CE,Stock Predictor
+Candidate 892,Data Analyst,"Express, Docker, Selenium, Kotlin, MongoDB",3.7 years,M.Tech AI,"Weather App, Stock Predictor"
+Candidate 893,Mobile App Developer,"HTML, NumPy, Kotlin, API Development, Express, Firebase",3.3 years,B.Sc CS,Resume Analyzer
+Candidate 894,Data Analyst,"CSS, Kotlin, TypeScript, MongoDB, Python, React",4.7 years,M.Tech AI,Resume Analyzer
+Candidate 895,Data Analyst,"Node.js, Kubernetes, Java, Git, Kotlin, MongoDB, CSS",2.7 years,B.Tech CE,ERP System
+Candidate 896,Android Developer,"Express, Selenium, HTML, C++, AWS, TypeScript, C#",2.6 years,B.Tech CSE,Resume Analyzer
+Candidate 897,Backend Developer,"Power BI, HTML, TensorFlow, Node.js, Kubernetes",1.0 years,B.Sc IT,"Fake News Detection, ERP System"
+Candidate 898,Java Developer,"Power BI, API Development, Git, Express, Selenium, Python",2.3 years,B.Sc CS,"ChatGPT Clone, Ecommerce API"
+Candidate 899,Frontend Developer,"Selenium, Jira, Pandas, Hibernate, C#",0.9 years,B.Sc IT,"Ecommerce API, ERP System"
+Candidate 900,Web Developer,"Selenium, Kotlin, API Development, AWS, NumPy",3.5 years,M.Tech AI,"Mobile Banking UI, HR Dashboard"
+Candidate 901,DevOps Engineer,"TypeScript, Node.js, Docker, C#, Jira",0.8 years,BCA,"Resume Analyzer, ERP System"
+Candidate 902,Backend Developer,"Kubernetes, Spring Boot, TensorFlow, Express, SQL, AWS",0.9 years,B.Tech CS,Blockchain Wallet
+Candidate 903,DevOps Engineer,"C#, Java, NumPy, MongoDB",5.0 years,MCA,"Portfolio Website, Mobile Banking UI"
+Candidate 904,Web Developer,"AWS, Node.js, Git, Pandas, SQL",2.4 years,B.Tech IT,"Portfolio Website, Ecommerce API"
+Candidate 905,AI Engineer,"Express, API Development, NumPy, Power BI, Firebase",3.4 years,B.Tech CSE,"Portfolio Website, ERP System"
+Candidate 906,Database Engineer,"Express, Spring Boot, TensorFlow, C++, Jira, Power BI, Node.js",3.8 years,B.Tech CE,"Blockchain Wallet, HR Dashboard"
+Candidate 907,Web Developer,"C#, SQL, TensorFlow, Git",2.2 years,B.Tech CE,Ecommerce API
+Candidate 908,DevOps Engineer,"Power BI, Hibernate, NumPy, C#",2.3 years,B.Tech CE,"ERP System, Blockchain Wallet"
+Candidate 909,Web Developer,"Firebase, Java, Kubernetes, TypeScript, Python",2.3 years,B.Tech IT,HR Dashboard
+Candidate 910,Android Developer,"SQL, Firebase, Pandas, Docker",2.1 years,B.Sc IT,"Job Portal, IoT Smart Home"
+Candidate 911,Blockchain Developer,"Express, Jira, C++, Spring Boot, TensorFlow",2.3 years,BCA,"Blockchain Wallet, Mobile Banking UI"
+Candidate 912,DevOps Engineer,"TensorFlow, API Development, MongoDB, Kubernetes, AWS",2.7 years,BCA,ERP System
+Candidate 913,Database Engineer,"SQL, Git, Kubernetes, API Development, Python",1.0 years,MCA,"Stock Predictor, ChatGPT Clone"
+Candidate 914,Cloud Engineer,"Kubernetes, Java, Docker, HTML, C++",2.4 years,B.Tech IT,"Fake News Detection, ERP System"
+Candidate 915,Database Engineer,"Kotlin, C++, Spring Boot, Jira, AWS",1.1 years,B.Tech CSE,"Job Portal, IoT Smart Home"
+Candidate 916,DevOps Engineer,"Docker, TensorFlow, Android Studio, Express",3.9 years,M.Tech AI,ERP System
+Candidate 917,Machine Learning Engineer,"Selenium, TensorFlow, TypeScript, CSS",0.6 years,B.Sc CS,"Resume Analyzer, ERP System"
+Candidate 918,Full Stack Developer,"Node.js, Pandas, CSS, C++, Firebase, TensorFlow, Jira",1.4 years,B.Sc CS,"ChatGPT Clone, Blockchain Wallet"
+Candidate 919,DevOps Engineer,"Firebase, Git, Jira, CSS, Node.js, Kubernetes, Android Studio",1.6 years,M.Tech AI,"Stock Predictor, ERP System"
+Candidate 920,Mobile App Developer,"Node.js, React, Power BI, AWS, Spring Boot, Android Studio",0.7 years,B.Tech CSE,"Job Portal, Mobile Banking UI"
+Candidate 921,Software Tester,"Express, Spring Boot, Selenium, API Development",2.1 years,B.Sc IT,"Mobile Banking UI, ChatGPT Clone"
+Candidate 922,DevOps Engineer,"C#, Node.js, Selenium, Jira, Java",2.7 years,B.Tech IT,Mobile Banking UI
+Candidate 923,Frontend Developer,"TypeScript, API Development, Power BI, Express, Jira, Git",3.4 years,B.Tech CE,"Portfolio Website, Ecommerce API"
+Candidate 924,Database Engineer,"Android Studio, CSS, HTML, Java, Docker, TensorFlow, MongoDB",3.1 years,B.Sc CS,"Stock Predictor, HR Dashboard"
+Candidate 925,Blockchain Developer,"NumPy, Docker, SQL, Firebase, Node.js, Kotlin, Kubernetes",0.8 years,M.Tech AI,"Fake News Detection, Stock Predictor"
+Candidate 926,Machine Learning Engineer,"Android Studio, HTML, Jira, Selenium",1.2 years,B.Tech CE,Ecommerce API
+Candidate 927,Software Tester,"Git, NumPy, Kotlin, Selenium, Pandas",2.6 years,MCA,"ChatGPT Clone, Job Portal"
+Candidate 928,DevOps Engineer,"Spring Boot, React, Power BI, AWS",4.3 years,B.Sc IT,Job Portal
+Candidate 929,Android Developer,"React, SQL, CSS, C++",2.3 years,B.Tech CSE,"HR Dashboard, ERP System"
+Candidate 930,Frontend Developer,"Pandas, Kubernetes, Android Studio, React, Hibernate, C++",0.9 years,MCA,Job Portal
+Candidate 931,Full Stack Developer,"Power BI, MongoDB, AWS, HTML, Git, SQL",0.7 years,B.Tech CSE,"IoT Smart Home, Ecommerce API"
+Candidate 932,Frontend Developer,"SQL, Jira, AWS, Java, C#, Docker",2.0 years,B.Sc CS,"Resume Analyzer, Blockchain Wallet"
+Candidate 933,Software Tester,"SQL, Hibernate, Android Studio, C#",3.3 years,B.Tech CE,HR Dashboard
+Candidate 934,Database Engineer,"Spring Boot, MongoDB, Git, HTML, SQL, Docker",1.8 years,BCA,Ecommerce API
+Candidate 935,Full Stack Developer,"Android Studio, Node.js, SQL, Express, API Development",2.3 years,B.Sc CS,"Resume Analyzer, Job Portal"
+Candidate 936,Machine Learning Engineer,"Kotlin, AWS, React, Jira, Firebase, TensorFlow, Selenium",1.9 years,B.Tech CSE,Job Portal
+Candidate 937,Java Developer,"C++, AWS, Node.js, Express, Selenium",2.5 years,BCA,"IoT Smart Home, Job Portal"
+Candidate 938,Machine Learning Engineer,"Git, Express, Kotlin, C++, Kubernetes, Python",2.1 years,B.Sc CS,Resume Analyzer
+Candidate 939,Database Engineer,"Selenium, TensorFlow, CSS, Power BI, React, TypeScript, Spring Boot",3.8 years,B.Tech IT,"Mobile Banking UI, Resume Analyzer"
+Candidate 940,Blockchain Developer,"Power BI, Docker, React, C++, AWS, Hibernate, Express",4.0 years,B.Sc CS,"Stock Predictor, HR Dashboard"
+Candidate 941,Cloud Engineer,"TypeScript, React, Pandas, Node.js, Selenium, TensorFlow",2.9 years,MCA,"ChatGPT Clone, Fake News Detection"
+Candidate 942,Mobile App Developer,"React, Express, C++, Android Studio, Spring Boot",4.4 years,B.Tech CSE,"Portfolio Website, ChatGPT Clone"
+Candidate 943,Software Tester,"React, Selenium, SQL, HTML, CSS, AWS",4.8 years,B.Tech CE,Blockchain Wallet
+Candidate 944,Android Developer,"Kubernetes, API Development, Selenium, C++, MongoDB, Hibernate, TypeScript",3.7 years,MCA,"Ecommerce API, IoT Smart Home"
+Candidate 945,Blockchain Developer,"Hibernate, Docker, Android Studio, API Development, Pandas",4.2 years,B.Tech IT,ChatGPT Clone
+Candidate 946,Data Analyst,"Selenium, API Development, Python, Node.js, Docker, Firebase, CSS",3.4 years,B.Tech CSE,ChatGPT Clone
+Candidate 947,Mobile App Developer,"Docker, Jira, TypeScript, Git, NumPy, Firebase",1.6 years,B.Sc IT,"Resume Analyzer, ChatGPT Clone"
+Candidate 948,Machine Learning Engineer,"CSS, Firebase, NumPy, Power BI, C#",0.8 years,M.Tech AI,Portfolio Website
+Candidate 949,Web Developer,"Docker, AWS, Hibernate, TensorFlow, Git, C++, Jira",2.7 years,B.Tech CSE,"Portfolio Website, Weather App"
+Candidate 950,Full Stack Developer,"HTML, Hibernate, NumPy, API Development, TensorFlow",1.9 years,B.Tech CE,"Portfolio Website, Weather App"
+Candidate 951,Software Tester,"C#, Kubernetes, API Development, Spring Boot, Node.js, Pandas, Android Studio",4.8 years,B.Tech CS,Ecommerce API
+Candidate 952,Machine Learning Engineer,"Power BI, TypeScript, C#, Jira",0.9 years,B.Tech CSE,"Job Portal, HR Dashboard"
+Candidate 953,Backend Developer,"React, SQL, TypeScript, Express, Pandas",2.9 years,B.Tech CE,Fake News Detection
+Candidate 954,Blockchain Developer,"Spring Boot, Firebase, TensorFlow, MongoDB, C++",1.3 years,M.Tech AI,Portfolio Website
+Candidate 955,Database Engineer,"TensorFlow, Kotlin, C++, C#, React, Python, NumPy",2.7 years,B.Tech CSE,"Weather App, HR Dashboard"
+Candidate 956,Blockchain Developer,"NumPy, AWS, Kubernetes, Python, API Development",3.5 years,B.Tech CS,"Portfolio Website, HR Dashboard"
+Candidate 957,Android Developer,"Jira, Power BI, C++, Selenium",3.5 years,M.Tech AI,Stock Predictor
+Candidate 958,DevOps Engineer,"C#, AWS, HTML, React, C++, TypeScript, Kotlin",2.3 years,BCA,IoT Smart Home
+Candidate 959,Full Stack Developer,"Jira, Android Studio, Java, Firebase, Selenium",2.9 years,MCA,"IoT Smart Home, Weather App"
+Candidate 960,Software Tester,"Kubernetes, Python, Express, Spring Boot",4.8 years,B.Tech CE,Portfolio Website
+Candidate 961,Full Stack Developer,"Jira, Android Studio, Kubernetes, Node.js, TypeScript, TensorFlow",1.3 years,B.Tech CSE,"Blockchain Wallet, ERP System"
+Candidate 962,Web Developer,"SQL, Git, TypeScript, Jira, Hibernate, Android Studio, HTML",0.6 years,B.Tech IT,"Job Portal, ChatGPT Clone"
+Candidate 963,Blockchain Developer,"API Development, Kubernetes, Firebase, Docker, React, Android Studio, TypeScript",3.2 years,B.Tech CE,"ChatGPT Clone, ERP System"
+Candidate 964,Machine Learning Engineer,"Kubernetes, Java, SQL, TensorFlow",1.2 years,B.Sc IT,"ERP System, Blockchain Wallet"
+Candidate 965,AI Engineer,"Node.js, SQL, Firebase, Docker, Jira",1.1 years,B.Tech CSE,"Ecommerce API, Weather App"
+Candidate 966,Machine Learning Engineer,"Kotlin, Express, AWS, Jira, Pandas",2.8 years,B.Tech CE,"Fake News Detection, Stock Predictor"
+Candidate 967,Backend Developer,"Pandas, TypeScript, Selenium, React, TensorFlow, CSS, Jira",2.3 years,B.Tech CSE,"Fake News Detection, Portfolio Website"
+Candidate 968,Backend Developer,"Spring Boot, API Development, Power BI, Java",1.1 years,BCA,"IoT Smart Home, Weather App"
+Candidate 969,Full Stack Developer,"Power BI, Express, Android Studio, C++, HTML, Git",1.7 years,MCA,"Fake News Detection, Ecommerce API"
+Candidate 970,Full Stack Developer,"Pandas, Jira, SQL, Python, AWS",4.5 years,BCA,"Portfolio Website, HR Dashboard"
+Candidate 971,Full Stack Developer,"SQL, Git, Kubernetes, React",2.3 years,BCA,Job Portal
+Candidate 972,Cloud Engineer,"CSS, AWS, Hibernate, SQL",4.8 years,B.Tech CSE,"Weather App, Resume Analyzer"
+Candidate 973,DevOps Engineer,"Kubernetes, Java, Power BI, HTML, Git",4.8 years,B.Tech CE,Weather App
+Candidate 974,Database Engineer,"Python, Git, SQL, C#, HTML, API Development, Kubernetes",2.1 years,B.Tech CSE,"Resume Analyzer, Weather App"
+Candidate 975,AI Engineer,"Python, NumPy, Hibernate, Java, Jira",4.7 years,B.Tech IT,"ERP System, Weather App"
+Candidate 976,Full Stack Developer,"MongoDB, Hibernate, C++, Pandas",3.0 years,B.Tech IT,"ChatGPT Clone, Fake News Detection"
+Candidate 977,Data Analyst,"API Development, TensorFlow, Jira, Python, Express",2.1 years,MCA,HR Dashboard
+Candidate 978,Data Analyst,"AWS, Pandas, Kubernetes, Git",1.7 years,B.Tech CE,Portfolio Website
+Candidate 979,Data Analyst,"AWS, Pandas, Jira, Python, Power BI",3.7 years,M.Tech AI,ChatGPT Clone
+Candidate 980,Android Developer,"Kubernetes, MongoDB, Git, Express, React, AWS",2.4 years,M.Tech AI,ERP System
+Candidate 981,Java Developer,"C#, React, Power BI, Android Studio, API Development, Pandas",0.6 years,M.Tech AI,"Resume Analyzer, Ecommerce API"
+Candidate 982,Full Stack Developer,"NumPy, TypeScript, Kotlin, Express, Git, Python",1.2 years,B.Tech CSE,Stock Predictor
+Candidate 983,Database Engineer,"Node.js, Java, Express, TensorFlow, Python, API Development, Kubernetes",1.6 years,M.Tech AI,ERP System
+Candidate 984,Software Tester,"Selenium, Spring Boot, Android Studio, Hibernate, React, NumPy, Node.js",2.1 years,B.Tech CS,Stock Predictor
+Candidate 985,Mobile App Developer,"SQL, Selenium, Python, Git",4.1 years,B.Tech CSE,Portfolio Website
+Candidate 986,Android Developer,"C++, Power BI, TypeScript, Python, Kubernetes, Node.js, Selenium",1.0 years,B.Tech CE,Ecommerce API
+Candidate 987,Cloud Engineer,"Android Studio, Hibernate, Python, Git, MongoDB",1.8 years,B.Tech CE,"Fake News Detection, ChatGPT Clone"
+Candidate 988,Backend Developer,"Git, Android Studio, NumPy, MongoDB, Pandas, Java, Kubernetes",4.3 years,B.Tech IT,Stock Predictor
+Candidate 989,Cloud Engineer,"AWS, Node.js, TensorFlow, C++, Hibernate, Git",1.5 years,B.Tech IT,Blockchain Wallet
+Candidate 990,Backend Developer,"Python, C++, Selenium, C#",1.4 years,MCA,Mobile Banking UI
+Candidate 991,AI Engineer,"Hibernate, AWS, CSS, Kotlin, C#, SQL, HTML",3.2 years,B.Tech IT,Fake News Detection
+Candidate 992,Java Developer,"API Development, SQL, HTML, Android Studio",2.1 years,B.Tech CS,Fake News Detection
+Candidate 993,Web Developer,"Power BI, TypeScript, C++, Selenium, Kubernetes",3.4 years,B.Tech CE,ChatGPT Clone
+Candidate 994,Data Analyst,"Pandas, Node.js, NumPy, Android Studio",1.3 years,MCA,Portfolio Website
+Candidate 995,Full Stack Developer,"TypeScript, MongoDB, Kotlin, Jira, Kubernetes",4.2 years,B.Tech CS,Weather App
+Candidate 996,Backend Developer,"Selenium, Android Studio, HTML, AWS, React, CSS, TensorFlow",4.5 years,B.Tech IT,"Mobile Banking UI, ERP System"
+Candidate 997,Full Stack Developer,"Power BI, Kotlin, Java, SQL",0.9 years,B.Tech CE,"Stock Predictor, ChatGPT Clone"
+Candidate 998,Android Developer,"Java, CSS, MongoDB, Node.js, Express, NumPy, React",4.9 years,MCA,"Job Portal, ChatGPT Clone"
+Candidate 999,Full Stack Developer,"Kubernetes, Firebase, MongoDB, Spring Boot, Python",3.9 years,B.Tech IT,Blockchain Wallet
+Candidate 1000,Web Developer,"C#, MongoDB, TypeScript, SQL",3.6 years,BCA,"Ecommerce API, HR Dashboard"
