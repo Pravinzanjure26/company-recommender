@@ -1,150 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Ekvue Candidate Recommendation System</title>
- <style>
+<meta charset="UTF-8">
+<title>Ekvue Candidate Recommendation System</title>
+
+<style>
   body {
-    font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     background: #eef1f6;
     padding: 40px;
-    margin: 0;
-    color: #333;
   }
 
   h1 {
     text-align: center;
     font-size: 32px;
     font-weight: 700;
-    margin-bottom: 30px;
-    color: #1a1a1a;
   }
 
   form {
-    background: #ffffff;
-    padding: 25px;
-    border-radius: 10px;
-    max-width: 800px;
-    margin: 0 auto 30px auto;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-  }
-
-  label {
-    font-size: 16px;
-    font-weight: 600;
+    background:#fff;
+    padding:25px;
+    border-radius:10px;
+    max-width:900px;
+    margin:auto;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
   }
 
   textarea {
-    width: 100%;
-    height: 120px;
-    padding: 12px;
-    font-size: 15px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    margin-top: 10px;
-    resize: vertical;
+    width:100%;
+    height:120px;
+    padding:15px;
+    font-size:15px;
+    border-radius:6px;
+  }
+
+  select, input {
+    padding:10px;
+    margin-right:10px;
+    border-radius:6px;
+    font-size:15px;
   }
 
   button {
-    margin-top: 18px;
-    padding: 12px 26px;
-    font-size: 16px;
-    font-weight: 600;
-    background: #0066ff;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: 0.2s ease;
-  }
-
-  button:hover {
-    background: #004ec7;
-  }
-
-  h2 {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 26px;
-    color: #222;
-  }
-
-  .results-container {
-    max-width: 1000px;
-    margin: 0 auto;
+    padding:12px 26px;
+    margin-top:10px;
+    font-size:16px;
+    background:#0066ff;
+    border:0;
+    border-radius:6px;
+    color:white;
+    cursor:pointer;
   }
 
   .card {
-    background: #ffffff;
-    padding: 20px;
-    margin-top: 18px;
-    border-radius: 10px;
-    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
-    border-left: 6px solid #0066ff;
-    transition: transform 0.2s ease;
+    background:#fff;
+    padding:20px;
+    border-radius:10px;
+    margin:15px auto;
+    max-width:900px;
+    box-shadow:0 3px 8px rgba(0,0,0,0.1);
+    border-left:6px solid #0066ff;
   }
 
-  .card:hover {
-    transform: translateY(-3px);
+  .error {
+    text-align:center;
+    margin-top:20px;
+    font-size:18px;
+    color:red;
+    font-weight:bold;
   }
 
-  .card h3 {
-    font-size: 22px;
-    margin-bottom: 10px;
-    color: #111;
-  }
-
-  .card p {
-    margin: 6px 0;
-    font-size: 15px;
-  }
-
-  .score {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #0b6b22;
+  .metrics-box {
+    background:#fff;
+    padding:20px;
+    border-radius:10px;
+    margin:20px auto;
+    max-width:500px;
+    text-align:center;
+    box-shadow:0 3px 8px rgba(0,0,0,0.1);
   }
 </style>
-
 </head>
+
 <body>
-  <h1>🏢Ekvue Candidate Recommendation System</h1>
 
-  <form method="POST">
-    <label for="job_description"><strong>Enter required skills / job description:</strong></label><br><br>
-    <textarea id="job_description" name="job_description"
-      placeholder="e.g. machine learning, python, tableau, 1–2 years experience">{{ query }}</textarea>
-    <br><br>
-    <button type="submit">Recommend Candidates</button>
-  </form>
+<h1>🏢 Ekvue Candidate Recommendation System</h1>
+
+<form method="POST">
+  <label><strong>Enter Job Description / Required Skills:</strong></label>
+  <textarea name="job_description" placeholder="Example: Python, Machine Learning, React, 3 years experience">{{ query }}</textarea>
+  <br><br>
+
+  <label>Algorithm:</label>
+  <select name="model">
+    <option value="tfidf" {% if model=='tfidf' %}selected{% endif %}>
+      TF-IDF (Semantic Similarity)
+    </option>
+    <option value="bow" {% if model=='bow' %}selected{% endif %}>
+      Bag-of-Words (Keyword Match)
+    </option>
+    <option value="rf" {% if model=='rf' %}selected{% endif %}>
+      Random Forest (Experience Weighted)
+    </option>
+    <option value="nb" {% if model=='nb' %}selected{% endif %}>
+      Naive Bayes (Skill Probability)
+    </option>
+    <option value="dt" {% if model=='dt' %}selected{% endif %}>
+      Decision Tree (Rule-Based)
+    </option>
+  </select>
+
+  <label>Top N:</label>
+  <input type="number" name="top_n" value="{{ top_n }}" min="1" max="20">
+
+  <button type="submit">Recommend Candidates</button>
+</form>
+
+{% if error_msg %}
+  <p class="error">⚠ {{ error_msg }}</p>
+{% endif %}
+
 {% if recommendations %}
-  <h2>Top Recommended Candidates</h2>
+<h2 style="text-align:center;margin-top:30px;">🎯 Top Recommended Candidates</h2>
 
-  <div class="results-container">
-  {% for cand in recommendations %}
-    <div class="card">
-      <h3>⭐ {{ cand.name }}</h3>
+{% if accuracy_scores and model in ['rf','nb','dt'] %}
+<div class="metrics-box">
+  <h3>📊 Model Performance ({{ model.upper() }})</h3>
+  <p><strong>Accuracy:</strong> {{ (accuracy_scores[model].accuracy * 100) | round(2) }}%</p>
+  <p><strong>Precision:</strong> {{ (accuracy_scores[model].precision * 100) | round(2) }}%</p>
+  <p><strong>Recall:</strong> {{ (accuracy_scores[model].recall * 100) | round(2) }}%</p>
+  <p><strong>F1 Score:</strong> {{ (accuracy_scores[model].f1 * 100) | round(2) }}%</p>
+</div>
+{% endif %}
+{% for cand in recommendations %}
+<div class="card">
+  <h3>⭐ {{ cand.name }}</h3>
 
-      <p><strong>Gender:</strong> {{ cand.gender }}</p>
-      <p><strong>Age:</strong> {{ cand.age }}</p>
-      <p><strong>Email:</strong> {{ cand.email }}</p>
-      <p><strong>Domain:</strong> {{ cand.domain }}</p>
-      <p><strong>Skills:</strong> {{ cand.skills }}</p>
-      <p><strong>Experience:</strong> {{ cand.experience }}</p>
+  <p><strong>Domain:</strong> {{ cand.domain }}</p>
+  <p><strong>Skills:</strong> {{ cand.skills }}</p>
+  <p><strong>Experience:</strong> {{ cand.experience }}</p>
+  <p><strong>Projects:</strong> {{ cand.projects }}</p>
 
-      <p class="score">
-        <strong>Match Score:</strong> {{ (cand.match_score * 100) | round(2) }}%
-      </p>
-    </div>
-  {% endfor %}
-  </div>
+  <p style="color:#0b6b22;">
+    <strong>Match Score:</strong>
+    {{ (cand.match_score * 100) | round(2) }}%
+  </p>
+</div>
+{% endfor %}
 
 
-
-
-  {% elif query %}
-    <p>No candidates found for this query. Try using broader skills or different keywords.</p>
-  {% endif %}
+{% if graph_path %}
+<div style="text-align:center;margin-top:20px;">
+  <img src="{{ graph_path }}" width="620">
+</div>
+{% endif %}
+{% endif %}
 
 </body>
 </html>
