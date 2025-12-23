@@ -5,15 +5,26 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET", "POST"])
 def index():
-    query = ""
     recommendations = []
+    graph_path = None
+    model = "tfidf"
+    top_n = 5
 
     if request.method == "POST":
-        query = request.form.get("job_description", "")
-        if query.strip():
-            recommendations = recommend(query, top_n=5)
+        job = request.form["job_description"]
+        model = request.form["model"]
+        top_n = int(request.form["top_n"])
 
-    return render_template("index.html", query=query, recommendations=recommendations)
+        recommendations, graph_path, _ = recommend(job, top_n, model)
+
+    return render_template(
+        "index.html",
+        recommendations=recommendations,
+        graph_path=graph_path,
+        model=model,
+        top_n=top_n
+    )
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)
+
