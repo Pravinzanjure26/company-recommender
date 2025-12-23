@@ -11,6 +11,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ---------------- LOAD DATA ----------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# ✅ CREATE STATIC DIRECTORY (CRITICAL FOR RENDER)
+STATIC_DIR = os.path.join(BASE_DIR, "static")
+os.makedirs(STATIC_DIR, exist_ok=True)
+
 df = pd.read_csv(os.path.join(BASE_DIR, "candidate_dataset_enriched.csv"))
 
 # ---------------- CLEAN EXPERIENCE ----------------
@@ -88,7 +93,7 @@ def recommend(job_desc, top_n=5, model="tfidf", show_graph=True, save_graph=True
             tfidf.transform([job_desc]), tfidf_matrix
         )[0]
 
-    # ✅ NORMALIZE
+    # ✅ NORMALIZE (0–1)
     scores = normalize(scores)
 
     # ---------------- SORT ----------------
@@ -107,7 +112,9 @@ def recommend(job_desc, top_n=5, model="tfidf", show_graph=True, save_graph=True
 
         fname = f"graph_{uuid.uuid4().hex}.png"
         graph_path = f"static/{fname}"
-        plt.savefig(os.path.join(BASE_DIR, graph_path))
+
+        # ✅ SAVE SAFELY IN STATIC DIR
+        plt.savefig(os.path.join(STATIC_DIR, fname))
         plt.close()
 
     # ---------------- FINAL OUTPUT ----------------
